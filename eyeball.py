@@ -16,12 +16,14 @@ def scrape_metrics():
     table_rows = tree.xpath('//tr')
     return table_rows
 
-def make_archive(archive_file):
-    """Make an archive file if you don't have one already."""
+def make_archive(archive_file, refresh=False):
+    """Make initial archive, or refresh the archive after script runs."""
 
     archive = Path(archive_file)
-    if not archive.is_file():
-        make_comparator(archive_file)
+    if refresh or (not archive.is_file()):
+        with open(archive_file, 'w') as f:
+            for line in make_comparator():
+                f.write(line)
 
 def make_comparator():
     """Coerce scraped table into format needed by difflib (list of
@@ -74,10 +76,15 @@ def compare_files(archive_file):
         if parent_agency.startswith('+'):
             if agency == changed_agency:
                 delta = int(record_count) - int(old_value)
-                action = 'added' if delta > 0 else 'deleted'
-                print('%s records from %s %s' % (abs(delta), agency, action))
-                diff_count += 1
+                if delta:
+                    action = 'added' if delta > 0 else 'deleted'
+                    if 'no publisher' in agency.lower():
+                        agency = parent_agency.lstrip('+ ')
+                    print('%s records from %s %s' % (abs(delta), agency, action))
+                    diff_count += 1
 
     if not diff_count:
         print('No changes to report')
+
+    make_archive(archive_file, refresh=True)
 

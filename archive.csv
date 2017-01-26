@@ -14,7 +14,7 @@ Department of Defense,National Geospatial-Intelligence Agency,3,11/17/2015
 Department of Education,Department of Education,331,01/05/2017
 Department of Energy,Department of Energy,1427,01/19/2017
 Department of Energy,Department/Agency level/No publisher,1,11/30/2016
-Department of Health and Human Services,Department of Health and Human Services,1985,01/19/2017
+Department of Health and Human Services,Department of Health and Human Services,1985,01/24/2017
 Department of Health and Human Services,Centers for Medicare and Medicaid Services,1,01/12/2014
 Department of Health and Human Services,Department/Agency level/No publisher,27,01/06/2017
 Department of Health and Human Services,National Institutes of Health,2,06/17/2014
@@ -29,7 +29,7 @@ Department of Labor,Department of Labor,396,01/11/2017
 Department of Labor,Department/Agency level/No publisher,10,01/11/2017
 Department of State,Department of State,135,04/23/2016
 Department of State,Department/Agency level/No publisher,27,12/16/2015
-Department of the Interior,Department of the Interior,38061,01/19/2017
+Department of the Interior,Department of the Interior,38068,01/25/2017
 Department of the Interior,Bureau of Indian Education,1,01/12/2014
 Department of the Interior,Bureau of Land Management,95,09/01/2016
 Department of the Interior,Bureau of Ocean Energy Management,85,01/19/2017
@@ -38,15 +38,15 @@ Department of the Interior,Federal Geographic Data Committee,13,08/02/2016
 Department of the Interior,National Park Service,1417,10/20/2016
 Department of the Interior,Office of Hearings and Appeals,1,01/12/2014
 Department of the Interior,Office of the Solicitor,1,01/12/2014
-Department of the Interior,U.S. Geological Survey,6257,01/19/2017
+Department of the Interior,U.S. Geological Survey,6257,01/25/2017
 Department of the Interior,US Bureau of Reclamation,13,08/19/2015
-Department of the Interior,US Fish and Wildlife Service,30170,01/13/2017
+Department of the Interior,US Fish and Wildlife Service,30177,01/24/2017
 Department of the Treasury,Department of the Treasury,253,11/23/2016
 Department of Transportation,Department of Transportation,825,11/30/2016
 Department of Transportation,Department/Agency level/No publisher,146,11/30/2016
 Department of Veterans Affairs,Department of Veterans Affairs,764,11/30/2016
-Environmental Protection Agency,Environmental Protection Agency,2077,01/19/2017
-Environmental Protection Agency,Department/Agency level/No publisher,1522,01/19/2017
+Environmental Protection Agency,Environmental Protection Agency,2088,01/25/2017
+Environmental Protection Agency,Department/Agency level/No publisher,1531,01/25/2017
 General Services Administration,General Services Administration,111,01/09/2017
 National Aeronautics and Space Administration,National Aeronautics and Space Administration,15379,10/22/2016
 National Archives and Records Administration,National Archives and Records Administration,48,05/28/2016
@@ -56,7 +56,7 @@ Office of Personnel Management,Office of Personnel Management,186,09/12/2015
 Small Business Administration,Small Business Administration,78,11/22/2016
 Social Security Administration,Social Security Administration,948,01/05/2017
 Social Security Administration,Department/Agency level/No publisher,6,10/29/2016
-US Agency for International Development,US Agency for International Development,174,01/18/2017
+US Agency for International Development,US Agency for International Development,174,01/25/2017
 Commodity Futures Trading Commission,Commodity Futures Trading Commission,3,01/12/2014
 Consumer Financial Protection Bureau,Consumer Financial Protection Bureau,2,09/26/2015
 Corporation for National and Community Service,Corporation for National and Community Service,3,01/12/2014
@@ -77,7 +77,7 @@ Federal Reserve Board,Federal Reserve Board,5,01/12/2014
 Federal Trade Commission,Federal Trade Commission,6,05/20/2014
 Institute of Museum and Library Services,Institute of Museum and Library Services,42,03/13/2015
 Merit Systems Protection Board,Merit Systems Protection Board,3,01/12/2014
-Millenium Challenge Corporation,Millenium Challenge Corporation,125,01/19/2017
+Millenium Challenge Corporation,Millenium Challenge Corporation,125,01/25/2017
 National Capital Planning Commission,National Capital Planning Commission,4,10/09/2014
 National Endowment for the Humanities,National Endowment for the Humanities,8,01/05/2017
 National Labor Relations Board,National Labor Relations Board,56,01/12/2014
