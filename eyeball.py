@@ -65,6 +65,8 @@ def compare_files(archive_file):
     old_value = None
     diff_count = 0
 
+    logger = csv.writer(open('log.csv', 'a'))
+
     for line in diffs:
         fields = tuple(line.split(','))
         if len(fields) != 4:
@@ -81,6 +83,8 @@ def compare_files(archive_file):
                     if 'no publisher' in agency.lower():
                         agency = parent_agency.lstrip('+ ')
                     print('%s records from %s %s' % (abs(delta), agency, action))
+                    logger.writerow([parent_agency.lstrip('+ '), agency, 
+                                     delta, last_updated.rstrip('\n')])
                     diff_count += 1
 
     if not diff_count:
