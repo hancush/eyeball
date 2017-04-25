@@ -65,7 +65,7 @@ def compare_files(archive_file):
     old_value = None
     diff_count = 0
 
-    logger = csv.writer(open('log.csv', 'a'))
+    logger = csv.writer(open('output/log.csv', 'a'))
 
     for line in diffs:
         fields = tuple(line.split(','))
