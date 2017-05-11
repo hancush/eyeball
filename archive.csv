@@ -38,7 +38,7 @@ Department of Agriculture,United States Department of Agriculture,2,02/07/2017
 Department of Agriculture,US Forest Service Department of Agriculture,88,04/24/2017
 Department of Agriculture,USDA Economic Research Service,1,02/07/2017
 Department of Agriculture,USDA-GIPSA,5,02/07/2017
-Department of Commerce,Department of Commerce,36653,05/04/2017
+Department of Commerce,Department of Commerce,73159,05/10/2017
 Department of Commerce,(),2,-
 Department of Commerce,(Point of Contact),12,02/16/2017
 Department of Commerce,(Point of Contact); Penn State University (Principal Investigator); Temple University College of Science and Technology (Principal Investigator),1,02/26/2016
@@ -80,7 +80,7 @@ Department of Commerce,International Trade Administration Department of Commerce
 Department of Commerce,National Institute of Standards and Technology,143,04/14/2017
 Department of Commerce,National Marine Mammal Laboratory (Point of Contact),1,02/26/2016
 Department of Commerce,National Oceanic and Atmospheric Administration,4,02/26/2016
-Department of Commerce,National Oceanic and Atmospheric Administration,34388,04/24/2017
+Department of Commerce,National Oceanic and Atmospheric Administration,70886,04/24/2017
 Department of Commerce,National Snow and Ice Data Center (Point of Contact),3,02/16/2017
 Department of Commerce,National Snow and Ice Data Center (Point of Contact); National Weather Service (Principal Investigator),1,02/26/2016
 Department of Commerce,National Snow and Ice Data Center (Point of Contact); US Department of Transportation Maritime Administration (Principal Investigator),1,02/26/2016
@@ -125,7 +125,7 @@ Department of Commerce,University of Minnesota National Lacustrine Core Reposito
 Department of Commerce,University of Rhode Island (URI) Graduate School of Oceanography (GSO) Marine Geological Samples Laboratory (MGSL) (Point of Contact),1,02/26/2016
 Department of Commerce,University of Washington (Principal Investigator); National Snow and Ice Data Center (Point of Contact),1,02/26/2016
 Department of Commerce,US Census Burea Dept of Commerce,1,07/15/2016
-Department of Commerce,US Census Bureau,669,05/04/2017
+Department of Commerce,US Census Bureau,677,05/10/2017
 Department of Commerce,US Census Bureau,1,02/16/2017
 Department of Commerce,US Census Bureau Department of Commerce,182,02/16/2017
 Department of Commerce,US Census Bureau Dept of Commerce,6,02/16/2017
@@ -168,7 +168,7 @@ Department of Education,Office of Vocational and Adult Education,15,01/30/2017
 Department of Education,Operations Performance Division,1,01/30/2017
 Department of Education,Program Compliance School Participation Division,1,01/30/2017
 Department of Education,U.S. Department of Education,14,01/30/2017
-Department of Energy,Department of Energy,1458,05/04/2017
+Department of Energy,Department of Energy,1459,05/10/2017
 Department of Energy,AltaRock Energy Inc,10,11/30/2016
 Department of Energy,Argonne National Laboratory,10,11/30/2016
 Department of Energy,Arizona State Geological Survey,1,11/30/2016
@@ -187,7 +187,7 @@ Department of Energy,Department of Energy Office of Legacy Management Technical 
 Department of Energy,Department/Agency level/No publisher,1,11/30/2016
 Department of Energy,Dept. of Geological Sciences University of Oregon,2,11/30/2016
 Department of Energy,District Energy Corporation,3,11/30/2016
-Department of Energy,DOE,29,04/27/2017
+Department of Energy,DOE,29,05/09/2017
 Department of Energy,DOE Argonne National Laboratory,1,06/15/2016
 Department of Energy,DOE ARPA-E,2,05/07/2016
 Department of Energy,DOE Congressional and Intergovernmental Affairs,2,10/10/2015
@@ -199,8 +199,8 @@ Department of Energy,DOE Inspector General,1,10/10/2015
 Department of Energy,DOE Intelligence and Counterintelligence,1,05/07/2016
 Department of Energy,DOE International Affairs,1,10/10/2015
 Department of Energy,DOE Loan Programs Office,2,05/07/2016
-Department of Energy,DOE National Renewable Energy Laboratory,9,04/27/2017
-Department of Energy,DOE Nuclear Energy,1,05/20/2016
+Department of Energy,DOE National Renewable Energy Laboratory,9,05/09/2017
+Department of Energy,DOE Nuclear Energy,1,05/09/2017
 Department of Energy,DOE Oak Ridge National Laboratory,2,04/24/2017
 Department of Energy,DOE Offfice of General Council,2,11/25/2015
 Department of Energy,DOE Office of Chief Financial Officer,1,10/10/2015
@@ -208,16 +208,16 @@ Department of Energy,DOE Office of Chief Human Capital Officer,1,10/10/2015
 Department of Energy,DOE Office of Chief Information Officer,2,05/07/2016
 Department of Energy,DOE Office of Energy Efficiency and Renewable Energy,3,07/26/2016
 Department of Energy,DOE Office of Legacy Management,4,11/25/2015
-Department of Energy,DOE Office of Nuclear Energy,2,05/07/2016
-Department of Energy,DOE Office of Science,1,05/07/2016
-Department of Energy,DOE Office of Science and Technical Information,1,11/17/2015
-Department of Energy,DOE Office of Scientific and Technical Information,5,11/17/2015
+Department of Energy,DOE Office of Nuclear Energy,2,05/09/2017
+Department of Energy,DOE Office of Science,1,05/09/2017
+Department of Energy,DOE Office of Science and Technical Information,1,05/09/2017
+Department of Energy,DOE Office of Scientific and Technical Information,5,05/09/2017
 Department of Energy,DOE Public Affairs,1,10/10/2015
 Department of Energy,DOE Small and Disadvantaged Business Utilization,1,05/07/2016
 Department of Energy,DOE/Environmental Management Consolidated Business Center,1,10/10/2015
 Department of Energy,DOE/Oak Ridge National Laboratory,1,04/24/2017
-Department of Energy,DOE/Office of Environmental Management,6,07/26/2016
-Department of Energy,DOE/Office of Fossil Energy,5,11/16/2016
+Department of Energy,DOE/Office of Environmental Management,6,05/09/2017
+Department of Energy,DOE/Office of Fossil Energy,5,05/09/2017
 Department of Energy,DOE/Office of Hearings and Appeals,1,10/10/2015
 Department of Energy,DOE/Richland Operations and the Office of River Protection,2,10/10/2015
 Department of Energy,ElectraTherm Inc.,16,11/30/2016
@@ -234,7 +234,7 @@ Department of Energy,Honeywell International Inc.,1,11/30/2016
 Department of Energy,Idaho National Laboratory,12,04/25/2017
 Department of Energy,Impact Technologies LLC,3,02/23/2017
 Department of Energy,Lawrence Berkeley National Laboratory,9,11/30/2016
-Department of Energy,Lawrence Livermore National Laboratory,39,04/20/2017
+Department of Energy,Lawrence Livermore National Laboratory,39,05/09/2017
 Department of Energy,Los Alamos National Laboratory,3,11/30/2016
 Department of Energy,National Energy Technology Laboratory,9,04/20/2017
 Department of Energy,National Energy Technology Laboratory (NETL),5,11/30/2016
@@ -262,12 +262,12 @@ Department of Energy,Office of Information Resources,1,03/30/2017
 Department of Energy,Office of Small and Disadvantaged Business Utilization (OSDBU),4,01/19/2017
 Department of Energy,Oregon State University,5,02/23/2017
 Department of Energy,Ormat Nevada Inc,17,04/13/2017
-Department of Energy,Oski Energy LLC,12,11/30/2016
+Department of Energy,Oski Energy LLC,12,05/09/2017
 Department of Energy,Pacific Northwest National Laboratory,15,02/10/2017
 Department of Energy,Ram Power Inc.,3,11/30/2016
 Department of Energy,Regents of the University University of California,1,11/30/2016
-Department of Energy,Resolute Marine Energy Inc.,2,03/12/2017
-Department of Energy,Sandia National Laboratories,63,02/23/2017
+Department of Energy,Resolute Marine Energy Inc.,2,05/09/2017
+Department of Energy,Sandia National Laboratories,64,05/10/2017
 Department of Energy,Simbol Inc,1,11/30/2016
 Department of Energy,SmartGrid.gov,2,05/20/2016
 Department of Energy,SMU Geothermal Laboratory,1,11/30/2016
@@ -296,15 +296,15 @@ Department of Energy,Utah State University,11,11/30/2016
 Department of Energy,Washington Division of Geology and Earth Resources,1,11/30/2016
 Department of Energy,Wind Powering America,1,08/21/2015
 Department of Energy,Wright State University,6,11/30/2016
-Department of Health and Human Services,Department of Health and Human Services,1823,05/04/2017
+Department of Health and Human Services,Department of Health and Human Services,1823,05/10/2017
 Department of Health and Human Services,Administration for Children and Families,5,04/29/2017
 Department of Health and Human Services,Administration for Children and Families Department of Health & Human Services,2,04/29/2017
-Department of Health and Human Services,Centers for Disease Control and Prevention,490,05/05/2017
-Department of Health and Human Services,Centers for Disease Control and Prevention Department of Health & Human Services,48,05/05/2017
+Department of Health and Human Services,Centers for Disease Control and Prevention,490,05/10/2017
+Department of Health and Human Services,Centers for Disease Control and Prevention Department of Health & Human Services,48,05/10/2017
 Department of Health and Human Services,Centers for Medicare & Medicaid Services,610,04/29/2017
 Department of Health and Human Services,Centers for Medicare & Medicaid Services Department of Health & Human Services,4,04/17/2017
 Department of Health and Human Services,Centers for Medicare and Medicaid Services,1,01/12/2014
-Department of Health and Human Services,Department of Health & Human Services,415,05/05/2017
+Department of Health and Human Services,Department of Health & Human Services,415,05/10/2017
 Department of Health and Human Services,Department/Agency level/No publisher,22,12/07/2016
 Department of Health and Human Services,Health Resources and Services Administration Department of Health & Human Services,8,04/17/2017
 Department of Health and Human Services,National Institutes of Health,2,06/17/2014
@@ -372,10 +372,10 @@ Department of Labor,U.S. Department of Labor Office of Workers’ Compensation P
 Department of Labor,U.S. Department of Labor Wage and Hour Division,10,03/01/2017
 Department of Labor,U.S. Department of Labor Bureau of Labor Statistics,32,03/08/2017
 Department of Labor,Wage and Hour Division,3,03/01/2017
-Department of State,Department of State,127,04/23/2016
-Department of State,Department/Agency level/No publisher,19,12/16/2015
+Department of State,Department of State,119,04/23/2016
+Department of State,Department/Agency level/No publisher,11,12/16/2015
 Department of State,U.S. Department of State,108,04/23/2016
-Department of the Interior,Department of the Interior,39524,05/04/2017
+Department of the Interior,Department of the Interior,39417,05/10/2017
 Department of the Interior,Bureau of Indian Affairs,1,04/10/2014
 Department of the Interior,Bureau of Indian Education,1,01/12/2014
 Department of the Interior,Bureau of Land Management,95,09/01/2016
@@ -387,9 +387,9 @@ Department of the Interior,National Park Service,1417,04/24/2017
 Department of the Interior,Office of Hearings and Appeals,1,01/12/2014
 Department of the Interior,Office of the Solicitor,1,01/12/2014
 Department of the Interior,Southwestern Indian Polytechnic Institute,1,04/10/2014
-Department of the Interior,U.S. Geological Survey,6565,05/04/2017
+Department of the Interior,U.S. Geological Survey,6459,05/10/2017
 Department of the Interior,US Bureau of Reclamation,14,03/02/2017
-Department of the Interior,US Fish and Wildlife Service,31314,05/04/2017
+Department of the Interior,US Fish and Wildlife Service,31313,05/09/2017
 Department of the Treasury,Department of the Treasury,260,02/24/2017
 Department of the Treasury,Bureau of Engraving and Printing,1,03/29/2016
 Department of the Treasury,Bureau of the Fiscal Service,82,02/24/2017
@@ -443,12 +443,12 @@ Department of Veterans Affairs,Department of Veterans Affairs,794,02/13/2017
 Department of Veterans Affairs,Environmental Protection Agency,1,10/30/2015
 Department of Veterans Affairs,Office of General Counsel,2,02/13/2017
 Department of Veterans Affairs,Office of Management,1,05/21/2015
-Environmental Protection Agency,Environmental Protection Agency,2250,05/04/2017
+Environmental Protection Agency,Environmental Protection Agency,2255,05/10/2017
 Environmental Protection Agency,Air Protection Division,1,03/14/2017
-Environmental Protection Agency,Department/Agency level/No publisher,1577,05/04/2017
+Environmental Protection Agency,Department/Agency level/No publisher,1577,05/10/2017
 Environmental Protection Agency,Environmental Protection Agency,7,05/05/2017
 Environmental Protection Agency,Land and Chemicals Division,1,08/10/2016
-Environmental Protection Agency,U.S. Environmental Protection Agency,69,05/05/2017
+Environmental Protection Agency,U.S. Environmental Protection Agency,69,05/09/2017
 Environmental Protection Agency,U.S. Environmental Protection Agency Office of Air and Radiation,1,05/03/2017
 Environmental Protection Agency,U.S. Environmental Protection Agency Office of Environmental Information Office of Information Collection,3,05/05/2017
 Environmental Protection Agency,U.S. Environmental Protection Agency Region 1,1,03/29/2017
@@ -470,7 +470,7 @@ Environmental Protection Agency,U.S. EPA Office of Environmental Information (OE
 Environmental Protection Agency,U.S. EPA Office of Environmental Information (OEI) – Office of Information Analysis and Access (OIAA),1,03/14/2017
 Environmental Protection Agency,U.S. EPA Office of Environmental Information (OEI) – Office of Information Collection (OIC),1,03/14/2017
 Environmental Protection Agency,U.S. EPA Office of General Counsel (OGC),3,11/08/2016
-Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),314,05/05/2017
+Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),316,05/09/2017
 Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD) – National Center for Computational Toxicology (NCCT),7,03/03/2017
 Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD) – National Center for Environmental Assessment (NCEA),3,03/03/2017
 Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD) – National Exposure Research Laboratory (NERL),2,03/03/2017
@@ -483,7 +483,7 @@ Environmental Protection Agency,U.S. EPA Office of Water (OW) – Office of Scie
 Environmental Protection Agency,U.S. EPA Office of Water (OW) – Office of Wastewater Management (OWM),6,03/03/2017
 Environmental Protection Agency,U.S. EPA Office of Water (OW) – Office of Wetlands Oceans and Watersheds (OWOW),21,03/03/2017
 Environmental Protection Agency,U.S. EPA Region 5 Water Division Water Quality Branch,1,08/11/2016
-Environmental Protection Agency,US Environmental Protection Agency,2,05/05/2017
+Environmental Protection Agency,US Environmental Protection Agency,2,05/09/2017
 General Services Administration,General Services Administration,108,04/19/2017
 General Services Administration,General Services Administration,96,04/19/2017
 General Services Administration,Office of the Chief Technology Officer,1,12/03/2016
@@ -562,7 +562,7 @@ Executive Office of the President,Office of National Drug Control Policy,1,01/12
 Executive Office of the President,Office of Science and Technology Policy,6,01/12/2014
 Executive Office of the President,US Trade Representative,17,01/12/2014
 Executive Office of the President,White House,4,01/12/2014
-Federal Communications Commission,Federal Communications Commission,8,04/27/2017
+Federal Communications Commission,Federal Communications Commission,8,05/05/2017
 Federal Communications Commission,opendata.fcc.gov,8,05/05/2017
 Federal Deposit Insurance Corporation,Federal Deposit Insurance Corporation,3,01/12/2014
 Federal Election Commission,Federal Election Commission,4,01/12/2014

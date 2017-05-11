@@ -1,20 +1,22 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,1453
-Department of the Interior,US Fish and Wildlife Service,1137
-Department of the Interior,U.S. Geological Survey,306
+Department of the Interior,Department of the Interior,1346
+Department of the Interior,US Fish and Wildlife Service,1136
+Department of the Interior,U.S. Geological Survey,200
 Department of Veterans Affairs,Department of Veterans Affairs,38
 Institute of Museum and Library Services,Institute of Museum and Library Services,36
 Department of Transportation,Department of Transportation,14
+Department of Commerce,National Oceanic and Atmospheric Administration,10
 Department of the Interior,Bureau of Ocean Energy Management,9
 Social Security Administration,Social Security Administration,9
 Department of the Treasury,Department of the Treasury,7
 National Endowment for the Humanities,National Endowment for the Humanities,6
+Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),5
 Federal Communications Commission,Federal Communications Commission,4
 Millenium Challenge Corporation,Millenium Challenge Corporation,4
-Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),3
 Small Business Administration,Small Business Administration,2
 Department of Education,Department of Education,1
 Railroad Retirement Board,Railroad Retirement Board,1
+Department of Energy,Sandia National Laboratories,1
 Department of the Interior,US Bureau of Reclamation,1
 Department of the Interior,Federal Geographic Data Committee,0
 Department of Agriculture,Farm Service Agency,-1
@@ -23,13 +25,12 @@ National Science Foundation,National Science Foundation,-2
 Pension Benefit Guaranty Corporation,Pension Benefit Guaranty Corporation,-2
 General Services Administration,General Services Administration,-3
 Nuclear Regulatory Commission,Nuclear Regulatory Commission,-3
-Department of State,Department of State,-16
 Executive Office of the President,Executive Office of the President,-27
+Department of State,Department of State,-32
 Department of Agriculture,Department of Agriculture,-70
 Department of Health and Human Services,Department of Health and Human Services,-141
-Department of Commerce,US Census Bureau,-646
+Department of Commerce,US Census Bureau,-638
 Department of Justice,Department of Justice,-696
-Department of Energy,Department of Energy,-1418
-Environmental Protection Agency,Environmental Protection Agency,-2039
-Department of Commerce,National Oceanic and Atmospheric Administration,-36488
-Department of Commerce,Department of Commerce,-73103
+Department of Energy,Department of Energy,-1417
+Environmental Protection Agency,Environmental Protection Agency,-2034
+Department of Commerce,Department of Commerce,-36597
