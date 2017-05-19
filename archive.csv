@@ -38,7 +38,7 @@ Department of Agriculture,United States Department of Agriculture,2,02/07/2017
 Department of Agriculture,US Forest Service Department of Agriculture,88,04/24/2017
 Department of Agriculture,USDA Economic Research Service,1,02/07/2017
 Department of Agriculture,USDA-GIPSA,5,02/07/2017
-Department of Commerce,Department of Commerce,73165,05/13/2017
+Department of Commerce,Department of Commerce,73166,05/17/2017
 Department of Commerce,(),2,-
 Department of Commerce,(Point of Contact),12,02/16/2017
 Department of Commerce,(Point of Contact); Penn State University (Principal Investigator); Temple University College of Science and Technology (Principal Investigator),1,02/26/2016
@@ -125,7 +125,7 @@ Department of Commerce,University of Minnesota National Lacustrine Core Reposito
 Department of Commerce,University of Rhode Island (URI) Graduate School of Oceanography (GSO) Marine Geological Samples Laboratory (MGSL) (Point of Contact),1,02/26/2016
 Department of Commerce,University of Washington (Principal Investigator); National Snow and Ice Data Center (Point of Contact),1,02/26/2016
 Department of Commerce,US Census Burea Dept of Commerce,1,07/15/2016
-Department of Commerce,US Census Bureau,684,05/13/2017
+Department of Commerce,US Census Bureau,685,05/17/2017
 Department of Commerce,US Census Bureau,1,02/16/2017
 Department of Commerce,US Census Bureau Department of Commerce,182,02/16/2017
 Department of Commerce,US Census Bureau Dept of Commerce,6,02/16/2017
@@ -296,15 +296,15 @@ Department of Energy,Utah State University,11,11/30/2016
 Department of Energy,Washington Division of Geology and Earth Resources,1,11/30/2016
 Department of Energy,Wind Powering America,1,08/21/2015
 Department of Energy,Wright State University,6,11/30/2016
-Department of Health and Human Services,Department of Health and Human Services,1823,05/11/2017
+Department of Health and Human Services,Department of Health and Human Services,1823,05/17/2017
 Department of Health and Human Services,Administration for Children and Families,5,04/29/2017
 Department of Health and Human Services,Administration for Children and Families Department of Health & Human Services,2,04/29/2017
-Department of Health and Human Services,Centers for Disease Control and Prevention,490,05/11/2017
-Department of Health and Human Services,Centers for Disease Control and Prevention Department of Health & Human Services,48,05/11/2017
+Department of Health and Human Services,Centers for Disease Control and Prevention,490,05/17/2017
+Department of Health and Human Services,Centers for Disease Control and Prevention Department of Health & Human Services,48,05/17/2017
 Department of Health and Human Services,Centers for Medicare & Medicaid Services,610,04/29/2017
 Department of Health and Human Services,Centers for Medicare & Medicaid Services Department of Health & Human Services,4,04/17/2017
 Department of Health and Human Services,Centers for Medicare and Medicaid Services,1,01/12/2014
-Department of Health and Human Services,Department of Health & Human Services,415,05/11/2017
+Department of Health and Human Services,Department of Health & Human Services,415,05/17/2017
 Department of Health and Human Services,Department/Agency level/No publisher,22,12/07/2016
 Department of Health and Human Services,Health Resources and Services Administration Department of Health & Human Services,8,04/17/2017
 Department of Health and Human Services,National Institutes of Health,2,06/17/2014
@@ -375,7 +375,7 @@ Department of Labor,Wage and Hour Division,3,03/01/2017
 Department of State,Department of State,119,04/23/2016
 Department of State,Department/Agency level/No publisher,11,12/16/2015
 Department of State,U.S. Department of State,108,04/23/2016
-Department of the Interior,Department of the Interior,39428,05/13/2017
+Department of the Interior,Department of the Interior,39437,05/17/2017
 Department of the Interior,Bureau of Indian Affairs,1,04/10/2014
 Department of the Interior,Bureau of Indian Education,1,01/12/2014
 Department of the Interior,Bureau of Land Management,95,09/01/2016
@@ -387,9 +387,9 @@ Department of the Interior,National Park Service,1417,04/24/2017
 Department of the Interior,Office of Hearings and Appeals,1,01/12/2014
 Department of the Interior,Office of the Solicitor,1,01/12/2014
 Department of the Interior,Southwestern Indian Polytechnic Institute,1,04/10/2014
-Department of the Interior,U.S. Geological Survey,6464,05/13/2017
+Department of the Interior,U.S. Geological Survey,6463,05/17/2017
 Department of the Interior,US Bureau of Reclamation,14,03/02/2017
-Department of the Interior,US Fish and Wildlife Service,31319,05/12/2017
+Department of the Interior,US Fish and Wildlife Service,31329,05/17/2017
 Department of the Treasury,Department of the Treasury,260,02/24/2017
 Department of the Treasury,Bureau of Engraving and Printing,1,03/29/2016
 Department of the Treasury,Bureau of the Fiscal Service,82,02/24/2017
@@ -443,10 +443,10 @@ Department of Veterans Affairs,Department of Veterans Affairs,794,02/13/2017
 Department of Veterans Affairs,Environmental Protection Agency,1,10/30/2015
 Department of Veterans Affairs,Office of General Counsel,2,02/13/2017
 Department of Veterans Affairs,Office of Management,1,05/21/2015
-Environmental Protection Agency,Environmental Protection Agency,2253,05/11/2017
+Environmental Protection Agency,Environmental Protection Agency,2279,05/15/2017
 Environmental Protection Agency,Air Protection Division,1,03/14/2017
-Environmental Protection Agency,Department/Agency level/No publisher,1575,05/11/2017
-Environmental Protection Agency,Environmental Protection Agency,7,05/11/2017
+Environmental Protection Agency,Department/Agency level/No publisher,1601,05/15/2017
+Environmental Protection Agency,Environmental Protection Agency,7,05/15/2017
 Environmental Protection Agency,Land and Chemicals Division,1,08/10/2016
 Environmental Protection Agency,U.S. Environmental Protection Agency,69,05/11/2017
 Environmental Protection Agency,U.S. Environmental Protection Agency Office of Air and Radiation,1,05/03/2017
@@ -466,7 +466,7 @@ Environmental Protection Agency,U.S. EPA Office of Chemical Safety and Pollution
 Environmental Protection Agency,U.S. EPA Office of Chemical Safety and Pollution Prevention (OCSPP) – Office of Pesticide Programs (OPP),4,03/06/2017
 Environmental Protection Agency,U.S. EPA Office of Chemical Safety and Pollution Prevention (OCSPP) – Office of Pollution Prevention and Toxics (OPPT),10,03/17/2017
 Environmental Protection Agency,U.S. EPA Office of Enforcement and Compliance Assurance (OECA),8,03/06/2017
-Environmental Protection Agency,U.S. EPA Office of Environmental Information (OEI),30,03/15/2017
+Environmental Protection Agency,U.S. EPA Office of Environmental Information (OEI),30,05/15/2017
 Environmental Protection Agency,U.S. EPA Office of Environmental Information (OEI) – Office of Information Analysis and Access (OIAA),1,03/14/2017
 Environmental Protection Agency,U.S. EPA Office of Environmental Information (OEI) – Office of Information Collection (OIC),1,03/14/2017
 Environmental Protection Agency,U.S. EPA Office of General Counsel (OGC),3,11/08/2016
@@ -483,7 +483,7 @@ Environmental Protection Agency,U.S. EPA Office of Water (OW) – Office of Scie
 Environmental Protection Agency,U.S. EPA Office of Water (OW) – Office of Wastewater Management (OWM),6,03/03/2017
 Environmental Protection Agency,U.S. EPA Office of Water (OW) – Office of Wetlands Oceans and Watersheds (OWOW),21,03/03/2017
 Environmental Protection Agency,U.S. EPA Region 5 Water Division Water Quality Branch,1,08/11/2016
-Environmental Protection Agency,US Environmental Protection Agency,2,05/11/2017
+Environmental Protection Agency,US Environmental Protection Agency,2,05/15/2017
 General Services Administration,General Services Administration,108,05/12/2017
 General Services Administration,General Services Administration,96,05/12/2017
 General Services Administration,Office of the Chief Technology Officer,1,12/03/2016
@@ -547,8 +547,8 @@ Small Business Administration,U.S. Small Business Administration,74,02/27/2017
 Social Security Administration,Social Security Administration,961,04/28/2017
 Social Security Administration,Department/Agency level/No publisher,7,04/01/2017
 Social Security Administration,Social Security Administration,954,04/28/2017
-US Agency for International Development,US Agency for International Development,174,04/22/2017
-US Agency for International Development,USAID,174,04/22/2017
+US Agency for International Development,US Agency for International Development,179,05/17/2017
+US Agency for International Development,USAID,179,05/17/2017
 Commodity Futures Trading Commission,Commodity Futures Trading Commission,3,01/12/2014
 Consumer Financial Protection Bureau,Consumer Financial Protection Bureau,2,09/26/2015
 Consumer Financial Protection Bureau,Consumer Financial Protection Bureau,2,09/26/2015

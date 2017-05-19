@@ -1,7 +1,7 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,1357
-Department of the Interior,US Fish and Wildlife Service,1142
-Department of the Interior,U.S. Geological Survey,205
+Department of the Interior,Department of the Interior,1366
+Department of the Interior,US Fish and Wildlife Service,1152
+Department of the Interior,U.S. Geological Survey,204
 Department of Veterans Affairs,Department of Veterans Affairs,38
 Institute of Museum and Library Services,Institute of Museum and Library Services,36
 Department of Transportation,Department of Transportation,14
@@ -12,6 +12,8 @@ Department of the Treasury,Department of the Treasury,7
 Department of Commerce,International Trade Administration,6
 National Endowment for the Humanities,National Endowment for the Humanities,6
 Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),5
+US Agency for International Development,US Agency for International Development,5
+US Agency for International Development,USAID,5
 Federal Communications Commission,Federal Communications Commission,4
 Millenium Challenge Corporation,Millenium Challenge Corporation,4
 Department of Education,Department of Education,1
@@ -33,8 +35,8 @@ Executive Office of the President,Executive Office of the President,-27
 Department of State,Department of State,-32
 Department of Agriculture,Department of Agriculture,-70
 Department of Health and Human Services,Department of Health and Human Services,-141
-Department of Commerce,US Census Bureau,-631
+Department of Commerce,US Census Bureau,-630
 Department of Justice,Department of Justice,-696
 Department of Energy,Department of Energy,-1417
-Environmental Protection Agency,Environmental Protection Agency,-2038
-Department of Commerce,Department of Commerce,-36591
+Environmental Protection Agency,Environmental Protection Agency,-1986
+Department of Commerce,Department of Commerce,-36590
