@@ -1,27 +1,32 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,1366
-Department of the Interior,US Fish and Wildlife Service,1152
-Department of the Interior,U.S. Geological Survey,204
-Department of Veterans Affairs,Department of Veterans Affairs,38
+Department of the Interior,Department of the Interior,1386
+Department of the Interior,US Fish and Wildlife Service,1160
+Department of the Interior,U.S. Geological Survey,216
+Department of Veterans Affairs,Department of Veterans Affairs,83
 Institute of Museum and Library Services,Institute of Museum and Library Services,36
+Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),19
 Department of Transportation,Department of Transportation,14
 Department of Commerce,National Oceanic and Atmospheric Administration,10
 Department of the Interior,Bureau of Ocean Energy Management,9
+Department of the Treasury,Department of the Treasury,9
 Social Security Administration,Social Security Administration,9
-Department of the Treasury,Department of the Treasury,7
+Department of Health and Human Services,Centers for Disease Control and Prevention,7
+Department of Health and Human Services,Centers for Medicare & Medicaid Services,6
 Department of Commerce,International Trade Administration,6
 National Endowment for the Humanities,National Endowment for the Humanities,6
-Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),5
 US Agency for International Development,US Agency for International Development,5
 US Agency for International Development,USAID,5
 Federal Communications Commission,Federal Communications Commission,4
 Millenium Challenge Corporation,Millenium Challenge Corporation,4
+Department of Veterans Affairs,Office of General Counsel,4
+Department of the Treasury,TTB,3
 Department of Education,Department of Education,1
 Department of Commerce,National Institute of Standards and Technology,1
 Railroad Retirement Board,Railroad Retirement Board,1
 Department of Energy,Sandia National Laboratories,1
 Department of the Interior,US Bureau of Reclamation,1
 Department of the Interior,Federal Geographic Data Committee,0
+Department of the Treasury,Bureau of the Fiscal Service,-1
 Department of Agriculture,Farm Service Agency,-1
 Department of Labor,Department of Labor,-2
 National Science Foundation,National Science Foundation,-2
@@ -34,9 +39,9 @@ Department of Commerce,International Trade Administration Department of Commerce
 Executive Office of the President,Executive Office of the President,-27
 Department of State,Department of State,-32
 Department of Agriculture,Department of Agriculture,-70
-Department of Health and Human Services,Department of Health and Human Services,-141
-Department of Commerce,US Census Bureau,-630
+Department of Health and Human Services,Department of Health and Human Services,-122
+Department of Commerce,US Census Bureau,-629
 Department of Justice,Department of Justice,-696
 Department of Energy,Department of Energy,-1417
-Environmental Protection Agency,Environmental Protection Agency,-1986
-Department of Commerce,Department of Commerce,-36590
+Environmental Protection Agency,Environmental Protection Agency,-1930
+Department of Commerce,Department of Commerce,-36589
