@@ -47,8 +47,11 @@ def make_comparator():
                     parent_agency = cell.text
                 row_data.append(parent_agency)
                 first = False
-            row_data.append(cell.text.replace(',', ''))
-        if row_data:
+            try:
+                row_data.append(cell.text.replace(',', ''))
+            except AttributeError:
+                row_data.append(None)
+        if row_data and row_data[0]:
             writer.writerow(row_data)
 
     data_string = data_stream.getvalue().replace('\r', '')
