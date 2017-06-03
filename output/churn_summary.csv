@@ -1,48 +1,65 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,1692
+Department of the Interior,Department of the Interior,1749
 Department of the Interior,US Fish and Wildlife Service,1295
 Department of the Interior,U.S. Geological Survey,388
+Department of Defense,Department of Defense,130
+Department of Commerce,National Institute of Standards and Technology,103
 Department of Veterans Affairs,Department of Veterans Affairs,83
+Executive Office of the President,Executive Office of the President,43
 Institute of Museum and Library Services,Institute of Museum and Library Services,36
-Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),19
+Department of Energy,University of Nevada,32
+Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),23
 Department of Transportation,Department of Transportation,13
+Social Security Administration,Social Security Administration,11
+Department of Health and Human Services,Centers for Disease Control and Prevention,10
+Department of Health and Human Services,Centers for Medicare & Medicaid Services,10
 Department of Commerce,National Oceanic and Atmospheric Administration,10
 Department of the Interior,Bureau of Ocean Energy Management,9
 Department of the Treasury,Department of the Treasury,9
-Social Security Administration,Social Security Administration,9
-Department of Health and Human Services,Centers for Disease Control and Prevention,7
-Department of Health and Human Services,Centers for Medicare & Medicaid Services,7
+Department of Labor,U.S. Department of Labor Bureau of Labor Statistics,8
+Department of Energy,University of Wisconsin,7
 Department of Commerce,International Trade Administration,6
 National Endowment for the Humanities,National Endowment for the Humanities,6
 US Agency for International Development,US Agency for International Development,5
+Department of Agriculture,US Forest Service Department of Agriculture,5
 US Agency for International Development,USAID,5
 Federal Communications Commission,Federal Communications Commission,4
 Millenium Challenge Corporation,Millenium Challenge Corporation,4
 Department of Veterans Affairs,Office of General Counsel,4
+Department of Energy,National Renewable Energy Laboratory,3
 Department of the Treasury,TTB,3
+Department of Energy,Lawrence Livermore National Laboratory,2
+Department of Energy,Sandia National Laboratories,2
+Department of Energy,University of California Davis,2
+Department of Energy,AltaRock Energy Inc,1
+Department of Energy,Brookhaven National Laboratory,1
+Department of Energy,Davenport Newberry Holdings LLC,1
 Department of Education,Department of Education,1
 Department of Transportation,Federal Aviation Administration,1
-Department of Commerce,National Institute of Standards and Technology,1
+National Aeronautics and Space Administration,National Aeronautics and Space Administration,1
+Department of Energy,Pacific Northwest National Laboratory,1
 Railroad Retirement Board,Railroad Retirement Board,1
-Department of Energy,Sandia National Laboratories,1
+Department of Agriculture,Rural Development Department of Agriculture,1
+Department of Energy,Southern Research Institute,1
 Department of the Interior,US Bureau of Reclamation,1
+Department of Energy,University of Utah,1
 Department of the Interior,Federal Geographic Data Committee,0
 Department of the Treasury,Bureau of the Fiscal Service,-1
+Department of Energy,Energy & Geoscience Institute at the University of Utah,-1
 Department of Agriculture,Farm Service Agency,-1
 Department of Labor,Department of Labor,-2
 National Science Foundation,National Science Foundation,-2
 Pension Benefit Guaranty Corporation,Pension Benefit Guaranty Corporation,-2
+Small Business Administration,Small Business Administration,-2
 General Services Administration,General Services Administration,-3
 Nuclear Regulatory Commission,Nuclear Regulatory Commission,-3
-Small Business Administration,Small Business Administration,-4
-Small Business Administration,U.S. Small Business Administration,-6
+Small Business Administration,U.S. Small Business Administration,-4
 Department of Commerce,International Trade Administration Department of Commerce,-8
-Department of State,Department of State,-16
-Executive Office of the President,Executive Office of the President,-27
-Department of Agriculture,Department of Agriculture,-70
-Department of Health and Human Services,Department of Health and Human Services,-121
+Department of State,Department of State,-14
+Department of Agriculture,Department of Agriculture,-58
+Department of Health and Human Services,Department of Health and Human Services,-123
 Department of Commerce,US Census Bureau,-628
 Department of Justice,Department of Justice,-696
-Department of Energy,Department of Energy,-1417
-Environmental Protection Agency,Environmental Protection Agency,-1928
-Department of Commerce,Department of Commerce,-36588
+Department of Energy,Department of Energy,-1334
+Environmental Protection Agency,Environmental Protection Agency,-1918
+Department of Commerce,Department of Commerce,-36486
