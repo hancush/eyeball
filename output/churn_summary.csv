@@ -1,72 +1,86 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,2399
-Department of the Interior,US Fish and Wildlife Service,1349
-Department of the Interior,U.S. Geological Survey,989
+Department of the Interior,Department of the Interior,2685
+Department of the Interior,US Fish and Wildlife Service,1573
+State of California,State of California,1158
+Department of the Interior,U.S. Geological Survey,1051
 Department of Defense,Department of Defense,130
-Department of Commerce,National Institute of Standards and Technology,103
+Department of Commerce,National Institute of Standards and Technology,105
 Department of Veterans Affairs,Department of Veterans Affairs,83
-Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),57
-State of Washington,State of Washington,51
+State of Washington,State of Washington,63
+Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),63
 Executive Office of the President,Executive Office of the President,43
+City of Bloomington,City of Bloomington,38
+Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,36
 Institute of Museum and Library Services,Institute of Museum and Library Services,36
-City of Bloomington,City of Bloomington,34
 Department of Energy,University of Nevada,32
-Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,18
+Department of Transportation,Department of Transportation,14
+Department of Health and Human Services,Centers for Disease Control and Prevention,13
+State of Illinois,State of Illinois,13
+State of Iowa,State of Iowa,13
+State of Illinois,data.illinois.gov,13
+State of Iowa,data.iowa.gov,13
+State of Washington,data.wa.gov,13
+Social Security Administration,Social Security Administration,12
+US Agency for International Development,US Agency for International Development,12
+US Agency for International Development,USAID,12
 Department of Health and Human Services,Centers for Medicare & Medicaid Services,11
-Social Security Administration,Social Security Administration,11
-State of Missouri,State of Missouri,11
-State of Missouri,data.mo.gov,11
-Department of Health and Human Services,Centers for Disease Control and Prevention,10
+Cook County of Illinois,Cook County of Illinois,10
+Montgomery County of Maryland,Montgomery County of Maryland,10
 Department of Commerce,National Oceanic and Atmospheric Administration,10
+Montgomery County of Maryland,data.montgomerycountymd.gov,10
+Cook County of Illinois,datacatalog.cookcountyil.gov,10
 Department of the Treasury,Department of the Treasury,9
-State of Illinois,State of Illinois,9
-State of Iowa,State of Iowa,9
-US Agency for International Development,US Agency for International Development,9
-US Agency for International Development,USAID,9
-State of Illinois,data.illinois.gov,9
-State of Iowa,data.iowa.gov,9
 Department of Labor,U.S. Department of Labor Bureau of Labor Statistics,8
+City of Austin,City of Austin,7
+Department of Education,Department of Education,7
 Department of Energy,University of Wisconsin,7
+City of Austin,data.austintexas.gov,7
+City of Seattle,City of Seattle,6
 Department of Commerce,International Trade Administration,6
 National Endowment for the Humanities,National Endowment for the Humanities,6
+Department of Energy,National Renewable Energy Laboratory,6
+State of New York,State of New York,6
 Department of Agriculture,US Forest Service Department of Agriculture,6
-City of Seattle,City of Seattle,5
+Vermont Center for Geographic Information,VT Center for Geographic Information,6
+Vermont Center for Geographic Information,Vermont Center for Geographic Information,6
+State of New York,data.ny.gov,6
+Department of Homeland Security,Department of Homeland Security,5
 Millenium Challenge Corporation,Millenium Challenge Corporation,5
-State of New York,State of New York,5
-Vermont Center for Geographic Information,VT Center for Geographic Information,5
-Vermont Center for Geographic Information,Vermont Center for Geographic Information,5
-State of New York,data.ny.gov,5
+Department of Education,National Center for Education Statistics,5
 Department of the Interior,Bureau of Ocean Energy Management,4
-Cook County of Illinois,Cook County of Illinois,4
-Federal Communications Commission,Federal Communications Commission,4
-Department of Energy,National Renewable Energy Laboratory,4
 Department of Veterans Affairs,Office of General Counsel,4
-University of Idaho,University of Idaho,4
-Cook County of Illinois,datacatalog.cookcountyil.gov,4
-City of New Orleans,City of New Orleans,3
-Montgomery County of Maryland,Montgomery County of Maryland,3
+State of Missouri,State of Missouri,4
+Department of Homeland Security,U.S. Customs and Border Protection,4
+State of Missouri,data.mo.gov,4
+City of Baton Rouge,City of Baton Rouge,3
+Federal Communications Commission,Federal Communications Commission,3
 Department of Energy,Sandia National Laboratories,3
 Department of the Treasury,TTB,3
-Montgomery County of Maryland,data.montgomerycountymd.gov,3
-City of Baton Rouge,City of Baton Rouge,2
+University of Idaho,University of Idaho,3
+City of Baton Rouge,data.brla.gov,3
+City of Seattle,data.seattle.gov,3
 City of Honolulu,City of Honolulu,2
+City of New Orleans,City of New Orleans,2
+City of New York,City of New York,2
+City of Santa Rosa,City of Santa Rosa,2
 City of Seattle,City of Seattle GIS Program,2
-Department of Education,Department of Education,2
 Department of Agriculture,Economic Research Service U.S. Department of Agriculture,2
 Department of Agriculture,Food and Nutrition Service,2
 Department of Energy,Lawrence Livermore National Laboratory,2
 Department of Energy,Ormat Nevada Inc,2
 Department of Energy,Pacific Northwest National Laboratory,2
 Department of Energy,University of California Davis,2
-City of Baton Rouge,data.brla.gov,2
+City of New York,data.cityofnewyork.us,2
 City of Honolulu,data.honolulu.gov,2
-City of New Orleans,data.nola.gov,2
-City of Seattle,data.seattle.gov,2
+City of Santa Rosa,data.srcity.org,2
 Department of Energy,AltaRock Energy Inc,1
 Department of Energy,Brookhaven National Laboratory,1
 City of Chicago,City of Chicago,1
+City of Sioux Falls,City of Sioux Falls,1
+City of Sioux Falls,City of Sioux Falls GIS,1
 Department of Energy,Davenport Newberry Holdings LLC,1
 Department of Transportation,Federal Aviation Administration,1
+Department of Homeland Security,Federal Emergency Management Agency,1
 Millenium Challenge Corporation,Millennium Challenge Corporation,1
 National Aeronautics and Space Administration,National Aeronautics and Space Administration,1
 Department of Energy,Oak Ridge National Laboratory,1
@@ -74,45 +88,44 @@ Department of Education,Office for Civil Rights,1
 Railroad Retirement Board,Railroad Retirement Board,1
 Department of Agriculture,Rural Development Department of Agriculture,1
 Department of Energy,Southern Research Institute,1
-State of Oregon,State of Oregon,1
 Department of the Interior,US Bureau of Reclamation,1
+Department of Homeland Security,Under Secretary / Management,1
 Department of Energy,University of Utah,1
+Department of Energy,University of Wyoming,1
 City of Chicago,data.cityofchicago.org,1
-State of Oregon,data.oregon.gov,1
-State of Washington,data.wa.gov,1
-City of Austin,City of Austin,0
-City of New York,City of New York,0
+City of New Orleans,data.nola.gov,1
+City of Los Angeles,City of Los Angeles,0
 Department of Energy,Energy & Geoscience Institute at the University of Utah,0
 Department of the Interior,Federal Geographic Data Committee,0
-Wake County,Wake County,0
-City of Austin,data.austintexas.gov,0
-City of New York,data.cityofnewyork.us,0
+City of Los Angeles,data.lacity.org,0
 Department of the Treasury,Bureau of the Fiscal Service,-1
 City of San Francisco,City of San Francisco,-1
-Department of Transportation,Department of Transportation,-1
 Department of Agriculture,Economic Research Service Department of Agriculture,-1
 Department of Agriculture,Farm Service Agency,-1
+Department of Homeland Security,Immigration and Customs Enforcement United States,-1
 City of San Francisco,data.sfgov.org,-1
+Federal Communications Commission,opendata.fcc.gov,-1
 City of Charlotte,City of Charlotte,-2
-City of Los Angeles,City of Los Angeles,-2
 Department of Labor,Department of Labor,-2
 National Science Foundation,National Science Foundation,-2
 Pension Benefit Guaranty Corporation,Pension Benefit Guaranty Corporation,-2
 Small Business Administration,Small Business Administration,-2
-City of Los Angeles,data.lacity.org,-2
+State of Oregon,State of Oregon,-2
+State of Oregon,data.oregon.gov,-2
 General Services Administration,General Services Administration,-3
-Nuclear Regulatory Commission,Nuclear Regulatory Commission,-3
 Small Business Administration,U.S. Small Business Administration,-4
+Wake County,Wake County,-4
+Nuclear Regulatory Commission,Nuclear Regulatory Commission,-7
 Department of Commerce,International Trade Administration Department of Commerce,-8
-State of Connecticut,State of Connecticut,-12
-State of Connecticut,data.ct.gov,-12
+State of Connecticut,State of Connecticut,-8
+State of Connecticut,data.ct.gov,-8
 Department of State,Department of State,-14
-State of Maryland,State of Maryland,-14
-State of Maryland,data.maryland.gov,-14
+State of Maryland,State of Maryland,-16
+State of Maryland,data.maryland.gov,-16
 Department of Agriculture,Department of Agriculture,-54
-Department of Health and Human Services,Department of Health and Human Services,-122
-Department of Commerce,US Census Bureau,-565
+Department of Health and Human Services,Department of Health and Human Services,-115
+Department of Commerce,US Census Bureau,-553
 Department of Justice,Department of Justice,-696
-Department of Energy,Department of Energy,-1327
-Environmental Protection Agency,Environmental Protection Agency,-1856
-Department of Commerce,Department of Commerce,-36423
+Department of Energy,Department of Energy,-1323
+Environmental Protection Agency,Environmental Protection Agency,-1835
+Department of Commerce,Department of Commerce,-36409
