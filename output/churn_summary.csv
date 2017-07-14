@@ -6,7 +6,7 @@ Department of the Interior,U.S. Geological Survey,1120
 Department of Defense,Department of Defense,130
 Department of Commerce,National Institute of Standards and Technology,106
 Department of Veterans Affairs,Department of Veterans Affairs,83
-Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),67
+Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),69
 State of Washington,State of Washington,63
 Executive Office of the President,Executive Office of the President,43
 City of Bloomington,City of Bloomington,38
@@ -14,7 +14,6 @@ Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Alleghen
 Institute of Museum and Library Services,Institute of Museum and Library Services,36
 Department of Energy,University of Nevada,32
 Department of Transportation,Department of Transportation,15
-Department of Health and Human Services,Centers for Disease Control and Prevention,13
 State of Illinois,State of Illinois,13
 State of Iowa,State of Iowa,13
 State of Illinois,data.illinois.gov,13
@@ -25,7 +24,6 @@ Social Security Administration,Social Security Administration,12
 US Agency for International Development,US Agency for International Development,12
 US Agency for International Development,USAID,12
 Montgomery County of Maryland,data.montgomerycountymd.gov,12
-Department of Health and Human Services,Centers for Medicare & Medicaid Services,11
 City of Austin,City of Austin,11
 City of Austin,data.austintexas.gov,11
 Cook County of Illinois,Cook County of Illinois,10
@@ -63,6 +61,7 @@ Department of the Treasury,TTB,3
 University of Idaho,University of Idaho,3
 City of Baton Rouge,data.brla.gov,3
 City of Santa Rosa,data.srcity.org,3
+City of Los Angeles,City of Los Angeles,2
 City of New Orleans,City of New Orleans,2
 City of New York,City of New York,2
 City of Seattle,City of Seattle GIS Program,2
@@ -73,10 +72,10 @@ Department of Energy,Ormat Nevada Inc,2
 Department of Energy,Pacific Northwest National Laboratory,2
 Department of Energy,University of California Davis,2
 City of New York,data.cityofnewyork.us,2
+City of Los Angeles,data.lacity.org,2
 Department of Energy,AltaRock Energy Inc,1
 Department of Energy,Brookhaven National Laboratory,1
 City of Chicago,City of Chicago,1
-City of Los Angeles,City of Los Angeles,1
 City of Sioux Falls,City of Sioux Falls,1
 City of Sioux Falls,City of Sioux Falls GIS,1
 Department of Energy,Davenport Newberry Holdings LLC,1
@@ -96,12 +95,12 @@ Department of Energy,University of Utah,1
 Department of Energy,University of Wyoming,1
 City of Chicago,data.cityofchicago.org,1
 State of Hawaii,data.hawaii.gov,1
-City of Los Angeles,data.lacity.org,1
 City of New Orleans,data.nola.gov,1
 Department of Energy,Energy & Geoscience Institute at the University of Utah,0
 Department of the Interior,Federal Geographic Data Committee,0
 Wake County,Wake County,0
 Federal Communications Commission,opendata.fcc.gov,0
+Department of Health and Human Services,Administration for Children and Families Department of Health & Human Services,-1
 Department of the Treasury,Bureau of the Fiscal Service,-1
 City of Baltimore,City of Baltimore,-1
 City of San Francisco,City of San Francisco,-1
@@ -128,9 +127,11 @@ Department of State,Department of State,-14
 State of Maryland,State of Maryland,-19
 State of Maryland,data.maryland.gov,-19
 Department of Agriculture,Department of Agriculture,-54
-Department of Health and Human Services,Department of Health and Human Services,-115
+Department of Health and Human Services,Centers for Disease Control and Prevention,-446
 Department of Commerce,US Census Bureau,-549
+Department of Health and Human Services,Centers for Medicare & Medicaid Services,-608
 Department of Justice,Department of Justice,-696
 Department of Energy,Department of Energy,-1323
 Environmental Protection Agency,Environmental Protection Agency,-1838
+Department of Health and Human Services,Department of Health and Human Services,-1891
 Department of Commerce,Department of Commerce,-36404
