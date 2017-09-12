@@ -1,6 +1,6 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,3525
-Department of the Interior,US Fish and Wildlife Service,2214
+Department of the Interior,Department of the Interior,3527
+Department of the Interior,US Fish and Wildlife Service,2216
 Department of the Interior,U.S. Geological Survey,1251
 State of California,State of California,1164
 State of Hawaii,State of Hawaii,223
@@ -15,7 +15,7 @@ Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Alleghen
 State of Washington,State of Washington,72
 Department of Agriculture,Department of Agriculture,70
 Department of Homeland Security,Department of Homeland Security,63
-City of Bloomington,City of Bloomington,54
+City of Bloomington,City of Bloomington,56
 City of Austin,City of Austin,53
 City of Austin,data.austintexas.gov,53
 Department of Homeland Security,Under Secretary / Management,42
@@ -36,10 +36,10 @@ US Equal Employment Opportunity Commission,US Equal Employment Opportunity Commi
 Montgomery County of Maryland,data.montgomerycountymd.gov,17
 City of Seattle,City of Seattle,16
 Department of Transportation,Department of Transportation,15
+US Agency for International Development,US Agency for International Development,15
 US Equal Employment Opportunity Commission,US Equal Employment Opportunity Commision,15
+US Agency for International Development,USAID,15
 State of New York,State of New York,14
-US Agency for International Development,US Agency for International Development,14
-US Agency for International Development,USAID,14
 State of New York,data.ny.gov,14
 Federal Communications Commission,Federal Communications Commission,13
 Vermont Center for Geographic Information,VT Center for Geographic Information,12
@@ -49,6 +49,7 @@ City of San Francisco,City of San Francisco,11
 Cook County of Illinois,Cook County of Illinois,11
 State of Connecticut,State of Connecticut,11
 State of Oregon,State of Oregon,11
+Department of Energy,University of Wisconsin,11
 City of Chicago,data.cityofchicago.org,11
 State of Connecticut,data.ct.gov,11
 State of Oregon,data.oregon.gov,11
@@ -57,20 +58,19 @@ Cook County of Illinois,datacatalog.cookcountyil.gov,11
 Department of the Treasury,Department of the Treasury,10
 Department of Commerce,National Oceanic and Atmospheric Administration,10
 Department of Energy,National Renewable Energy Laboratory,10
-Department of Energy,University of Wisconsin,10
 City of Seattle,City of Seattle GIS Program,9
 OpenTopography,OpenTopography,9
 Federal Communications Commission,opendata.fcc.gov,9
 City of Honolulu,City of Honolulu,8
+State of Iowa,State of Iowa,8
 Department of Labor,U.S. Department of Labor Bureau of Labor Statistics,8
 City of Honolulu,data.honolulu.gov,8
+State of Iowa,data.iowa.gov,8
 City of Baltimore,City of Baltimore,7
 Department of Education,Department of Education,7
-State of Iowa,State of Iowa,7
 State of Missouri,State of Missouri,7
 University of Idaho,University of Idaho,7
 City of Baltimore,data.baltimorecity.gov,7
-State of Iowa,data.iowa.gov,7
 State of Missouri,data.mo.gov,7
 Department of Commerce,International Trade Administration,6
 National Endowment for the Humanities,National Endowment for the Humanities,6
@@ -84,6 +84,7 @@ Department of Energy,University of Wyoming,4
 Department of the Interior,Bureau of Ocean Energy Management,3
 City of Baton Rouge,City of Baton Rouge,3
 City of Providence,City of Providence,3
+Department of Energy,Lawrence Livermore National Laboratory,3
 Department of the Treasury,TTB,3
 City of Baton Rouge,data.brla.gov,3
 City of Providence,data.providenceri.gov,3
@@ -91,7 +92,6 @@ City of Chesapeake,City of Chesapeake,2
 City of Chesapeake,City of Chesapeake VA,2
 Department of Agriculture,Economic Research Service U.S. Department of Agriculture,2
 Department of Agriculture,Food and Nutrition Service,2
-Department of Energy,Lawrence Livermore National Laboratory,2
 Department of Energy,Ormat Nevada Inc,2
 Department of Energy,Pacific Northwest National Laboratory,2
 Department of Energy,Sandia National Laboratories,2
@@ -111,6 +111,7 @@ Louisville Metro Government,LOJIC,1
 Louisville Metro Government,Louisville Metro Government,1
 Millenium Challenge Corporation,Millennium Challenge Corporation,1
 National Aeronautics and Space Administration,National Aeronautics and Space Administration,1
+Department of Energy,National Energy Technology Laboratory,1
 Department of Energy,Oak Ridge National Laboratory,1
 Department of Education,Office for Civil Rights,1
 Railroad Retirement Board,Railroad Retirement Board,1
@@ -154,6 +155,6 @@ Municipality of Anchorage,data.muni.org,-133
 Municipality of Anchorage,Municipality of Anchorage,-159
 Department of Commerce,US Census Bureau,-541
 Department of Justice,Department of Justice,-696
-Department of Energy,Department of Energy,-1302
-Environmental Protection Agency,Environmental Protection Agency,-1760
+Department of Energy,Department of Energy,-1299
+Environmental Protection Agency,Environmental Protection Agency,-1756
 Department of Commerce,Department of Commerce,-36393
