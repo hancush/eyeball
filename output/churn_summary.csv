@@ -3,76 +3,78 @@ Department of the Interior,Department of the Interior,4044
 Department of the Interior,US Fish and Wildlife Service,2231
 Department of the Interior,U.S. Geological Survey,1753
 State of California,State of California,1164
+Department of Veterans Affairs,U.S. EPA Office of Research and Development (ORD),230
 State of Hawaii,State of Hawaii,223
 State of Hawaii,data.hawaii.gov,223
-Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),144
+City of New York,City of New York,176
+City of New York,data.cityofnewyork.us,176
 Department of Defense,Department of Defense,130
-Department of Veterans Affairs,Department of Veterans Affairs,122
+Department of Veterans Affairs,Department of Veterans Affairs,123
 Department of Commerce,National Institute of Standards and Technology,108
-City of New York,City of New York,99
-City of New York,data.cityofnewyork.us,99
-Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,86
+Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,94
 State of Washington,State of Washington,73
+City of Austin,City of Austin,71
+City of Austin,data.austintexas.gov,71
 Department of Agriculture,Department of Agriculture,70
 Department of Homeland Security,Department of Homeland Security,63
-City of Austin,City of Austin,62
-City of Austin,data.austintexas.gov,62
 City of Bloomington,City of Bloomington,56
+City of New Orleans,City of New Orleans,46
+City of Seattle,City of Seattle,46
 Department of Homeland Security,Under Secretary / Management,42
-City of New Orleans,City of New Orleans,37
+Department of Health and Human Services,Centers for Disease Control and Prevention,41
+Department of Transportation,Department of Transportation,38
 Institute of Museum and Library Services,Institute of Museum and Library Services,36
 Executive Office of the President,Executive Office of the President,33
+Vermont Center for Geographic Information,VT Center for Geographic Information,33
+Vermont Center for Geographic Information,Vermont Center for Geographic Information,33
 Department of Energy,University of Nevada,32
-City of New Orleans,data.nola.gov,32
-Department of Health and Human Services,Centers for Disease Control and Prevention,30
-Social Security Administration,Social Security Administration,24
+City of New Orleans,data.nola.gov,31
+Social Security Administration,Social Security Administration,28
+City of Seattle,data.seattle.gov,25
 State of Oregon,State of Oregon,24
 State of Oregon,data.oregon.gov,24
-City of Seattle,City of Seattle,23
 State of Washington,data.wa.gov,23
-Department of Health and Human Services,Centers for Medicare & Medicaid Services,21
+Department of Health and Human Services,Centers for Medicare & Medicaid Services,22
+Department of Education,Department of Education,20
 Department of Homeland Security,U.S. Customs and Border Protection,20
-Vermont Center for Geographic Information,VT Center for Geographic Information,20
-Vermont Center for Geographic Information,Vermont Center for Geographic Information,20
+City of Seattle,City of Seattle GIS Program,18
 Montgomery County of Maryland,Montgomery County of Maryland,18
 State of Illinois,State of Illinois,18
 State of Illinois,data.illinois.gov,18
 Montgomery County of Maryland,data.montgomerycountymd.gov,18
 US Equal Employment Opportunity Commission,US Equal Employment Opportunity Commission,17
-Department of Transportation,Department of Transportation,15
 US Agency for International Development,US Agency for International Development,15
 US Equal Employment Opportunity Commission,US Equal Employment Opportunity Commision,15
 US Agency for International Development,USAID,15
 State of New York,State of New York,14
 State of New York,data.ny.gov,14
-City of San Francisco,City of San Francisco,13
 Cook County of Illinois,Cook County of Illinois,13
 Federal Communications Commission,Federal Communications Commission,13
-City of San Francisco,data.sfgov.org,13
 Cook County of Illinois,datacatalog.cookcountyil.gov,13
-City of Chicago,City of Chicago,11
+City of Chicago,City of Chicago,12
+City of Chicago,data.cityofchicago.org,12
 State of Connecticut,State of Connecticut,11
 Department of Energy,University of Wisconsin,11
-City of Chicago,data.cityofchicago.org,11
 State of Connecticut,data.ct.gov,11
-City of Seattle,data.seattle.gov,11
 City of Honolulu,City of Honolulu,10
 Department of the Treasury,Department of the Treasury,10
 Department of Commerce,National Oceanic and Atmospheric Administration,10
 Department of Energy,National Renewable Energy Laboratory,10
 City of Honolulu,data.honolulu.gov,10
-City of Seattle,City of Seattle GIS Program,9
 OpenTopography,OpenTopography,9
 Federal Communications Commission,opendata.fcc.gov,9
+Federal Laboratory Consortium,Federal Laboratory Consortium,8
 State of Iowa,State of Iowa,8
 Department of Labor,U.S. Department of Labor Bureau of Labor Statistics,8
 State of Iowa,data.iowa.gov,8
 City of Baltimore,City of Baltimore,7
-Department of Education,Department of Education,7
+City of San Francisco,City of San Francisco,7
+Nuclear Regulatory Commission,Nuclear Regulatory Commission,7
 State of Missouri,State of Missouri,7
 University of Idaho,University of Idaho,7
 City of Baltimore,data.baltimorecity.gov,7
 State of Missouri,data.mo.gov,7
+City of San Francisco,data.sfgov.org,7
 Department of Commerce,International Trade Administration,6
 National Endowment for the Humanities,National Endowment for the Humanities,6
 Department of Agriculture,US Forest Service Department of Agriculture,6
@@ -88,6 +90,7 @@ Department of Energy,Lawrence Livermore National Laboratory,3
 Department of the Treasury,TTB,3
 City of Baton Rouge,data.brla.gov,3
 City of Providence,data.providenceri.gov,3
+City of Charlotte,City of Charlotte,2
 City of Chesapeake,City of Chesapeake,2
 City of Chesapeake,City of Chesapeake VA,2
 Department of Agriculture,Economic Research Service U.S. Department of Agriculture,2
@@ -97,10 +100,8 @@ Department of Energy,Pacific Northwest National Laboratory,2
 Department of Energy,Sandia National Laboratories,2
 Environmental Protection Agency,U.S. Environmental Protection Agency,2
 Department of Energy,University of California Davis,2
-Wake County,Wake County,2
 Department of Energy,AltaRock Energy Inc,1
 Department of Energy,Brookhaven National Laboratory,1
-City of Sioux Falls,City of Sioux Falls GIS,1
 City of Somerville,City of Somerville,1
 Department of Energy,Davenport Newberry Holdings LLC,1
 Department of Transportation,Federal Aviation Administration,1
@@ -122,13 +123,12 @@ Department of Energy,University of Utah,1
 Department of Energy,Utah State University,1
 City of Somerville,data.somervillema.gov,1
 Department of Health and Human Services,Administration for Children and Families Department of Health & Human Services,0
-City of Charlotte,City of Charlotte,0
 City of Santa Rosa,City of Santa Rosa,0
-City of Sioux Falls,City of Sioux Falls,0
 Department of Energy,Energy & Geoscience Institute at the University of Utah,0
 Department of the Interior,Federal Geographic Data Committee,0
 Department of Homeland Security,Immigration and Customs Enforcement United States,0
 Department of Energy,Lawrence Berkeley National Laboratory,0
+Wake County,Wake County,0
 City of Santa Rosa,data.srcity.org,0
 Department of the Treasury,Bureau of the Fiscal Service,-1
 Department of Labor,Department of Labor,-1
@@ -140,20 +140,21 @@ Department of Energy,Wright State University,-1
 General Services Administration,General Services Administration,-2
 National Science Foundation,National Science Foundation,-2
 Pension Benefit Guaranty Corporation,Pension Benefit Guaranty Corporation,-2
-City of Los Angeles,City of Los Angeles,-3
 Small Business Administration,U.S. Small Business Administration,-3
-City of Los Angeles,data.lacity.org,-3
+City of Los Angeles,City of Los Angeles,-4
+City of Sioux Falls,City of Sioux Falls GIS,-4
 Department of Agriculture,Farm Service Agency,-4
 Merit Systems Protection Board,Merit Systems Protection Board,-4
+City of Los Angeles,data.lacity.org,-4
+City of Sioux Falls,City of Sioux Falls,-5
 Department of Commerce,International Trade Administration Department of Commerce,-8
-Nuclear Regulatory Commission,Nuclear Regulatory Commission,-9
 Department of State,Department of State,-14
 State of Maryland,State of Maryland,-18
 State of Maryland,data.maryland.gov,-18
-Department of Health and Human Services,Department of Health and Human Services,-85
+Department of Health and Human Services,Department of Health and Human Services,-95
 Municipality of Anchorage,data.muni.org,-133
 Municipality of Anchorage,Municipality of Anchorage,-159
-Department of Energy,Department of Energy,-280
+Department of Energy,Department of Energy,-340
 Department of Commerce,US Census Bureau,-541
 Department of Justice,Department of Justice,-696
 Environmental Protection Agency,Environmental Protection Agency,-1751
