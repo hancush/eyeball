@@ -1,5 +1,5 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,4142
+Department of the Interior,Department of the Interior,4160
 Department of the Interior,US Fish and Wildlife Service,2279
 Department of the Interior,U.S. Geological Survey,1807
 State of California,State of California,1165
@@ -7,10 +7,10 @@ Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD
 State of Hawaii,State of Hawaii,223
 State of Hawaii,data.hawaii.gov,223
 University of Idaho,University of Idaho,208
+Department of Veterans Affairs,Department of Veterans Affairs,175
 City of New York,City of New York,143
 City of New York,data.cityofnewyork.us,143
 Department of Defense,Department of Defense,130
-Department of Veterans Affairs,Department of Veterans Affairs,123
 Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,110
 Department of Commerce,National Institute of Standards and Technology,108
 State of Washington,State of Washington,86
@@ -70,6 +70,7 @@ City of San Francisco,data.sfgov.org,9
 Federal Communications Commission,opendata.fcc.gov,9
 Federal Laboratory Consortium,Federal Laboratory Consortium,8
 Department of Labor,U.S. Department of Labor Bureau of Labor Statistics,8
+Department of the Interior,Bureau of Ocean Energy Management,7
 Nuclear Regulatory Commission,Nuclear Regulatory Commission,7
 City of Baltimore,City of Baltimore,6
 Department of Commerce,International Trade Administration,6
@@ -132,7 +133,6 @@ Department of Homeland Security,Immigration and Customs Enforcement United State
 Department of Energy,Lawrence Berkeley National Laboratory,0
 Wake County,Wake County,0
 City of Santa Rosa,data.srcity.org,0
-Department of the Interior,Bureau of Ocean Energy Management,-1
 Department of the Treasury,Bureau of the Fiscal Service,-1
 City of Los Angeles,City of Los Angeles,-1
 Department of Labor,Department of Labor,-1

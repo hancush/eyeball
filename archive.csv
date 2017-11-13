@@ -126,7 +126,7 @@ Department of Commerce,University of Minnesota National Lacustrine Core Reposito
 Department of Commerce,University of Rhode Island (URI) Graduate School of Oceanography (GSO) Marine Geological Samples Laboratory (MGSL) (Point of Contact),1,02/26/2016
 Department of Commerce,University of Washington (Principal Investigator); National Snow and Ice Data Center (Point of Contact),1,02/26/2016
 Department of Commerce,US Census Burea Dept of Commerce,1,07/15/2016
-Department of Commerce,US Census Bureau,797,11/10/2017
+Department of Commerce,US Census Bureau,797,11/11/2017
 Department of Commerce,US Census Bureau,1,10/09/2017
 Department of Commerce,US Census Bureau Department of Commerce,182,10/09/2017
 Department of Commerce,US Census Bureau Dept of Commerce,6,02/16/2017
@@ -304,11 +304,11 @@ Department of Energy,Wright State University,5,08/29/2017
 Department of Health and Human Services,Department of Health and Human Services,1879,11/11/2017
 Department of Health and Human Services,Administration for Children and Families,5,07/14/2017
 Department of Health and Human Services,Administration for Children and Families Department of Health & Human Services,2,07/14/2017
-Department of Health and Human Services,Centers for Disease Control and Prevention,532,11/09/2017
+Department of Health and Human Services,Centers for Disease Control and Prevention,532,11/11/2017
 Department of Health and Human Services,Centers for Disease Control and Prevention Department of Health & Human Services,48,11/11/2017
 Department of Health and Human Services,Centers for Medicare & Medicaid Services,634,11/11/2017
 Department of Health and Human Services,Centers for Medicare & Medicaid Services Department of Health & Human Services,4,07/14/2017
-Department of Health and Human Services,Department of Health & Human Services,415,11/09/2017
+Department of Health and Human Services,Department of Health & Human Services,415,11/11/2017
 Department of Health and Human Services,Department/Agency level/No publisher,13,12/07/2016
 Department of Health and Human Services,Health Resources and Services Administration,1,07/18/2017
 Department of Health and Human Services,Health Resources and Services Administration Department of Health & Human Services,8,07/18/2017
@@ -378,12 +378,12 @@ Department of Labor,Wage and Hour Division,3,06/01/2017
 Department of State,Department of State,128,09/12/2017
 Department of State,Department/Agency level/No publisher,20,09/12/2017
 Department of State,U.S. Department of State,108,04/23/2016
-Department of the Interior,Department of the Interior,42177,11/10/2017
+Department of the Interior,Department of the Interior,42195,11/12/2017
 Department of the Interior,Arctic Landscape Conservation Cooperative,56,08/24/2015
 Department of the Interior,Bureau of Indian Affairs,1,04/10/2014
 Department of the Interior,Bureau of Indian Education,1,01/12/2014
 Department of the Interior,Bureau of Land Management,95,10/09/2017
-Department of the Interior,Bureau of Ocean Energy Management,49,10/09/2017
+Department of the Interior,Bureau of Ocean Energy Management,57,10/09/2017
 Department of the Interior,Department/Agency level/No publisher,5,09/01/2016
 Department of the Interior,Federal Geographic Data Committee,13,08/02/2016
 Department of the Interior,Haskell Indian Nations University,1,04/10/2014
@@ -391,7 +391,7 @@ Department of the Interior,National Park Service,1417,04/24/2017
 Department of the Interior,Office of Hearings and Appeals,1,01/12/2014
 Department of the Interior,Office of the Solicitor,1,01/12/2014
 Department of the Interior,Southwestern Indian Polytechnic Institute,1,04/10/2014
-Department of the Interior,U.S. Geological Survey,7686,11/11/2017
+Department of the Interior,U.S. Geological Survey,7686,11/12/2017
 Department of the Interior,US Bureau of Reclamation,3,10/09/2017
 Department of the Interior,US Fish and Wildlife Service,32857,11/11/2017
 Department of the Treasury,Department of the Treasury,265,11/11/2017
@@ -424,7 +424,7 @@ Department of the Treasury,U.S. Department of the Treasury,1,08/24/2017
 Department of the Treasury,United States Mint Financial Department (CFO),1,11/11/2017
 Department of the Treasury,United States Mint Sales and Marketing (SAM) Department,3,11/11/2017
 Department of the Treasury,United States Mint. Sales and Marketing (SAM) Department,1,11/11/2017
-Department of Transportation,Department of Transportation,876,11/09/2017
+Department of Transportation,Department of Transportation,876,11/11/2017
 Department of Transportation,data.transportation.gov,1,10/26/2017
 Department of Transportation,Department/Agency level/No publisher,145,10/09/2017
 Department of Transportation,Federal Aviation Administration,342,05/23/2017
@@ -440,9 +440,9 @@ Department of Transportation,Pipeline and Hazardous Materials Safety Administrat
 Department of Transportation,Research and Innovative Technology Administration,33,10/09/2017
 Department of Transportation,Saint Lawrence Seaway Development Corporation,12,03/01/2017
 Department of Transportation,Surface Transportation Board,21,03/01/2017
-Department of Transportation,USDOT,50,11/09/2017
-Department of Veterans Affairs,Department of Veterans Affairs,840,11/08/2017
-Department of Veterans Affairs,Department of Veterans Affairs,840,11/08/2017
+Department of Transportation,USDOT,50,11/11/2017
+Department of Veterans Affairs,Department of Veterans Affairs,866,11/11/2017
+Department of Veterans Affairs,Department of Veterans Affairs,866,11/11/2017
 Environmental Protection Agency,Environmental Protection Agency,2823,11/11/2017
 Environmental Protection Agency,Air Protection Division,1,03/14/2017
 Environmental Protection Agency,Department/Agency level/No publisher,1894,10/16/2017
@@ -698,8 +698,8 @@ City of Sioux Falls,City of Sioux Falls,76,11/07/2017
 City of Sioux Falls,City of Sioux Falls GIS,76,11/07/2017
 City of Somerville,City of Somerville,46,11/07/2017
 City of Somerville,data.somervillema.gov,46,11/07/2017
-City of Tempe,City of Tempe,45,11/04/2017
-City of Tempe,City of Tempe,45,11/04/2017
+City of Tempe,City of Tempe,45,11/11/2017
+City of Tempe,City of Tempe,45,11/11/2017
 Louisville Metro Government,Louisville Metro Government,190,11/07/2017
 Louisville Metro Government,Air Pollution Control District,12,08/19/2017
 Louisville Metro Government,Animal Services,5,11/07/2017
@@ -751,8 +751,8 @@ Municipality of Anchorage,data.muni.org,26,11/07/2017
 "Town of Cary, North Carolina",WakeGov Open Data,2,07/22/2017
 Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,255,11/07/2017
 Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,255,11/07/2017
-"Arlington County, VA",Arlington County VA,151,10/18/2017
-"Arlington County, VA",Arlington County,151,10/18/2017
+"Arlington County, VA",Arlington County VA,152,11/12/2017
+"Arlington County, VA",Arlington County,152,11/12/2017
 Cook County of Illinois,Cook County of Illinois,500,11/07/2017
 Cook County of Illinois,datacatalog.cookcountyil.gov,500,11/07/2017
 "Fairfax County, Virginia",Fairfax County Virginia,175,11/07/2017
@@ -839,8 +839,8 @@ State of Oklahoma,Oklahoma Tax Commission,1,09/15/2016
 State of Oklahoma,Oklahoma Tourism and Recreation Department,1,09/15/2016
 State of Oklahoma,OKStateStat,135,09/15/2016
 State of Oklahoma,Used Motor Vehicle Parts Commission,3,09/15/2016
-State of Oregon,State of Oregon,535,11/09/2017
-State of Oregon,data.oregon.gov,535,11/09/2017
+State of Oregon,State of Oregon,535,11/11/2017
+State of Oregon,data.oregon.gov,535,11/11/2017
 State of Washington,State of Washington,526,11/07/2017
 State of Washington,Association of Washington Cities,40,09/12/2017
 State of Washington,data.wa.gov,468,11/07/2017
