@@ -1,18 +1,18 @@
 parent_agency,agency,record_count,last_updated
-Department of Agriculture,Department of Agriculture,814,11/08/2017
-Department of Agriculture,Agricultural Marketing Service,43,10/09/2017
-Department of Agriculture,Agricultural Marketing Service Department of Agriculture,42,10/09/2017
-Department of Agriculture,Agricultural Research Service,12,10/09/2017
-Department of Agriculture,Agricultural Research Service Department of Agriculture,43,10/09/2017
+Department of Agriculture,Department of Agriculture,897,12/16/2017
+Department of Agriculture,Agricultural Marketing Service,43,12/16/2017
+Department of Agriculture,Agricultural Marketing Service Department of Agriculture,42,12/16/2017
+Department of Agriculture,Agricultural Research Service,12,12/16/2017
+Department of Agriculture,Agricultural Research Service Department of Agriculture,43,12/16/2017
 Department of Agriculture,Animal and Plant Health Inspection Service,1,02/07/2017
 Department of Agriculture,Animal and Plant Health Inspection Service Department of Agriculture,2,02/07/2017
-Department of Agriculture,Department of Agriculture,8,10/09/2017
+Department of Agriculture,Department of Agriculture,10,12/16/2017
 Department of Agriculture,Department of Agriculture OCIO,2,08/31/2017
-Department of Agriculture,Department/Agency level/No publisher,4,08/31/2017
+Department of Agriculture,Department/Agency level/No publisher,3,02/07/2017
 Department of Agriculture,Departmental Management Department of Agriculture,1,02/07/2017
-Department of Agriculture,Economic Research Service Department of Agriculture,38,10/09/2017
-Department of Agriculture,Economic Research Service U.S. Department of Agriculture,54,10/09/2017
-Department of Agriculture,Economic Research Service US Department of Agriculture,1,10/09/2017
+Department of Agriculture,Economic Research Service Department of Agriculture,38,12/16/2017
+Department of Agriculture,Economic Research Service U.S. Department of Agriculture,53,12/16/2017
+Department of Agriculture,Economic Research Service US Department of Agriculture,1,12/16/2017
 Department of Agriculture,Farm Service Agency,22,11/08/2017
 Department of Agriculture,Farm Service Agency Department of Agriculture,85,09/21/2017
 Department of Agriculture,Federal Grain Inspection Service,2,08/31/2017
@@ -32,14 +32,14 @@ Department of Agriculture,NRCS,29,10/09/2017
 Department of Agriculture,Office of Chief Information Officer,4,08/31/2017
 Department of Agriculture,Packers and Stockyards Program,1,08/31/2017
 Department of Agriculture,Packers and Stockyards Programs,2,08/31/2017
-Department of Agriculture,Rural Development Department of Agriculture,43,08/31/2017
-Department of Agriculture,U. S. Department of Agriculture,7,10/09/2017
-Department of Agriculture,U.S. Forest Service,129,08/31/2017
+Department of Agriculture,Rural Development Department of Agriculture,46,12/16/2017
+Department of Agriculture,U. S. Department of Agriculture,7,12/16/2017
+Department of Agriculture,U.S. Forest Service,180,12/16/2017
 Department of Agriculture,United States Department of Agriculture,2,08/31/2017
-Department of Agriculture,USDA Economic Research Service,1,08/31/2017
-Department of Agriculture,USDA NAL,86,08/31/2017
+Department of Agriculture,USDA Economic Research Service,1,12/16/2017
+Department of Agriculture,USDA NAL,115,12/16/2017
 Department of Agriculture,USDA-GIPSA,5,08/31/2017
-Department of Commerce,Department of Commerce,73427,12/02/2017
+Department of Commerce,Department of Commerce,73449,12/22/2017
 Department of Commerce,(),2,-
 Department of Commerce,(Point of Contact),12,02/16/2017
 Department of Commerce,(Point of Contact); Penn State University (Principal Investigator); Temple University College of Science and Technology (Principal Investigator),1,02/26/2016
@@ -66,7 +66,7 @@ Department of Commerce,Climate Prediction Center NOAA (Point of Contact),84,02/2
 Department of Commerce,Columbia University Lamont-Doherty Earth Observatory (LDEO) Lamont-Doherty Core Repository (LDCR) (Point of Contact),1,02/26/2016
 Department of Commerce,Denver Federal Center (Principal Investigator); National Snow and Ice Data Center (Principal Investigator Point of Contact),1,02/26/2016
 Department of Commerce,Department of Agriculture and Board of Trustees of Michigan State University,1,08/14/2015
-Department of Commerce,Department of Commerce,21,11/14/2017
+Department of Commerce,Department of Commerce,21,12/05/2017
 Department of Commerce,Department/Agency level/No publisher,2,02/26/2016
 Department of Commerce,DOC/NOAA/NESDIS/NCDC > National Climatic Data Center NESDIS NOAA U.S. Department of Commerce (Point of Contact),3,02/26/2016
 Department of Commerce,DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information NESDIS NOAA U.S. Department of Commerce (Point of Contact),482,02/16/2017
@@ -78,7 +78,7 @@ Department of Commerce,HUD,1,02/16/2017
 Department of Commerce,IFREMER/CERSAT > Institut Francais de Recherche pour l’Exploitation de la Mer Center d’Exploitation et de Recherche Satellitaire (Point of Contact); DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information NESDIS NOAA U.S. Department of Commerce (Point of Contact),3,02/26/2016
 Department of Commerce,International Trade Administration,8,05/13/2017
 Department of Commerce,International Trade Administration Department of Commerce,29,05/13/2017
-Department of Commerce,National Institute of Standards and Technology,263,11/14/2017
+Department of Commerce,National Institute of Standards and Technology,266,12/05/2017
 Department of Commerce,National Marine Mammal Laboratory (Point of Contact),1,02/26/2016
 Department of Commerce,National Oceanic and Atmospheric Administration,4,02/26/2016
 Department of Commerce,National Oceanic and Atmospheric Administration,70886,10/09/2017
@@ -126,12 +126,12 @@ Department of Commerce,University of Minnesota National Lacustrine Core Reposito
 Department of Commerce,University of Rhode Island (URI) Graduate School of Oceanography (GSO) Marine Geological Samples Laboratory (MGSL) (Point of Contact),1,02/26/2016
 Department of Commerce,University of Washington (Principal Investigator); National Snow and Ice Data Center (Point of Contact),1,02/26/2016
 Department of Commerce,US Census Burea Dept of Commerce,1,07/15/2016
-Department of Commerce,US Census Bureau,807,12/02/2017
+Department of Commerce,US Census Bureau,818,12/22/2017
 Department of Commerce,US Census Bureau,1,11/14/2017
 Department of Commerce,US Census Bureau Department of Commerce,202,11/14/2017
 Department of Commerce,US Census Bureau Dept of Commerce,6,02/16/2017
 Department of Commerce,US Census Bureau US Department of Commerce,42,11/14/2017
-Department of Commerce,US Patent and Trademark Office Department of Commerce,36,11/14/2017
+Department of Commerce,US Patent and Trademark Office Department of Commerce,40,12/05/2017
 Department of Commerce,Wisconsin Alumni Research Foundation,1,08/14/2015
 Department of Defense,Department of Defense,308,10/09/2017
 Department of Defense,Army Corps of Engineers,127,07/22/2015
@@ -167,22 +167,22 @@ Department of Education,Office of Special Education Programs,25,09/29/2017
 Department of Education,Office of the Chief Information Officer,5,09/29/2017
 Department of Education,Office of Vocational and Adult Education,2,06/03/2017
 Department of Education,U.S. Department of Education,14,09/29/2017
-Department of Energy,Department of Energy,2457,12/03/2017
-Department of Energy,ABB,1,11/30/2017
-Department of Energy,AltaRock Energy Inc,13,11/30/2017
-Department of Energy,Argonne National Laboratory,10,11/30/2017
+Department of Energy,Department of Energy,2460,12/17/2017
+Department of Energy,ABB,2,12/03/2017
+Department of Energy,AltaRock Energy Inc,13,12/17/2017
+Department of Energy,Argonne National Laboratory,10,12/17/2017
 Department of Energy,Arizona State Geological Survey,1,08/29/2017
-Department of Energy,Arthur Mansure,1,11/30/2017
+Department of Energy,Arthur Mansure,1,12/03/2017
 Department of Energy,ATLAS Geosciences Inc,2,11/08/2017
 Department of Energy,Atmospheric Radiation Measurement Data Center,889,11/08/2017
 Department of Energy,Beowawe Power LLC,1,08/29/2017
 Department of Energy,Bob Lawrence and Associates Inc.,1,08/29/2017
 Department of Energy,Brookhaven National Laboratory,5,10/18/2017
 Department of Energy,Carnegie Mellon University,1,08/29/2017
-Department of Energy,Colorado School of Mines,1,08/29/2017
+Department of Energy,Colorado School of Mines,1,12/03/2017
 Department of Energy,Cornell University,13,11/08/2017
 Department of Energy,Davenport Newberry Holdings LLC,5,08/29/2017
-Department of Energy,Dehlsen Associates LLC,1,11/08/2017
+Department of Energy,Dehlsen Associates LLC,1,12/17/2017
 Department of Energy,Department of Energy,9,10/09/2017
 Department of Energy,Department of Energy Office of Legacy Management Technical Data Manager,1,06/23/2017
 Department of Energy,Department/Agency level/No publisher,3,08/29/2017
@@ -220,9 +220,8 @@ Department of Energy,DOE/Office of Environmental Management,6,06/23/2017
 Department of Energy,DOE/Office of Fossil Energy,5,10/09/2017
 Department of Energy,DOE/Office of Hearings and Appeals,1,06/23/2017
 Department of Energy,DOE/Richland Operations and the Office of River Protection,2,06/23/2017
-Department of Energy,ElectraTherm Inc.,16,11/30/2017
-Department of Energy,Energy & Geoscience Institute at the University of Utah,5,11/30/2017
-Department of Energy,Energy and Geoscience Institute at the University of Utah,33,11/30/2017
+Department of Energy,ElectraTherm Inc.,16,12/03/2017
+Department of Energy,Energy and Geoscience Institute at the University of Utah,38,12/03/2017
 Department of Energy,Flint Geothermal LLC,48,11/18/2017
 Department of Energy,Gas Equipment Engineering Corporation,1,08/29/2017
 Department of Energy,GE Global Research,2,08/29/2017
@@ -230,34 +229,34 @@ Department of Energy,Georgia Tech Research Corpration,1,08/29/2017
 Department of Energy,Geothermal Resource Group on behalf of the City of Akutan,1,08/29/2017
 Department of Energy,Geothermal Technical Partners Inc.,7,08/29/2017
 Department of Energy,Geysers Power Company LLC,1,08/29/2017
-Department of Energy,Hattenburg Dilley and Linnell,9,11/30/2017
+Department of Energy,Hattenburg Dilley and Linnell,9,12/03/2017
 Department of Energy,Honeywell International Inc.,1,08/29/2017
-Department of Energy,Idaho National Laboratory,13,11/08/2017
-Department of Energy,Igiugig Village Council,1,11/30/2017
+Department of Energy,Idaho National Laboratory,13,12/03/2017
+Department of Energy,Igiugig Village Council,1,12/03/2017
 Department of Energy,Impact Technologies LLC,3,08/29/2017
 Department of Energy,Lawrence Berkeley National Laboratory,10,10/18/2017
 Department of Energy,Lawrence Livermore National Laboratory,43,12/03/2017
 Department of Energy,Los Alamos National Laboratory,3,08/29/2017
-Department of Energy,M3 Wave,3,11/30/2017
-Department of Energy,National Energy Technology Laboratory,10,11/30/2017
+Department of Energy,M3 Wave,3,12/03/2017
+Department of Energy,National Energy Technology Laboratory,10,12/17/2017
 Department of Energy,National Energy Technology Laboratory (NETL),5,09/07/2017
 Department of Energy,National Nuclear Security Administration,11,06/23/2017
 Department of Energy,National Nuclear Security Administration/LANL,1,06/23/2017
 Department of Energy,National Nuclear Security Administration/SNL,1,06/23/2017
-Department of Energy,National Renewable Energy Lab,1,08/29/2017
-Department of Energy,National Renewable Energy Laboratory,547,11/30/2017
-Department of Energy,Nevada Bureau of Mines and Geology,5,11/18/2017
+Department of Energy,National Renewable Energy Lab,1,12/03/2017
+Department of Energy,National Renewable Energy Laboratory,548,12/17/2017
+Department of Energy,Nevada Bureau of Mines and Geology,5,12/03/2017
 Department of Energy,Nevada Geothermal Power Company,1,08/29/2017
 Department of Energy,New Mexico Bureau of Geology and Mineral Resources,6,08/29/2017
 Department of Energy,New Mexico Institute of Mining and Technology,2,08/29/2017
 Department of Energy,None,2,08/29/2017
 Department of Energy,Northwest Energy Innovations,1,08/29/2017
-Department of Energy,Northwest National Marine Renewable Energy Center,7,11/30/2017
+Department of Energy,Northwest National Marine Renewable Energy Center,7,12/03/2017
 Department of Energy,Northwest National Marine Renewable Energy Center (OSU),1,08/29/2017
-Department of Energy,Northwest National Marine renewable Energy Center (UW),6,11/30/2017
+Department of Energy,Northwest National Marine renewable Energy Center (UW),6,12/03/2017
 Department of Energy,NREL,1,08/29/2017
 Department of Energy,Oak Ridge National Laboratory,18,11/08/2017
-Department of Energy,Ocean Renewable Power Company,3,08/29/2017
+Department of Energy,Ocean Renewable Power Company,3,12/17/2017
 Department of Energy,Office of Civil Rights,1,06/23/2017
 Department of Energy,Office of Economic Impact and Diversity,1,06/23/2017
 Department of Energy,Office of Energy Efficiency & Renewable Energy (EERE),62,10/09/2017
@@ -266,13 +265,13 @@ Department of Energy,Office of Information Resources,1,11/30/2017
 Department of Energy,Office of Small and Disadvantaged Business Utilization (OSDBU),4,06/23/2017
 Department of Energy,Oregon State University,6,12/03/2017
 Department of Energy,Ormat Nevada Inc,19,08/29/2017
-Department of Energy,Oski Energy LLC,12,11/30/2017
+Department of Energy,Oski Energy LLC,12,12/03/2017
 Department of Energy,Pacific Northwest National Laboratory,18,11/08/2017
 Department of Energy,Ram Power Inc.,3,08/29/2017
 Department of Energy,Regents of the University University of California,1,08/29/2017
 Department of Energy,Resolute Marine Energy Inc.,2,11/30/2017
-Department of Energy,Ricardo Detroit Technical Center,26,11/30/2017
-Department of Energy,Sandia National Laboratories,66,11/30/2017
+Department of Energy,Ricardo Detroit Technical Center,27,12/17/2017
+Department of Energy,Sandia National Laboratories,66,12/03/2017
 Department of Energy,Simbol Inc,1,08/29/2017
 Department of Energy,SmartGrid.gov,2,08/29/2017
 Department of Energy,SMU Geothermal Laboratory,1,08/29/2017
@@ -281,7 +280,7 @@ Department of Energy,Surprise Valley Electrification Corp. (SVEC),1,08/29/2017
 Department of Energy,Temple University,1,08/29/2017
 Department of Energy,Terra-Gen Sierra Holdings LLC,24,08/29/2017
 Department of Energy,Trabits Group LLC,1,08/29/2017
-Department of Energy,Tusaar Corp.,19,08/29/2017
+Department of Energy,Tusaar Corp.,18,08/29/2017
 Department of Energy,U.S. Department of Energy (DOE),10,10/09/2017
 Department of Energy,U.S. Energy Information Administration,83,10/09/2017
 Department of Energy,U.S. Geothermal Inc.,1,08/29/2017
@@ -289,31 +288,33 @@ Department of Energy,U.S. Office of Technology Transitions,1,08/29/2017
 Department of Energy,United States Geological Survey,3,08/29/2017
 Department of Energy,University of Alaska Fairbanks,1,08/29/2017
 Department of Energy,University of California Davis,15,11/08/2017
-Department of Energy,University of Hawaii,26,11/30/2017
+Department of Energy,University of Hawaii,26,12/03/2017
 Department of Energy,University of Massachusetts,1,08/29/2017
 Department of Energy,University of Nevada,33,12/03/2017
-Department of Energy,University of Oregon,2,11/30/2017
-Department of Energy,University of Utah,20,11/30/2017
-Department of Energy,University of Washington,4,08/29/2017
+Department of Energy,University of Oregon,2,12/03/2017
+Department of Energy,University of Utah,20,12/03/2017
+Department of Energy,University of Washington,4,12/03/2017
 Department of Energy,University of Washington (NNMREC),6,12/03/2017
-Department of Energy,University of Wisconsin,57,11/30/2017
-Department of Energy,University of Wyoming,5,08/29/2017
-Department of Energy,Utah State University,12,11/30/2017
+Department of Energy,University of Wisconsin,57,12/03/2017
+Department of Energy,University of Wyoming,6,12/17/2017
+Department of Energy,Utah State University,12,12/03/2017
 Department of Energy,Vortex Hydro Energy,1,12/03/2017
 Department of Energy,Washington Division of Geology and Earth Resources,1,08/29/2017
 Department of Energy,Wind Powering America,1,08/29/2017
-Department of Energy,Wright State University,5,11/30/2017
-Department of Health and Human Services,Department of Health and Human Services,1880,11/30/2017
+Department of Energy,Wright State University,5,12/03/2017
+Department of Health and Human Services,Department of Health and Human Services,1906,12/23/2017
 Department of Health and Human Services,Administration for Children and Families,5,07/14/2017
 Department of Health and Human Services,Administration for Children and Families Department of Health & Human Services,2,07/14/2017
-Department of Health and Human Services,Centers for Disease Control and Prevention,533,11/30/2017
-Department of Health and Human Services,Centers for Disease Control and Prevention Department of Health & Human Services,48,11/30/2017
-Department of Health and Human Services,Centers for Medicare & Medicaid Services,634,11/30/2017
+Department of Health and Human Services,Agency for Healthcare Research and Quality Department of Health & Human Services,9,12/02/2017
+Department of Health and Human Services,Centers for Disease Control and Prevention,538,12/23/2017
+Department of Health and Human Services,Centers for Disease Control and Prevention Department of Health & Human Services,48,12/23/2017
+Department of Health and Human Services,Centers for Medicare & Medicaid Services,643,12/22/2017
 Department of Health and Human Services,Centers for Medicare & Medicaid Services Department of Health & Human Services,4,07/14/2017
-Department of Health and Human Services,Department of Health & Human Services,415,11/30/2017
-Department of Health and Human Services,Department/Agency level/No publisher,13,12/07/2016
+Department of Health and Human Services,Department of Health & Human Services,414,12/23/2017
+Department of Health and Human Services,Department of Health & Human Services Agency for Healthcare Research and Quality,1,12/02/2017
+Department of Health and Human Services,Department/Agency level/No publisher,16,12/07/2017
 Department of Health and Human Services,Health Resources and Services Administration,1,12/02/2017
-Department of Health and Human Services,Health Resources and Services Administration Department of Health & Human Services,8,07/18/2017
+Department of Health and Human Services,Health Resources and Services Administration Department of Health & Human Services,8,12/02/2017
 Department of Health and Human Services,National Institutes of Health,2,06/17/2014
 Department of Health and Human Services,National Institutes of Health (NIH),53,07/14/2017
 Department of Health and Human Services,National Library of Medicine (NLM),44,07/14/2017
@@ -381,56 +382,58 @@ Department of Labor,Wage and Hour Division,3,06/01/2017
 Department of State,Department of State,128,09/12/2017
 Department of State,Department/Agency level/No publisher,20,09/12/2017
 Department of State,U.S. Department of State,108,04/23/2016
-Department of the Interior,Department of the Interior,41652,12/02/2017
-Department of the Interior,Arizona State Office Bureau of Land Management – GIS Manager,2,12/02/2017
-Department of the Interior,BLM,7,12/02/2017
-Department of the Interior,BLM – Roger Blouch,2,12/02/2017
-Department of the Interior,BLM – Russell Slatton,83,12/02/2017
-Department of the Interior,BLM Colorado – State Geospatial Lead,30,12/02/2017
-Department of the Interior,BLM Colorado Royal Gorge Field Office,1,12/02/2017
-Department of the Interior,BLM Colorado State Office,2,12/02/2017
-Department of the Interior,BLM Eastern States – Ryan Tietjen,3,12/02/2017
-Department of the Interior,BLM National Operations Center OC530 – NOC Data Management Lead,7,12/02/2017
-Department of the Interior,BLM New Mexico Fire Program,1,12/02/2017
-Department of the Interior,BLM New Mexico Oil & Gas Program,3,12/02/2017
-Department of the Interior,BLM Oregon State Office,1,12/02/2017
-Department of the Interior,BLM Utah State Office,24,12/02/2017
-Department of the Interior,BLM Eastern State Office,101,12/02/2017
-Department of the Interior,BLM Idaho State Office,1,12/02/2017
-Department of the Interior,BLM Idaho State Office – CM,1,12/02/2017
-Department of the Interior,BLM New Mexico State Office,1,12/02/2017
-Department of the Interior,Bureau Indian Affairs,2,12/02/2017
-Department of the Interior,Bureau of Indian Affairs,1,12/02/2017
-Department of the Interior,Bureau of Land Management,27,12/02/2017
-Department of the Interior,Bureau of Land Management – Eric Hiebenthal,63,12/02/2017
-Department of the Interior,Bureau of Land Management – New Mexico State Office – GIS Manager,9,12/02/2017
-Department of the Interior,Bureau of Land Management – New Mexico State Office – State GIS Manager,2,12/02/2017
-Department of the Interior,Bureau of Land Management Arizona State Office – Brandon Colvin,1,12/01/2017
-Department of the Interior,Bureau of Land Management Arizona State Office – GIS Manager,1,12/02/2017
-Department of the Interior,Bureau of Land Management Colorado State Office – State Geospatial Lead,9,12/02/2017
-Department of the Interior,Bureau of Land Management Idaho State Office Engineering and Geosciences – CMavencamp,13,12/02/2017
-Department of the Interior,Bureau of Land Management Nevada State Office,15,12/02/2017
-Department of the Interior,Bureau of Land Management Nevada State Office – GIS Manager,1,12/02/2017
-Department of the Interior,Bureau of Land Management Oregon State Office – Eric Hiebenthal,13,12/02/2017
-Department of the Interior,Bureau of Ocean Energy Management,1,12/02/2017
-Department of the Interior,COSO,2,12/02/2017
-Department of the Interior,Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,1,12/02/2017
-Department of the Interior,Department/Agency level/No publisher,13625,12/02/2017
-Department of the Interior,Federal Geographic Data Committee,13,08/02/2016
-Department of the Interior,Fish and Wildlife Service,28068,12/02/2017
+Department of the Interior,Department of the Interior,47008,12/23/2017
+Department of the Interior,Arizona State Office Bureau of Land Management – GIS Manager,2,12/12/2017
+Department of the Interior,BLM,8,12/13/2017
+Department of the Interior,BLM – Roger Blouch,2,12/13/2017
+Department of the Interior,BLM – Russell Slatton,94,12/13/2017
+Department of the Interior,BLM Colorado – State Geospatial Lead,33,12/13/2017
+Department of the Interior,BLM Colorado Royal Gorge Field Office,1,12/12/2017
+Department of the Interior,BLM Colorado State Office,2,12/13/2017
+Department of the Interior,BLM Eastern States – Ryan Tietjen,3,12/12/2017
+Department of the Interior,BLM National Operations Center OC530 – NOC Data Management Lead,8,12/13/2017
+Department of the Interior,BLM New Mexico Fire Program,1,12/12/2017
+Department of the Interior,BLM New Mexico Oil & Gas Program,4,12/13/2017
+Department of the Interior,BLM Oregon State Office,1,12/13/2017
+Department of the Interior,BLM Utah State Office,28,12/13/2017
+Department of the Interior,BLM Colorado State Office,1,12/13/2017
+Department of the Interior,BLM Eastern State Office,117,12/13/2017
+Department of the Interior,BLM Idaho State Office,1,12/13/2017
+Department of the Interior,BLM Idaho State Office – CM,1,12/12/2017
+Department of the Interior,BLM New Mexico State Office,1,12/12/2017
+Department of the Interior,BLM/USFS,1,12/13/2017
+Department of the Interior,Bureau Indian Affairs,3,12/13/2017
+Department of the Interior,Bureau of Indian Affairs,1,12/13/2017
+Department of the Interior,Bureau of Land Management,29,12/13/2017
+Department of the Interior,Bureau of Land Management – Eric Hiebenthal,71,12/13/2017
+Department of the Interior,Bureau of Land Management – New Mexico State Office – GIS Manager,11,12/13/2017
+Department of the Interior,Bureau of Land Management – New Mexico State Office – State GIS Manager,2,12/13/2017
+Department of the Interior,Bureau of Land Management Arizona State Office – Brandon Colvin,2,12/13/2017
+Department of the Interior,Bureau of Land Management Arizona State Office – GIS Manager,1,12/13/2017
+Department of the Interior,Bureau of Land Management Colorado State Office – State Geospatial Lead,10,12/13/2017
+Department of the Interior,Bureau of Land Management Idaho State Office Engineering and Geosciences – CMavencamp,15,12/13/2017
+Department of the Interior,Bureau of Land Management Nevada State Office,18,12/13/2017
+Department of the Interior,Bureau of Land Management Nevada State Office – GIS Manager,2,12/13/2017
+Department of the Interior,Bureau of Land Management Oregon State Office – Eric Hiebenthal,13,12/13/2017
+Department of the Interior,Bureau of Ocean Energy Management,1,12/12/2017
+Department of the Interior,COSO,2,12/12/2017
+Department of the Interior,Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,1,12/13/2017
+Department of the Interior,Department/Agency level/No publisher,13628,12/13/2017
+Department of the Interior,Federal Geographic Data Committee,13,12/06/2017
+Department of the Interior,Fish and Wildlife Service,31679,12/13/2017
 Department of the Interior,Haskell Indian Nations University,1,04/10/2014
-Department of the Interior,Idaho BLM,1,12/02/2017
-Department of the Interior,National Park Service,428,12/02/2017
-Department of the Interior,Nevada Department of Wildlife,1,12/02/2017
-Department of the Interior,OR,1,-
-Department of the Interior,OR BLM,572,-
-Department of the Interior,Oregon State Office Bureau of Land Management,1,12/02/2017
+Department of the Interior,Idaho BLM,1,12/13/2017
+Department of the Interior,National Park Service,475,12/13/2017
+Department of the Interior,Nevada Department of Wildlife,1,12/13/2017
+Department of the Interior,OR,2,-
+Department of the Interior,OR BLM,645,-
+Department of the Interior,Oregon State Office Bureau of Land Management,1,12/12/2017
 Department of the Interior,Southwestern Indian Polytechnic Institute,1,04/10/2014
-Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,17,12/02/2017
-Department of the Interior,U.S. Department of the Interior Bureau of Land Management (BLM) Idaho State Office,1,12/02/2017
-Department of the Interior,U.S. Geological Survey,30,12/03/2017
-Department of the Interior,US Fish and Wildlife Service,1,12/02/2017
-Department of the Interior,Utah BLM State Office,13,12/02/2017
+Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,22,12/13/2017
+Department of the Interior,U.S. Department of the Interior Bureau of Land Management (BLM) Idaho State Office,1,12/13/2017
+Department of the Interior,U.S. Geological Survey,30,12/23/2017
+Department of the Interior,US Fish and Wildlife Service,1,12/12/2017
+Department of the Interior,Utah BLM State Office,16,12/13/2017
 Department of the Treasury,Department of the Treasury,265,11/14/2017
 Department of the Treasury,Bureau of Engraving and Printing,1,03/29/2016
 Department of the Treasury,Bureau of the Fiscal Service,81,11/07/2017
@@ -461,7 +464,7 @@ Department of the Treasury,U.S. Department of the Treasury,1,08/24/2017
 Department of the Treasury,United States Mint Financial Department (CFO),1,11/14/2017
 Department of the Treasury,United States Mint Sales and Marketing (SAM) Department,3,11/14/2017
 Department of the Treasury,United States Mint. Sales and Marketing (SAM) Department,1,11/14/2017
-Department of Transportation,Department of Transportation,879,11/17/2017
+Department of Transportation,Department of Transportation,881,12/22/2017
 Department of Transportation,Bureau of Transportation Statisitics,1,11/14/2017
 Department of Transportation,data.transportation.gov,1,11/14/2017
 Department of Transportation,Department/Agency level/No publisher,145,10/09/2017
@@ -478,23 +481,23 @@ Department of Transportation,Pipeline and Hazardous Materials Safety Administrat
 Department of Transportation,Research and Innovative Technology Administration,33,10/09/2017
 Department of Transportation,Saint Lawrence Seaway Development Corporation,12,03/01/2017
 Department of Transportation,Surface Transportation Board,21,03/01/2017
-Department of Transportation,USDOT,52,11/17/2017
-Department of Veterans Affairs,Department of Veterans Affairs,895,11/30/2017
-Department of Veterans Affairs,Department of Veterans Affairs,895,11/30/2017
-Environmental Protection Agency,Environmental Protection Agency,2849,12/03/2017
+Department of Transportation,USDOT,54,12/22/2017
+Department of Veterans Affairs,Department of Veterans Affairs,1058,12/23/2017
+Department of Veterans Affairs,Department of Veterans Affairs,1058,12/23/2017
+Environmental Protection Agency,Environmental Protection Agency,2870,12/21/2017
 Environmental Protection Agency,Air Protection Division,1,03/14/2017
 Environmental Protection Agency,Department/Agency level/No publisher,1894,10/16/2017
-Environmental Protection Agency,Environmental Protection Agency,7,11/30/2017
+Environmental Protection Agency,Environmental Protection Agency,7,12/19/2017
 Environmental Protection Agency,Land and Chemicals Division,1,08/10/2016
-Environmental Protection Agency,U.S. Environmental Protection Agency,74,12/03/2017
+Environmental Protection Agency,U.S. Environmental Protection Agency,73,12/21/2017
 Environmental Protection Agency,U.S. Environmental Protection Agency Office of Air and Radiation,1,11/03/2017
 Environmental Protection Agency,U.S. Environmental Protection Agency Office of Environmental Information Office of Information Collection,3,10/09/2017
-Environmental Protection Agency,U.S. Environmental Protection Agency Region 1,1,11/30/2017
-Environmental Protection Agency,U.S. Environmental Protection Agency Region 4,10,11/30/2017
-Environmental Protection Agency,U.S. Environmental Protection Agency Region 5,1,11/30/2017
-Environmental Protection Agency,U.S. Environmental Protection Agency Region 6,6,11/30/2017
-Environmental Protection Agency,U.S. Environmental Protection Agency Region 7,8,11/30/2017
-Environmental Protection Agency,U.S. Environmental Protection Agency Region 9,1,11/30/2017
+Environmental Protection Agency,U.S. Environmental Protection Agency Region 1,1,12/08/2017
+Environmental Protection Agency,U.S. Environmental Protection Agency Region 4,10,12/08/2017
+Environmental Protection Agency,U.S. Environmental Protection Agency Region 5,1,12/08/2017
+Environmental Protection Agency,U.S. Environmental Protection Agency Region 6,6,12/08/2017
+Environmental Protection Agency,U.S. Environmental Protection Agency Region 7,8,12/04/2017
+Environmental Protection Agency,U.S. Environmental Protection Agency Region 9,1,12/08/2017
 Environmental Protection Agency,U.S. EPA Office of Administration and Resource Management (OARM),1,03/17/2017
 Environmental Protection Agency,U.S. EPA Office of Air and Radiation (OAR) – Office of Air Quality Planning and Standards (OAQPS),43,10/26/2017
 Environmental Protection Agency,U.S. EPA Office of Air and Radiation (OAR) – Office of Atmospheric Programs (OAP),36,10/09/2017
@@ -504,71 +507,95 @@ Environmental Protection Agency,U.S. EPA Office of Chemical Safety and Pollution
 Environmental Protection Agency,U.S. EPA Office of Chemical Safety and Pollution Prevention (OCSPP) – Office of Pesticide Programs (OPP),4,03/06/2017
 Environmental Protection Agency,U.S. EPA Office of Chemical Safety and Pollution Prevention (OCSPP) – Office of Pollution Prevention and Toxics (OPPT),10,03/17/2017
 Environmental Protection Agency,U.S. EPA Office of Enforcement and Compliance Assurance (OECA),8,03/06/2017
-Environmental Protection Agency,U.S. EPA Office of Environmental Information (OEI),30,10/09/2017
+Environmental Protection Agency,U.S. EPA Office of Environmental Information (OEI),30,12/07/2017
 Environmental Protection Agency,U.S. EPA Office of Environmental Information (OEI) – Office of Information Analysis and Access (OIAA),1,03/14/2017
 Environmental Protection Agency,U.S. EPA Office of Environmental Information (OEI) – Office of Information Collection (OIC),1,10/09/2017
 Environmental Protection Agency,U.S. EPA Office of General Counsel (OGC),3,11/08/2016
-Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),585,12/03/2017
+Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),608,12/21/2017
 Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD) – National Center for Computational Toxicology (NCCT),7,03/03/2017
 Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD) – National Center for Environmental Assessment (NCEA),3,03/03/2017
 Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD) – National Exposure Research Laboratory (NERL),2,03/03/2017
 Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD) – National Health and Environmental Effects Research Laboratory (NHEERL),1,03/03/2017
 Environmental Protection Agency,U.S. EPA Office of Solid Waste and Emergency Response (OSWER),2,03/14/2017
 Environmental Protection Agency,U.S. EPA Office of the Chief Financial Officer (OCFO),7,07/28/2016
-Environmental Protection Agency,U.S. EPA Office of Water (OW),13,08/17/2017
+Environmental Protection Agency,U.S. EPA Office of Water (OW),13,12/04/2017
 Environmental Protection Agency,U.S. EPA Office of Water (OW) – Office of Ground Water and Drinking Water (OGWDW),13,03/03/2017
 Environmental Protection Agency,U.S. EPA Office of Water (OW) – Office of Science and Technology (OST),5,03/03/2017
 Environmental Protection Agency,U.S. EPA Office of Water (OW) – Office of Wastewater Management (OWM),6,03/03/2017
 Environmental Protection Agency,U.S. EPA Office of Water (OW) – Office of Wetlands Oceans and Watersheds (OWOW),21,03/03/2017
 Environmental Protection Agency,U.S. EPA Region 5 Water Division Water Quality Branch,1,08/11/2016
-Environmental Protection Agency,US Environmental Protection Agency,2,11/30/2017
-General Services Administration,General Services Administration,109,11/21/2017
-General Services Administration,General Services Administration,96,11/21/2017
+Environmental Protection Agency,US Environmental Protection Agency,3,12/21/2017
+General Services Administration,General Services Administration,113,12/15/2017
+General Services Administration,Data.gov,1,12/07/2017
+General Services Administration,General Services Administration,97,12/15/2017
 General Services Administration,GSA IT,1,07/13/2017
+General Services Administration,Office of Government-wide Policy,1,12/15/2017
+General Services Administration,Office of Governmentwide Policy,1,12/15/2017
 General Services Administration,Office of the Chief Technology Officer,1,12/03/2016
 General Services Administration,Technology Transformation Service,11,12/01/2016
-National Aeronautics and Space Administration,National Aeronautics and Space Administration,15380,10/09/2017
+National Aeronautics and Space Administration,National Aeronautics and Space Administration,39048,12/19/2017
 National Aeronautics and Space Administration,Aeronautics Research Mission Directorate,10,07/08/2015
+National Aeronautics and Space Administration,Alaska Satellite Facility,131,12/19/2017
 National Aeronautics and Space Administration,Ames Research Center,36,08/24/2015
-National Aeronautics and Space Administration,ASF,62,05/06/2016
-National Aeronautics and Space Administration,Atmospheric Science Data Center,114,05/06/2016
+National Aeronautics and Space Administration,ASDC,177,12/19/2017
+National Aeronautics and Space Administration,ASF,60,12/19/2017
+National Aeronautics and Space Administration,Atmospheric Science Data Center,27,12/18/2017
 National Aeronautics and Space Administration,AWS NEX,4,10/21/2016
 National Aeronautics and Space Administration,California Institute of Technology,1,05/17/2013
-National Aeronautics and Space Administration,CDDIS,35,05/06/2016
-National Aeronautics and Space Administration,CDDIS-GSFC,1,05/06/2016
+National Aeronautics and Space Administration,CDDIS,33,12/19/2017
+National Aeronautics and Space Administration,CDDIS-GSFC,1,12/19/2017
 National Aeronautics and Space Administration,Center Independent Research & Development,36,07/08/2015
-National Aeronautics and Space Administration,Center Innovation Fund,2,07/08/2015
+National Aeronautics and Space Administration,Center Innovation Fund,2,12/05/2017
 National Aeronautics and Space Administration,Dashlink,644,10/22/2016
-National Aeronautics and Space Administration,EOSDIS,3,11/25/2015
-National Aeronautics and Space Administration,GESDISC,639,10/21/2016
-National Aeronautics and Space Administration,GHRC,316,05/06/2016
-National Aeronautics and Space Administration,GSFC,1,05/06/2016
+National Aeronautics and Space Administration,Department/Agency level/No publisher,30,//
+National Aeronautics and Space Administration,EOSDIS,3,12/05/2017
+National Aeronautics and Space Administration,GESDISC,3924,12/19/2017
+National Aeronautics and Space Administration,GHRC,1718,12/18/2017
+National Aeronautics and Space Administration,GSFC,1,12/19/2017
 National Aeronautics and Space Administration,Human Exploration and Operations Mission Directorate,43,07/08/2015
 National Aeronautics and Space Administration,International Astronomical Union (IAU) Working Group for Planetary System Nomenclature (WGPSN),53,08/25/2015
 National Aeronautics and Space Administration,JPL,1,08/25/2015
 National Aeronautics and Space Administration,JSC,41,08/24/2015
-National Aeronautics and Space Administration,LAADS,130,05/06/2016
-National Aeronautics and Space Administration,LaRC,11,11/25/2015
-National Aeronautics and Space Administration,LPDAAC,105,10/09/2017
+National Aeronautics and Space Administration,LAADS,306,12/18/2017
+National Aeronautics and Space Administration,LaRC,123,12/19/2017
+National Aeronautics and Space Administration,LP DAAC,320,12/19/2017
+National Aeronautics and Space Administration,LPDAAC,103,12/19/2017
 National Aeronautics and Space Administration,Mission Support Directorate,11,12/01/2015
-National Aeronautics and Space Administration,MODAPS,4,05/07/2016
+National Aeronautics and Space Administration,MODAPS,12,12/19/2017
 National Aeronautics and Space Administration,N/A,176,12/01/2015
-National Aeronautics and Space Administration,NASA HQ,48,08/25/2015
-National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/GESDISC,1,05/06/2016
-National Aeronautics and Space Administration,National Aeronautics and Space Administration,1775,10/09/2017
-National Aeronautics and Space Administration,NSIDC,451,10/09/2017
-National Aeronautics and Space Administration,OB.DAAC,1786,05/07/2016
-National Aeronautics and Space Administration,OBPG,21,05/07/2016
+National Aeronautics and Space Administration,NASA GSFC Hydrological Sciences Branch Laboratory for Hydrospheric Processes,1,12/05/2017
+National Aeronautics and Space Administration,NASA HQ,48,12/19/2017
+National Aeronautics and Space Administration,NASA National Snow and Ice Data Center Distributed Active Archive Center,40,12/19/2017
+National Aeronautics and Space Administration,NASA/GSFC/EOS/ESDIS/LANCEMODIS,106,12/19/2017
+National Aeronautics and Space Administration,NASA/GSFC/SED/CDDIS,1,12/19/2017
+National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/GESDISC,1116,12/19/2017
+National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/OB.DAAC,43,12/19/2017
+National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GGL/CDDIS,52,12/19/2017
+National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/HBSL/BISB/LAADS,64,12/18/2017
+National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/HBSL/BISB/MODAPS,4,12/19/2017
+National Aeronautics and Space Administration,NASA/GSFC/SSED/CDDIS,3,12/19/2017
+National Aeronautics and Space Administration,NASA/LARC/SD/ASDC,610,12/18/2017
+National Aeronautics and Space Administration,NASA/MSFC/AMSR SIPS/LANCE,6,12/19/2017
+National Aeronautics and Space Administration,NASA/MSFC/GHRC,390,12/18/2017
+National Aeronautics and Space Administration,National Aeronautics and Space Administration,6718,12/19/2017
+National Aeronautics and Space Administration,National Snow and Ice Data Center,663,12/19/2017
+National Aeronautics and Space Administration,Not provided,145,12/19/2017
+National Aeronautics and Space Administration,NSIDC,724,12/19/2017
+National Aeronautics and Space Administration,OB.DAAC,7309,12/19/2017
+National Aeronautics and Space Administration,OBPG,84,12/18/2017
 National Aeronautics and Space Administration,OCIO,3,11/25/2015
 National Aeronautics and Space Administration,Office of Safety and Mission Assurance,2,07/08/2015
 National Aeronautics and Space Administration,Office of the Chief Information Officer,2,07/08/2015
 National Aeronautics and Space Administration,Office of the Chief Technologist,22,07/08/2015
-National Aeronautics and Space Administration,ORNL_DAAC,1111,10/20/2016
-National Aeronautics and Space Administration,PO.DAAC,295,05/07/2016
+National Aeronautics and Space Administration,OMI SIPS,8,12/19/2017
+National Aeronautics and Space Administration,ORNL_DAAC,2409,12/19/2017
+National Aeronautics and Space Administration,PO.DAAC,2591,12/19/2017
 National Aeronautics and Space Administration,Science Mission Directorate,158,07/09/2015
-National Aeronautics and Space Administration,SEDAC,189,10/09/2017
+National Aeronautics and Space Administration,SEDAC,660,12/19/2017
+National Aeronautics and Space Administration,Space Sciences Laboratory University of California Berkeley,1,12/19/2017
 National Aeronautics and Space Administration,Space Technology Mission Directorate,7036,12/01/2015
 National Aeronautics and Space Administration,Systems Review Office,1,07/08/2015
+National Aeronautics and Space Administration,United States Antarctic Resource Center U.S. Geological Survey U.S. Department of the Interior,1,12/19/2017
 National Archives and Records Administration,National Archives and Records Administration,48,05/28/2016
 National Archives and Records Administration,National Archives and Records Administration,39,05/28/2016
 National Archives and Records Administration,Office of Innovation,1,10/23/2015
@@ -587,8 +614,8 @@ Small Business Administration,U.S. Small Business Administration,99,11/06/2017
 Social Security Administration,Social Security Administration,994,12/02/2017
 Social Security Administration,Department/Agency level/No publisher,7,04/01/2017
 Social Security Administration,Social Security Administration,987,12/02/2017
-US Agency for International Development,US Agency for International Development,192,11/30/2017
-US Agency for International Development,USAID,192,11/30/2017
+US Agency for International Development,US Agency for International Development,193,12/07/2017
+US Agency for International Development,USAID,193,12/07/2017
 Broadcasting Board of Governors,Broadcasting Board of Governors,6,01/12/2014
 Commodity Futures Trading Commission,Commodity Futures Trading Commission,3,01/12/2014
 Consumer Financial Protection Bureau,Consumer Financial Protection Bureau,2,09/26/2015
@@ -604,8 +631,8 @@ Executive Office of the President,Office of National Drug Control Policy,1,01/12
 Executive Office of the President,Office of Science and Technology Policy,6,01/12/2014
 Executive Office of the President,US Trade Representative,17,01/12/2014
 Executive Office of the President,White House,4,01/12/2014
-Federal Communications Commission,Federal Communications Commission,18,11/30/2017
-Federal Communications Commission,opendata.fcc.gov,18,11/30/2017
+Federal Communications Commission,Federal Communications Commission,15,12/19/2017
+Federal Communications Commission,opendata.fcc.gov,15,12/19/2017
 Federal Deposit Insurance Corporation,Federal Deposit Insurance Corporation,3,01/12/2014
 Federal Election Commission,Federal Election Commission,4,01/12/2014
 Federal Housing Finance Agency,Federal Housing Finance Agency,2,05/29/2014
@@ -622,12 +649,12 @@ Library of Congress,Library of Congress,9,05/15/2017
 Library of Congress,Library of Congress,9,05/15/2017
 Merit Systems Protection Board,Merit Systems Protection Board,1,07/05/2017
 Merit Systems Protection Board,Merit Systems Protection Board,1,07/05/2017
-Millenium Challenge Corporation,Millenium Challenge Corporation,144,11/30/2017
+Millenium Challenge Corporation,Millenium Challenge Corporation,147,12/22/2017
 Millenium Challenge Corporation,MCC,4,10/16/2016
-Millenium Challenge Corporation,Millennium Challenge Corporation,140,11/30/2017
+Millenium Challenge Corporation,Millennium Challenge Corporation,143,12/22/2017
 National Capital Planning Commission,National Capital Planning Commission,4,10/09/2014
-National Endowment for the Humanities,National Endowment for the Humanities,14,11/21/2017
-National Endowment for the Humanities,NEH,14,11/21/2017
+National Endowment for the Humanities,National Endowment for the Humanities,14,12/04/2017
+National Endowment for the Humanities,NEH,14,12/04/2017
 National Labor Relations Board,National Labor Relations Board,56,01/12/2014
 National Transportation Safety Board,National Transportation Safety Board,24,12/17/2015
 National Transportation Safety Board,National Transportation Safety Board,24,12/17/2015
@@ -684,79 +711,78 @@ US Office of the Special Counsel,US Office of the Special Counsel,3,01/12/2014
 "City and County of Durham, North Carolina",Tax Administration,5,10/03/2017
 "City and County of Durham, North Carolina",U.S. Census Bureau,5,07/17/2017
 "City and County of Durham, North Carolina",University of South Carolina Hazards Research Lab Department of Geography,1,07/17/2017
-City of Austin,City of Austin,1188,11/30/2017
-City of Austin,data.austintexas.gov,1187,11/30/2017
+City of Austin,City of Austin,1000,12/20/2017
+City of Austin,data.austintexas.gov,999,12/20/2017
 City of Austin,Department/Agency level/No publisher,1,05/24/2016
-City of Baltimore,City of Baltimore,435,11/30/2017
-City of Baltimore,data.baltimorecity.gov,435,11/30/2017
-City of Baton Rouge,City of Baton Rouge,47,11/30/2017
-City of Baton Rouge,data.brla.gov,47,11/30/2017
-City of Bloomington,City of Bloomington,133,12/02/2017
-City of Bloomington,City of Bloomington,133,12/02/2017
-City of Boise,City of Boise,12,08/08/2017
-City of Boise,City of Boise Idaho,12,08/08/2017
-City of Charlotte,City of Charlotte,63,11/30/2017
-City of Charlotte,City of Charlotte,63,11/30/2017
+City of Baltimore,City of Baltimore,432,12/20/2017
+City of Baltimore,data.baltimorecity.gov,432,12/20/2017
+City of Baton Rouge,City of Baton Rouge,40,12/19/2017
+City of Baton Rouge,data.brla.gov,40,12/19/2017
+City of Bloomington,City of Bloomington,134,12/22/2017
+City of Bloomington,City of Bloomington,134,12/22/2017
+City of Boise,City of Boise,12,12/07/2017
+City of Boise,City of Boise Idaho,12,12/07/2017
+City of Charlotte,City of Charlotte,59,12/19/2017
+City of Charlotte,City of Charlotte,59,12/19/2017
 City of Chesapeake,City of Chesapeake,31,10/03/2017
 City of Chesapeake,City of Chesapeake VA,31,10/03/2017
-City of Chicago,City of Chicago,693,11/30/2017
-City of Chicago,data.cityofchicago.org,693,11/30/2017
-City of Hartford,City of Hartford,51,11/30/2017
-City of Hartford,data.hartford.gov,51,11/30/2017
-City of Honolulu,City of Honolulu,160,11/30/2017
-City of Honolulu,data.honolulu.gov,160,11/30/2017
+City of Chicago,City of Chicago,689,12/20/2017
+City of Chicago,data.cityofchicago.org,689,12/20/2017
+City of Hartford,City of Hartford,50,12/20/2017
+City of Hartford,data.hartford.gov,50,12/20/2017
+City of Honolulu,City of Honolulu,127,12/20/2017
+City of Honolulu,data.honolulu.gov,127,12/20/2017
 "City of Jackson, Mississippi",City of Jackson Mississippi,51,04/07/2017
 "City of Jackson, Mississippi",data.jacksonms.gov,50,04/07/2017
 "City of Jackson, Mississippi",Department/Agency level/No publisher,1,02/10/2017
-City of Los Angeles,City of Los Angeles,288,12/02/2017
-City of Los Angeles,data.lacity.org,288,12/02/2017
-City of New Orleans,City of New Orleans,73,12/03/2017
-City of New Orleans,appsteam@socrata.com,1,12/03/2017
-City of New Orleans,data.nola.gov,72,12/03/2017
-City of New York,City of New York,1786,11/30/2017
-City of New York,data.cityofnewyork.us,1783,11/30/2017
+City of Los Angeles,City of Los Angeles,293,12/22/2017
+City of Los Angeles,data.lacity.org,293,12/22/2017
+City of New Orleans,City of New Orleans,76,12/22/2017
+City of New Orleans,appsteam@socrata.com,1,12/22/2017
+City of New Orleans,data.nola.gov,75,12/22/2017
+City of New York,City of New York,1597,12/20/2017
+City of New York,data.cityofnewyork.us,1594,12/20/2017
 City of New York,Department/Agency level/No publisher,3,06/09/2016
 City of Philadelphia,City of Philadelphia,91,04/09/2015
 City of Philadelphia,City Of Philadelphia,1,04/09/2015
 City of Philadelphia,City of Philadelphia,85,04/09/2015
 City of Philadelphia,City of Philadelphia,5,04/09/2015
-City of Providence,City of Providence,176,11/30/2017
-City of Providence,data.providenceri.gov,168,11/30/2017
+City of Providence,City of Providence,171,12/19/2017
+City of Providence,data.providenceri.gov,163,12/19/2017
 City of Providence,Department/Agency level/No publisher,8,07/13/2017
-City of San Francisco,City of San Francisco,484,11/30/2017
-City of San Francisco,data.sfgov.org,484,11/30/2017
-City of Santa Rosa,City of Santa Rosa,100,11/30/2017
-City of Santa Rosa,data.srcity.org,100,11/30/2017
-City of Seattle,City of Seattle,571,11/30/2017
-City of Seattle,City of Seattle GIS Program,19,11/07/2017
-City of Seattle,data.seattle.gov,550,11/30/2017
+City of San Francisco,City of San Francisco,452,12/19/2017
+City of San Francisco,data.sfgov.org,452,12/19/2017
+City of Santa Rosa,City of Santa Rosa,101,12/19/2017
+City of Santa Rosa,data.srcity.org,101,12/19/2017
+City of Seattle,City of Seattle,502,12/20/2017
+City of Seattle,data.seattle.gov,500,12/20/2017
 City of Seattle,Department/Agency level/No publisher,2,09/12/2017
-City of Sioux Falls,City of Sioux Falls,74,11/30/2017
-City of Sioux Falls,City of Sioux Falls GIS,74,11/30/2017
-City of Somerville,City of Somerville,46,11/30/2017
-City of Somerville,data.somervillema.gov,46,11/30/2017
-City of Tempe,City of Tempe,46,12/03/2017
-City of Tempe,City of Tempe,46,12/03/2017
-Louisville Metro Government,Louisville Metro Government,190,11/30/2017
+City of Sioux Falls,City of Sioux Falls,74,12/19/2017
+City of Sioux Falls,City of Sioux Falls GIS,74,12/19/2017
+City of Somerville,City of Somerville,46,12/19/2017
+City of Somerville,data.somervillema.gov,46,12/19/2017
+City of Tempe,City of Tempe,50,12/23/2017
+City of Tempe,City of Tempe,50,12/23/2017
+Louisville Metro Government,Louisville Metro Government,191,12/19/2017
 Louisville Metro Government,Air Pollution Control District,12,08/19/2017
-Louisville Metro Government,Animal Services,5,11/30/2017
+Louisville Metro Government,Animal Services,5,12/19/2017
 Louisville Metro Government,Bike Louisville,1,07/30/2017
-Louisville Metro Government,Codes & Regulations,10,11/30/2017
+Louisville Metro Government,Codes & Regulations,10,12/19/2017
 Louisville Metro Government,Community Services,22,03/16/2017
-Louisville Metro Government,Construction Review Develop Louisville,3,11/30/2017
+Louisville Metro Government,Construction Review Develop Louisville,3,12/19/2017
 Louisville Metro Government,Corrections,1,03/16/2017
 Louisville Metro Government,data.louisvilleky.gov,1,03/23/2017
-Louisville Metro Government,Develop Louisville,24,11/30/2017
-Louisville Metro Government,Develop Louisville Construction Review,1,11/30/2017
+Louisville Metro Government,Develop Louisville,24,12/19/2017
+Louisville Metro Government,Develop Louisville Construction Review,1,12/19/2017
 Louisville Metro Government,Develop Louisville MetroSafe,1,03/16/2017
 Louisville Metro Government,Economic Development,1,03/16/2017
 Louisville Metro Government,Emergency Management,2,03/16/2017
 Louisville Metro Government,EMS,1,03/16/2017
-Louisville Metro Government,Health & Wellness,7,11/30/2017
+Louisville Metro Government,Health & Wellness,7,12/19/2017
 Louisville Metro Government,Housing and Community Development,2,03/16/2017
 Louisville Metro Government,Human Resources,3,10/31/2017
 Louisville Metro Government,Human Resources Management & Budget,1,10/31/2017
-Louisville Metro Government,Information Technology,7,09/02/2017
+Louisville Metro Government,Information Technology,7,12/05/2017
 Louisville Metro Government,Jefferson County Clerk Election Center,3,04/27/2017
 Louisville Metro Government,LOJIC,15,08/25/2017
 Louisville Metro Government,Louisville Fire,7,04/20/2017
@@ -771,54 +797,54 @@ Louisville Metro Government,MetroCall,1,08/26/2016
 Louisville Metro Government,MetroSafe,1,03/16/2017
 Louisville Metro Government,MetroSafe Louisville Fire,1,03/16/2017
 Louisville Metro Government,Parking Authority (PARC),5,03/16/2017
-Louisville Metro Government,Performance Improvement,3,06/23/2017
-Louisville Metro Government,Performance Improvement and Innovation Information Technology,1,04/06/2017
+Louisville Metro Government,Performance Improvement,3,12/05/2017
+Louisville Metro Government,Performance Improvement and Innovation Information Technology,2,12/05/2017
 Louisville Metro Government,Performance Improvement and Innovation Louisville Downtown Partnership,1,06/23/2017
 Louisville Metro Government,Planning and Design,9,03/16/2017
 Louisville Metro Government,Public Works & Assets,13,11/30/2017
 Louisville Metro Government,Public Works & Assets Bike Louisville,1,07/30/2017
 Louisville Metro Government,Public Works & Assets Information Technology Performance Improvement and Innovation,1,04/06/2017
-Municipality of Anchorage,Municipality of Anchorage,25,11/30/2017
-Municipality of Anchorage,data.muni.org,25,11/30/2017
-"Town of Cary, North Carolina",Town of Cary North Carolina,36,11/07/2017
+Municipality of Anchorage,Municipality of Anchorage,24,12/19/2017
+Municipality of Anchorage,data.muni.org,24,12/19/2017
+"Town of Cary, North Carolina",Town of Cary North Carolina,37,12/13/2017
 "Town of Cary, North Carolina",National Oceanic and Atmospheric Administration – National Centers for Environmental Information,1,07/22/2017
 "Town of Cary, North Carolina",The Town of Cary,4,07/22/2017
-"Town of Cary, North Carolina",Town of Cary,28,11/07/2017
+"Town of Cary, North Carolina",Town of Cary,29,12/13/2017
 "Town of Cary, North Carolina",Wake County Government,1,07/22/2017
 "Town of Cary, North Carolina",WakeGov Open Data,2,07/22/2017
-"Town of Chapel Hill, North Carolina",Town of Chapel Hill North Carolina,49,11/20/2017
+"Town of Chapel Hill, North Carolina",Town of Chapel Hill North Carolina,54,12/11/2017
 "Town of Chapel Hill, North Carolina",NCDOT Division of Bicycle and Pedestrian Transportation,2,11/20/2017
-"Town of Chapel Hill, North Carolina",Town of Chapel Hill,46,11/20/2017
+"Town of Chapel Hill, North Carolina",Town of Chapel Hill,51,12/11/2017
 "Town of Chapel Hill, North Carolina",US Census,1,11/20/2017
-Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,256,11/30/2017
-Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,256,11/30/2017
-"Arlington County, VA",Arlington County VA,152,11/12/2017
-"Arlington County, VA",Arlington County,152,11/12/2017
-Cook County of Illinois,Cook County of Illinois,511,11/30/2017
-Cook County of Illinois,datacatalog.cookcountyil.gov,511,11/30/2017
-"Fairfax County, Virginia",Fairfax County Virginia,173,11/30/2017
-"Fairfax County, Virginia",Fairfax County GIS,173,11/30/2017
-"King County, Washington",King County Washington,288,11/30/2017
-"King County, Washington",data.kingcounty.gov,288,11/30/2017
-"Loudoun County, Virginia",Loudoun County Virginia,41,11/05/2017
-"Loudoun County, Virginia",Loudoun GIS,41,11/05/2017
-Montgomery County of Maryland,Montgomery County of Maryland,212,11/30/2017
-Montgomery County of Maryland,data.montgomerycountymd.gov,212,11/30/2017
-Wake County,Wake County,283,11/30/2017
-Wake County,Wake County,283,11/30/2017
-NSGIC Education | GIS Inventory,NSGIC Education | GIS Inventory,727,08/19/2017
-NSGIC Local Govt | GIS Inventory,NSGIC Local Govt | GIS Inventory,7907,09/21/2017
+Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,260,12/19/2017
+Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,260,12/19/2017
+"Arlington County, VA",Arlington County VA,152,12/13/2017
+"Arlington County, VA",Arlington County,152,12/13/2017
+Cook County of Illinois,Cook County of Illinois,523,12/19/2017
+Cook County of Illinois,datacatalog.cookcountyil.gov,523,12/19/2017
+"Fairfax County, Virginia",Fairfax County Virginia,176,12/19/2017
+"Fairfax County, Virginia",Fairfax County GIS,176,12/19/2017
+"King County, Washington",King County Washington,289,12/19/2017
+"King County, Washington",data.kingcounty.gov,289,12/19/2017
+"Loudoun County, Virginia",Loudoun County Virginia,41,12/07/2017
+"Loudoun County, Virginia",Loudoun GIS,41,12/07/2017
+Montgomery County of Maryland,Montgomery County of Maryland,213,12/19/2017
+Montgomery County of Maryland,data.montgomerycountymd.gov,213,12/19/2017
+Wake County,Wake County,282,12/19/2017
+Wake County,Wake County,282,12/19/2017
+NSGIC Education | GIS Inventory,NSGIC Education | GIS Inventory,762,12/13/2017
+NSGIC Local Govt | GIS Inventory,NSGIC Local Govt | GIS Inventory,9479,12/14/2017
 Great Lakes Commission,Great Lakes Commission,60,05/17/2013
 Legal Services Corporation,Legal Services Corporation,1,02/10/2017
 Legal Services Corporation,Office of Data Governance and Analysis,1,02/10/2017
-NSGIC Non-Profit | GIS Inventory,NSGIC Non-Profit | GIS Inventory,20,08/19/2017
+NSGIC Non-Profit | GIS Inventory,NSGIC Non-Profit | GIS Inventory,21,12/14/2017
 The Fund for Peace,The Fund for Peace,1,07/08/2014
 United Nations Cartographic Section,United Nations Cartographic Section,135,02/25/2015
 World Resources Institute,World Resources Institute,1,06/25/2014
 International Boundary Commission,International Boundary Commission,1,04/22/2016
 Pacific States Marine Fisheries Commission,Pacific States Marine Fisheries Commission,32,05/17/2013
-NSGIC Private | GIS Inventory,NSGIC Private | GIS Inventory,134,08/19/2017
-NSGIC Regional | GIS Inventory,NSGIC Regional | GIS Inventory,607,08/19/2017
+NSGIC Private | GIS Inventory,NSGIC Private | GIS Inventory,235,12/14/2017
+NSGIC Regional | GIS Inventory,NSGIC Regional | GIS Inventory,823,12/14/2017
 Arizona Geological Survey,Arizona Geological Survey,950,04/10/2015
 California Department of Resources,California Department of Resources,583,04/10/2015
 California Environmental Health Tracking Program,California Environmental Health Tracking Program,16,04/10/2015
@@ -826,46 +852,46 @@ Florida Department of Environmental Protection,Florida Department of Environment
 Florida Department of Environmental Protection,Engineering Hydrology & Geology Program,3,08/25/2016
 Louisiana Geographic Information Center,Louisiana Geographic Information Center,274,08/02/2016
 Minnesota Department of Natural Resources,Minnesota Department of Natural Resources,177,04/10/2015
-NSGIC State | GIS Inventory,NSGIC State | GIS Inventory,2142,08/19/2017
+NSGIC State | GIS Inventory,NSGIC State | GIS Inventory,2205,12/14/2017
 State of Alaska,State of Alaska,369,04/10/2015
 State of Arkansas,State of Arkansas,359,04/10/2015
 State of California,State of California,2676,11/21/2017
-State of Connecticut,State of Connecticut,457,11/30/2017
-State of Connecticut,data.ct.gov,457,11/30/2017
-State of Hawaii,State of Hawaii,644,12/03/2017
-State of Hawaii,data.hawaii.gov,644,12/03/2017
+State of Connecticut,State of Connecticut,439,12/20/2017
+State of Connecticut,data.ct.gov,439,12/20/2017
+State of Hawaii,State of Hawaii,694,12/22/2017
+State of Hawaii,data.hawaii.gov,694,12/22/2017
 State of Illinois,State of Illinois,619,09/21/2017
 State of Illinois,data.illinois.gov,619,09/21/2017
-State of Iowa,State of Iowa,520,12/03/2017
-State of Iowa,data.iowa.gov,520,12/03/2017
-State of Maryland,State of Maryland,385,11/30/2017
-State of Maryland,data.maryland.gov,385,11/30/2017
+State of Iowa,State of Iowa,522,//
+State of Iowa,data.iowa.gov,522,//
+State of Maryland,State of Maryland,374,12/20/2017
+State of Maryland,data.maryland.gov,374,12/20/2017
 State of Minnesota,State of Minnesota,234,10/27/2017
-State of Missouri,State of Missouri,187,11/30/2017
-State of Missouri,data.mo.gov,187,11/30/2017
-State of New York,State of New York,621,11/30/2017
-State of New York,data.ny.gov,157,11/30/2017
-State of New York,State of New York,464,11/30/2017
+State of Missouri,State of Missouri,188,12/20/2017
+State of Missouri,data.mo.gov,188,12/20/2017
+State of New York,State of New York,599,12/20/2017
+State of New York,data.ny.gov,151,12/20/2017
+State of New York,State of New York,448,12/20/2017
 State of North Carolina,State of North Carolina,2,04/09/2015
-State of North Dakota,State of North Dakota,327,11/30/2017
-State of North Dakota,Attorney General,1,04/07/2017
-State of North Dakota,Department of Agriculture,1,04/14/2017
-State of North Dakota,Department of Emergency Services,14,11/14/2017
-State of North Dakota,Department of Emergency Services Department of Transportation,1,11/14/2017
-State of North Dakota,Department of Health,23,09/21/2017
-State of North Dakota,Department of Public Instruction,3,11/14/2017
-State of North Dakota,Department of Transportation,21,11/30/2017
-State of North Dakota,Department of Trust Lands,2,08/12/2017
-State of North Dakota,Game and Fish Department,120,08/12/2017
-State of North Dakota,Geological Survey,4,04/07/2017
-State of North Dakota,gishubdata.nd.gov,1,04/07/2017
-State of North Dakota,Information Technology Department,4,04/07/2017
-State of North Dakota,Legislative Council,1,04/07/2017
-State of North Dakota,ND GIS Hub,89,11/30/2017
-State of North Dakota,Oil and Gas Division,1,04/07/2017
-State of North Dakota,Parks and Recreation Department,2,04/07/2017
-State of North Dakota,Public Service Commission,1,04/07/2017
-State of North Dakota,State Water Commission,38,11/14/2017
+State of North Dakota,State of North Dakota,327,12/19/2017
+State of North Dakota,Attorney General,1,12/19/2017
+State of North Dakota,Department of Agriculture,1,12/19/2017
+State of North Dakota,Department of Emergency Services,14,12/19/2017
+State of North Dakota,Department of Emergency Services Department of Transportation,1,12/19/2017
+State of North Dakota,Department of Health,23,12/19/2017
+State of North Dakota,Department of Public Instruction,3,12/19/2017
+State of North Dakota,Department of Transportation,21,12/19/2017
+State of North Dakota,Department of Trust Lands,2,12/19/2017
+State of North Dakota,Game and Fish Department,120,12/19/2017
+State of North Dakota,Geological Survey,4,12/19/2017
+State of North Dakota,gishubdata.nd.gov,1,12/19/2017
+State of North Dakota,Information Technology Department,4,12/19/2017
+State of North Dakota,Legislative Council,1,12/19/2017
+State of North Dakota,ND GIS Hub,89,12/19/2017
+State of North Dakota,Oil and Gas Division,1,12/19/2017
+State of North Dakota,Parks and Recreation Department,2,12/19/2017
+State of North Dakota,Public Service Commission,1,12/19/2017
+State of North Dakota,State Water Commission,38,12/19/2017
 State of Oklahoma,State of Oklahoma,303,09/15/2016
 State of Oklahoma,Board of Tests for Alcohol and Drug Influence,1,09/15/2016
 State of Oklahoma,data.ok.gov,55,06/29/2016
@@ -880,18 +906,14 @@ State of Oklahoma,Oklahoma Tax Commission,1,09/15/2016
 State of Oklahoma,Oklahoma Tourism and Recreation Department,1,09/15/2016
 State of Oklahoma,OKStateStat,135,09/15/2016
 State of Oklahoma,Used Motor Vehicle Parts Commission,3,09/15/2016
-State of Oregon,State of Oregon,531,12/02/2017
-State of Oregon,data.oregon.gov,531,12/02/2017
-State of Washington,State of Washington,545,11/30/2017
-State of Washington,Association of Washington Cities,40,09/12/2017
-State of Washington,data.wa.gov,474,11/30/2017
-State of Washington,Department/Agency level/No publisher,1,11/21/2017
-State of Washington,WA State Department of Social and Health Services,10,11/07/2017
-State of Washington,Washington State Geospatial Portal,20,11/30/2017
-Vermont Center for Geographic Information,Vermont Center for Geographic Information,736,11/30/2017
-Vermont Center for Geographic Information,VT Center for Geographic Information,736,11/30/2017
+State of Oregon,State of Oregon,540,12/23/2017
+State of Oregon,data.oregon.gov,540,12/23/2017
+State of Washington,State of Washington,457,12/20/2017
+State of Washington,data.wa.gov,457,12/20/2017
+Vermont Center for Geographic Information,Vermont Center for Geographic Information,818,12/19/2017
+Vermont Center for Geographic Information,VT Center for Geographic Information,818,12/19/2017
 Virginia Department of Environmental Quality,Virginia Department of Environmental Quality,2,04/10/2015
-NSGIC Tribal | GIS Inventory,NSGIC Tribal | GIS Inventory,7,08/19/2017
+NSGIC Tribal | GIS Inventory,NSGIC Tribal | GIS Inventory,8,12/14/2017
 "Baruch Institute for Marine and Coastal Sciences, Univ of South Carolina",Baruch Institute for Marine and Coastal Sciences Univ of South Carolina,26,05/17/2013
 "Center for International Earth Science Information Network, Columbia University",Center for International Earth Science Information Network Columbia University,2,10/09/2014
 Cornell University,Cornell University,1759,05/17/2013
