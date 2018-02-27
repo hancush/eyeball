@@ -1,5 +1,5 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,35089
+Department of the Interior,Department of the Interior,35091
 National Aeronautics and Space Administration,National Aeronautics and Space Administration,28621
 National Aeronautics and Space Administration,OB.DAAC,5523
 Department of the Interior,Fish and Wildlife Service,4765
@@ -43,8 +43,8 @@ Department of Homeland Security,Coast Guard United States,62
 Louisville Metro Government,data.louisvilleky.gov,62
 Department of the Interior,Bureau of Land Management – Eric Hiebenthal,59
 Social Security Administration,Social Security Administration,50
-City of New York,City of New York,48
-City of New York,data.cityofnewyork.us,48
+City of New York,City of New York,47
+City of New York,data.cityofnewyork.us,47
 Department of Transportation,Department of Transportation,46
 Department of the Interior,BLM Colorado State Office,41
 Department of Health and Human Services,Centers for Medicare & Medicaid Services,39
@@ -54,19 +54,19 @@ Institute of Museum and Library Services,Institute of Museum and Library Service
 Montgomery County of Maryland,Montgomery County of Maryland,36
 Montgomery County of Maryland,data.montgomerycountymd.gov,36
 NSGIC Education | GIS Inventory,NSGIC Education | GIS Inventory,35
-Executive Office of the President,Executive Office of the President,33
+Executive Office of the President,Executive Office of the President,32
 Department of Agriculture,Rural Development Department of Agriculture,32
 Department of Energy,University of Nevada,32
 Department of the Interior,BLM – Russell Slatton,30
 Department of Agriculture,Farm Service Agency Department of Agriculture,28
 Department of Homeland Security,U.S. Customs and Border Protection,25
 City of Tempe,City of Tempe,24
-Millenium Challenge Corporation,Millenium Challenge Corporation,23
+Millenium Challenge Corporation,Millenium Challenge Corporation,24
 State of New York,data.ny.gov,22
 Department of Education,Department of Education,20
+Millenium Challenge Corporation,Millennium Challenge Corporation,20
 Department of Commerce,US Census Bureau Department of Commerce,20
 Department of the Interior,BLM Colorado – State Geospatial Lead,19
-Millenium Challenge Corporation,Millennium Challenge Corporation,19
 University of Idaho,University of Idaho,19
 City of Seattle,City of Seattle GIS Program,18
 State of Illinois,State of Illinois,18
@@ -209,6 +209,7 @@ Department of Agriculture,Economic Research Service Department of Agriculture,-1
 Louisville Metro Government,Emergency Management,-1
 Department of Energy,Energy & Geoscience Institute at the University of Utah,-1
 State of North Dakota,Game and Fish Department,-1
+Executive Office of the President,Networking and Information Technology Research and Development,-1
 Small Business Administration,Small Business Administration,-1
 Department of Energy,Tusaar Corp.,-1
 National Aeronautics and Space Administration,ASF,-2
@@ -243,8 +244,8 @@ City of Honolulu,City of Honolulu,-13
 City of Honolulu,data.honolulu.gov,-13
 City of Charlotte,City of Charlotte,-22
 Department of Health and Human Services,Department of Health and Human Services,-26
-State of Maryland,State of Maryland,-33
-State of Maryland,data.maryland.gov,-33
+State of Maryland,State of Maryland,-35
+State of Maryland,data.maryland.gov,-35
 Department of the Interior,Bureau of Ocean Energy Management,-48
 Department of the Interior,Bureau of Land Management,-64
 National Aeronautics and Space Administration,Atmospheric Science Data Center,-90
