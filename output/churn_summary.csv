@@ -1,6 +1,6 @@
 parent_agency,subagency,net_difference
 Department of the Interior,Department of the Interior,35129
-National Aeronautics and Space Administration,National Aeronautics and Space Administration,28621
+National Aeronautics and Space Administration,National Aeronautics and Space Administration,28620
 National Aeronautics and Space Administration,OB.DAAC,5523
 Department of the Interior,Fish and Wildlife Service,4790
 State of California,State of California,4701
@@ -33,14 +33,14 @@ Department of Health and Human Services,Centers for Disease Control and Preventi
 Department of the Interior,OR BLM,73
 Department of Agriculture,NRCS,71
 City of Bloomington,City of Bloomington,70
-State of Oregon,State of Oregon,67
-State of Oregon,data.oregon.gov,67
+State of Oregon,State of Oregon,69
+State of Oregon,data.oregon.gov,69
 Louisville Metro Government,Louisville Metro Government,66
 Department of Agriculture,U.S. Forest Service,65
 NSGIC State | GIS Inventory,NSGIC State | GIS Inventory,63
 National Aeronautics and Space Administration,OBPG,63
+Louisville Metro Government,data.louisvilleky.gov,63
 Department of Homeland Security,Coast Guard United States,62
-Louisville Metro Government,data.louisvilleky.gov,62
 Department of the Interior,Bureau of Land Management – Eric Hiebenthal,59
 Social Security Administration,Social Security Administration,52
 City of New York,City of New York,49
@@ -174,7 +174,6 @@ Department of Energy,Nevada Bureau of Mines and Geology,1
 National Aeronautics and Space Administration,Not provided,1
 Department of the Interior,OR,1
 Department of Energy,Oak Ridge National Laboratory,1
-Louisville Metro Government,Parking Authority (PARC),1
 Louisville Metro Government,Performance Improvement and Innovation Information Technology,1
 Louisville Metro Government,Public Works & Assets,1
 Railroad Retirement Board,Railroad Retirement Board,1
@@ -197,6 +196,7 @@ Louisville Metro Government,Human Resources,0
 Department of Homeland Security,Immigration and Customs Enforcement United States,0
 Louisville Metro Government,Metro Parks,0
 Department of Education,Office for Civil Rights,0
+Louisville Metro Government,Parking Authority (PARC),0
 Louisville Metro Government,Planning and Design,0
 Department of Energy,Wright State University,0
 City of Hartford,data.hartford.gov,0
@@ -257,8 +257,8 @@ National Aeronautics and Space Administration,Atmospheric Science Data Center,-9
 Department of Energy,National Renewable Energy Laboratory,-97
 Municipality of Anchorage,data.muni.org,-135
 Municipality of Anchorage,Municipality of Anchorage,-161
-State of Iowa,State of Iowa,-197
-State of Iowa,data.iowa.gov,-197
+State of Iowa,State of Iowa,-196
+State of Iowa,data.iowa.gov,-196
 Department of Energy,Department of Energy,-368
 Department of Justice,Department of Justice,-696
 Department of the Interior,National Park Service,-939
