@@ -1,6 +1,6 @@
 parent_agency,subagency,net_difference
 Department of the Interior,Department of the Interior,35129
-National Aeronautics and Space Administration,National Aeronautics and Space Administration,28620
+National Aeronautics and Space Administration,National Aeronautics and Space Administration,28621
 National Aeronautics and Space Administration,OB.DAAC,5523
 Department of the Interior,Fish and Wildlife Service,4790
 State of California,State of California,4701
@@ -13,7 +13,7 @@ National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/GESDISC,111
 Department of Veterans Affairs,Department of Veterans Affairs,617
 Department of Agriculture,Department of Agriculture,573
 National Aeronautics and Space Administration,SEDAC,471
-Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),331
+Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),332
 Vermont Center for Geographic Information,VT Center for Geographic Information,295
 Vermont Center for Geographic Information,Vermont Center for Geographic Information,295
 National Aeronautics and Space Administration,NSIDC,273
@@ -262,7 +262,7 @@ State of Iowa,data.iowa.gov,-196
 Department of Energy,Department of Energy,-368
 Department of Justice,Department of Justice,-696
 Department of the Interior,National Park Service,-939
-Environmental Protection Agency,Environmental Protection Agency,-1056
+Environmental Protection Agency,Environmental Protection Agency,-1055
 Department of Commerce,US Census Bureau,-2139
 Department of the Interior,U.S. Geological Survey,-5828
 Department of Commerce,National Oceanic and Atmospheric Administration,-6156
