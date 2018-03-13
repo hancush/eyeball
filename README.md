@@ -11,32 +11,47 @@ Here thar be a simple scraper that compares the dataset totals on [data.gov/metr
 
 ## Makin' data
 
+Make a virtual environment, and install the requirements.
+
+```bash
+mkvirtualenv eyeball
+pip install -r requirements.txt
+```
+
+Set `VIRTUAL_ENV` to the location of your virtual env `bin/`.
+
+```bash
+export VIRTUAL_ENV=~/.virtualenvs/eyeball/bin  # Assumes virtualenv called eyeball
+```
+
 #### If you have [GNU Make](https://www.gnu.org/software/make/)
+
+Make the data.
 
 ```bash
 make clean
 make all
 ```
 
-#### If you don't have Make 
+#### If you don't have Make
 
 Update `archive.csv` and `output/log.csv`.
 
 ```bash
-python app.py
+$VIRTUAL_ENV/python app.py
 ```
 
 Then generate the summary file.
 
 ```bash
-csvsql --query ' \
+$VIRTUAL_ENV/csvsql --query " \
         SELECT \
           parent_agency, \
           subagency, \
           SUM(delta) AS net_difference \
         FROM log \
         GROUP BY subagency \
-        ORDER BY SUM(delta) DESC' \
+        ORDER BY SUM(delta) DESC" \
     output/log.csv > output/churn_summary.csv
 ```
 
@@ -46,7 +61,7 @@ csvsql --query ' \
 - `outout/log.csv` is a running log of each time those counts changed, with `delta` being the net difference between the observed total from the scraper and the total in `archive.csv`
 - `output/churn_summary.csv` is the net difference in dataset counts for each subagency between ~Jan. 24 and the last time the scraper was run
 
-#### A note about dataset counts: 
+#### A note about dataset counts:
 
 "... A collection is a group of similar datasets--for example, if there's a dataset that's created every year--so you could have multiple year's worth of data counting as one dataset. Sometimes when agencies organize and group similar datasets as a collection, the total number on catalog.data.gov can decrease significantly when the actual data available has not changed."
 

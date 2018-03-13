@@ -3,10 +3,10 @@ all : output/churn_summary.csv
 
 scrape :
 	# Refreshes output/log.csv and archive.csv
-	~/.virtualenvs/eyeball/bin/python app.py
+	$(VIRTUAL_ENV)/python app.py
 
 output/churn_summary.csv : scrape output/log.csv
-	csvsql --query "SELECT \
+	$(VIRTUAL_ENV)/csvsql --query "SELECT \
 		  parent_agency, \
 		  subagency, \
 		  SUM(delta) AS net_difference \
