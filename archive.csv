@@ -43,7 +43,7 @@ Department of Agriculture,United States Department of Agriculture,2,02/04/2018
 Department of Agriculture,USDA Economic Research Service,1,03/01/2018
 Department of Agriculture,USDA NAL,357,03/01/2018
 Department of Agriculture,USDA-GIPSA,5,02/04/2018
-Department of Commerce,Department of Commerce,67293,03/13/2018
+Department of Commerce,Department of Commerce,67293,03/14/2018
 Department of Commerce,(),2,-
 Department of Commerce,(Point of Contact),12,02/16/2017
 Department of Commerce,(Point of Contact); Penn State University (Principal Investigator); Temple University College of Science and Technology (Principal Investigator),1,02/26/2016
@@ -130,7 +130,7 @@ Department of Commerce,University of Minnesota National Lacustrine Core Reposito
 Department of Commerce,University of Rhode Island (URI) Graduate School of Oceanography (GSO) Marine Geological Samples Laboratory (MGSL) (Point of Contact),1,02/26/2016
 Department of Commerce,University of Washington (Principal Investigator); National Snow and Ice Data Center (Point of Contact),1,02/26/2016
 Department of Commerce,US Census Burea Dept of Commerce,1,07/15/2016
-Department of Commerce,US Census Bureau,820,03/13/2018
+Department of Commerce,US Census Bureau,820,03/14/2018
 Department of Commerce,US Census Bureau,1,03/02/2018
 Department of Commerce,US Census Bureau Department of Commerce,206,03/02/2018
 Department of Commerce,US Census Bureau Dept of Commerce,6,03/02/2018
@@ -171,7 +171,7 @@ Department of Education,Office of Special Education Programs,25,02/04/2018
 Department of Education,Office of the Chief Information Officer,5,09/29/2017
 Department of Education,Office of Vocational and Adult Education,2,06/03/2017
 Department of Education,U.S. Department of Education,14,09/29/2017
-Department of Energy,Department of Energy,2394,03/09/2018
+Department of Energy,Department of Energy,2393,03/09/2018
 Department of Energy,ABB,2,12/03/2017
 Department of Energy,AltaRock Energy Inc,13,02/23/2018
 Department of Energy,Argonne National Laboratory,10,02/23/2018
@@ -271,7 +271,7 @@ Department of Energy,Office of Small and Disadvantaged Business Utilization (OSD
 Department of Energy,Oregon State University,7,02/25/2018
 Department of Energy,Ormat Nevada Inc,19,03/09/2018
 Department of Energy,Oski Energy LLC,12,02/25/2018
-Department of Energy,Pacific Northwest National Laboratory,18,03/09/2018
+Department of Energy,Pacific Northwest National Laboratory,17,03/09/2018
 Department of Energy,Ram Power Inc.,3,08/29/2017
 Department of Energy,Regents of the University University of California,1,08/29/2017
 Department of Energy,Resolute Marine Energy Inc.,2,02/23/2018
@@ -388,7 +388,7 @@ Department of Labor,Wage and Hour Division,3,06/01/2017
 Department of State,Department of State,129,02/04/2018
 Department of State,Department/Agency level/No publisher,21,02/04/2018
 Department of State,U.S. Department of State,108,04/23/2016
-Department of the Interior,Department of the Interior,53954,03/13/2018
+Department of the Interior,Department of the Interior,53954,03/14/2018
 Department of the Interior,Arizona State Office Bureau of Land Management – GIS Manager,2,02/23/2018
 Department of the Interior,Avenza Maps,7,02/23/2018
 Department of the Interior,BLM,10,03/01/2018
@@ -442,7 +442,7 @@ Department of the Interior,Southwestern Indian Polytechnic Institute,1,04/10/201
 Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,23,02/23/2018
 Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office – C Mavencamp,1,02/23/2018
 Department of the Interior,U.S. Department of the Interior Bureau of Land Management (BLM) Idaho State Office,1,02/23/2018
-Department of the Interior,U.S. Geological Survey,51,03/13/2018
+Department of the Interior,U.S. Geological Survey,51,03/14/2018
 Department of the Interior,US Fish and Wildlife Service,1,12/12/2017
 Department of the Interior,Utah BLM State Office,17,02/23/2018
 Department of the Treasury,Department of the Treasury,268,02/27/2018
@@ -544,7 +544,7 @@ General Services Administration,Office of Government-wide Policy,1,12/15/2017
 General Services Administration,Office of Governmentwide Policy,1,12/15/2017
 General Services Administration,Office of the Chief Technology Officer,1,12/03/2016
 General Services Administration,Technology Transformation Service,11,12/01/2016
-National Aeronautics and Space Administration,National Aeronautics and Space Administration,39057,12/26/2017
+National Aeronautics and Space Administration,National Aeronautics and Space Administration,39056,12/26/2017
 National Aeronautics and Space Administration,Aeronautics Research Mission Directorate,10,07/08/2015
 National Aeronautics and Space Administration,Alaska Satellite Facility,131,12/19/2017
 National Aeronautics and Space Administration,Ames Research Center,36,08/24/2015
@@ -744,8 +744,8 @@ City of Honolulu,data.honolulu.gov,135,03/08/2018
 "City of Jackson, Mississippi",City of Jackson Mississippi,51,04/07/2017
 "City of Jackson, Mississippi",data.jacksonms.gov,50,04/07/2017
 "City of Jackson, Mississippi",Department/Agency level/No publisher,1,02/10/2017
-City of Los Angeles,City of Los Angeles,306,03/13/2018
-City of Los Angeles,data.lacity.org,306,03/13/2018
+City of Los Angeles,City of Los Angeles,305,03/13/2018
+City of Los Angeles,data.lacity.org,305,03/13/2018
 City of New Orleans,City of New Orleans,157,03/13/2018
 City of New Orleans,appsteam@socrata.com,1,03/13/2018
 City of New Orleans,data.nola.gov,156,03/13/2018
@@ -762,8 +762,8 @@ City of San Francisco,City of San Francisco,470,03/08/2018
 City of San Francisco,data.sfgov.org,470,03/08/2018
 City of Santa Rosa,City of Santa Rosa,107,03/08/2018
 City of Santa Rosa,data.srcity.org,107,03/08/2018
-City of Seattle,City of Seattle,508,03/08/2018
-City of Seattle,data.seattle.gov,507,03/08/2018
+City of Seattle,City of Seattle,503,03/08/2018
+City of Seattle,data.seattle.gov,502,03/08/2018
 City of Seattle,Department/Agency level/No publisher,1,11/24/2016
 City of Sioux Falls,City of Sioux Falls,74,03/08/2018
 City of Sioux Falls,City of Sioux Falls GIS,74,03/08/2018
@@ -771,7 +771,7 @@ City of Somerville,City of Somerville,45,03/08/2018
 City of Somerville,data.somervillema.gov,45,03/08/2018
 City of Tempe,City of Tempe,56,03/08/2018
 City of Tempe,City of Tempe,56,03/08/2018
-Louisville Metro Government,Louisville Metro Government,255,03/08/2018
+Louisville Metro Government,Louisville Metro Government,254,03/08/2018
 Louisville Metro Government,Air Pollution Control District,12,01/10/2018
 Louisville Metro Government,Animal Services,6,03/08/2018
 Louisville Metro Government,Bike Louisville,2,02/14/2018
@@ -792,7 +792,7 @@ Louisville Metro Government,Information Technology,7,02/14/2018
 Louisville Metro Government,Information Technology Performance Improvement and Innovation Public Works & Assets,1,02/14/2018
 Louisville Metro Government,Jefferson County Clerk Election Center,3,01/10/2018
 Louisville Metro Government,Kentucky State Police,2,01/10/2018
-Louisville Metro Government,LOJIC,17,03/08/2018
+Louisville Metro Government,LOJIC,16,02/14/2018
 Louisville Metro Government,LOJIC Louisville Fire,1,02/14/2018
 Louisville Metro Government,LOJIC MetroSafe,1,02/14/2018
 Louisville Metro Government,Louisville Fire,8,02/14/2018
@@ -830,14 +830,14 @@ Cook County of Illinois,Cook County of Illinois,529,03/08/2018
 Cook County of Illinois,datacatalog.cookcountyil.gov,529,03/08/2018
 "Fairfax County, Virginia",Fairfax County Virginia,176,03/08/2018
 "Fairfax County, Virginia",Fairfax County GIS,176,03/08/2018
-"King County, Washington",King County Washington,282,03/08/2018
-"King County, Washington",data.kingcounty.gov,282,03/08/2018
+"King County, Washington",King County Washington,263,03/08/2018
+"King County, Washington",data.kingcounty.gov,263,03/08/2018
 "Loudoun County, Virginia",Loudoun County Virginia,42,03/08/2018
 "Loudoun County, Virginia",Loudoun GIS,42,03/08/2018
 Montgomery County of Maryland,Montgomery County of Maryland,221,03/08/2018
 Montgomery County of Maryland,data.montgomerycountymd.gov,221,03/08/2018
-Wake County,Wake County,280,03/08/2018
-Wake County,Wake County,280,03/08/2018
+Wake County,Wake County,277,03/08/2018
+Wake County,Wake County,277,03/08/2018
 NSGIC Education | GIS Inventory,NSGIC Education | GIS Inventory,762,12/13/2017
 NSGIC Local Govt | GIS Inventory,NSGIC Local Govt | GIS Inventory,9479,12/14/2017
 Great Lakes Commission,Great Lakes Commission,60,05/17/2013
@@ -879,7 +879,7 @@ State of New York,State of New York,611,03/08/2018
 State of New York,data.ny.gov,163,03/08/2018
 State of New York,State of New York,448,03/08/2018
 State of North Carolina,State of North Carolina,2,04/09/2015
-State of North Dakota,State of North Dakota,329,02/23/2018
+State of North Dakota,State of North Dakota,328,02/23/2018
 State of North Dakota,Attorney General,1,12/19/2017
 State of North Dakota,Department of Agriculture,1,02/14/2018
 State of North Dakota,Department of Emergency Services,14,02/08/2018
@@ -893,7 +893,7 @@ State of North Dakota,Geological Survey,4,02/08/2018
 State of North Dakota,gishubdata.nd.gov,1,12/19/2017
 State of North Dakota,Information Technology Department,4,12/19/2017
 State of North Dakota,Legislative Council,1,12/19/2017
-State of North Dakota,ND GIS Hub,90,01/10/2018
+State of North Dakota,ND GIS Hub,89,01/10/2018
 State of North Dakota,Oil and Gas Division,1,12/19/2017
 State of North Dakota,Parks and Recreation Department,2,12/19/2017
 State of North Dakota,Public Service Commission,1,12/19/2017
@@ -931,7 +931,7 @@ OpenTopography,OpenTopography,247,03/08/2018
 "Scripps Institution of Oceanography, UC San Diego",Scripps Institution of Oceanography UC San Diego,1,05/19/2014
 University of Arizona,University of Arizona,3,05/17/2013
 University of California San Diego,University of California San Diego,5,07/24/2014
-University of Idaho,University of Idaho,178,02/20/2018
+University of Idaho,University of Idaho,205,03/14/2018
 University of New Hampshire,University of New Hampshire,63,05/17/2013
 University of Rhode Island Geospatial Extension Program,University of Rhode Island Geospatial Extension Program,21,05/17/2013
 Washington University St Louis,Washington University St Louis,59,05/17/2013
