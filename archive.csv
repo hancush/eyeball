@@ -43,7 +43,7 @@ Department of Agriculture,United States Department of Agriculture,2,02/04/2018
 Department of Agriculture,USDA Economic Research Service,1,03/01/2018
 Department of Agriculture,USDA NAL,357,03/01/2018
 Department of Agriculture,USDA-GIPSA,5,02/04/2018
-Department of Commerce,Department of Commerce,67293,03/14/2018
+Department of Commerce,Department of Commerce,67292,03/16/2018
 Department of Commerce,(),2,-
 Department of Commerce,(Point of Contact),12,02/16/2017
 Department of Commerce,(Point of Contact); Penn State University (Principal Investigator); Temple University College of Science and Technology (Principal Investigator),1,02/26/2016
@@ -130,7 +130,7 @@ Department of Commerce,University of Minnesota National Lacustrine Core Reposito
 Department of Commerce,University of Rhode Island (URI) Graduate School of Oceanography (GSO) Marine Geological Samples Laboratory (MGSL) (Point of Contact),1,02/26/2016
 Department of Commerce,University of Washington (Principal Investigator); National Snow and Ice Data Center (Point of Contact),1,02/26/2016
 Department of Commerce,US Census Burea Dept of Commerce,1,07/15/2016
-Department of Commerce,US Census Bureau,820,03/14/2018
+Department of Commerce,US Census Bureau,820,03/16/2018
 Department of Commerce,US Census Bureau,1,03/02/2018
 Department of Commerce,US Census Bureau Department of Commerce,206,03/02/2018
 Department of Commerce,US Census Bureau Dept of Commerce,6,03/02/2018
@@ -388,7 +388,7 @@ Department of Labor,Wage and Hour Division,3,06/01/2017
 Department of State,Department of State,129,02/04/2018
 Department of State,Department/Agency level/No publisher,21,02/04/2018
 Department of State,U.S. Department of State,108,04/23/2016
-Department of the Interior,Department of the Interior,53953,03/14/2018
+Department of the Interior,Department of the Interior,53954,03/14/2018
 Department of the Interior,Arizona State Office Bureau of Land Management – GIS Manager,2,02/23/2018
 Department of the Interior,Avenza Maps,7,02/23/2018
 Department of the Interior,BLM,10,03/01/2018
@@ -430,7 +430,7 @@ Department of the Interior,COSO,2,02/23/2018
 Department of the Interior,Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,1,02/23/2018
 Department of the Interior,Department/Agency level/No publisher,19215,03/01/2018
 Department of the Interior,Federal Geographic Data Committee,13,12/06/2017
-Department of the Interior,Fish and Wildlife Service,32857,03/01/2018
+Department of the Interior,Fish and Wildlife Service,32858,03/01/2018
 Department of the Interior,Haskell Indian Nations University,1,04/10/2014
 Department of the Interior,Idaho BLM,1,02/23/2018
 Department of the Interior,National Park Service,478,03/01/2018
@@ -723,8 +723,8 @@ US Office of the Special Counsel,US Office of the Special Counsel,3,01/12/2014
 City of Austin,City of Austin,1003,03/08/2018
 City of Austin,data.austintexas.gov,1002,03/08/2018
 City of Austin,Department/Agency level/No publisher,1,05/24/2016
-City of Baltimore,City of Baltimore,433,03/08/2018
-City of Baltimore,data.baltimorecity.gov,433,03/08/2018
+City of Baltimore,City of Baltimore,433,03/16/2018
+City of Baltimore,data.baltimorecity.gov,433,03/16/2018
 City of Baton Rouge,City of Baton Rouge,40,03/08/2018
 City of Baton Rouge,data.brla.gov,40,03/08/2018
 City of Bloomington,City of Bloomington,137,03/13/2018
@@ -735,22 +735,22 @@ City of Charlotte,City of Charlotte,52,03/08/2018
 City of Charlotte,City of Charlotte,52,03/08/2018
 City of Chesapeake,City of Chesapeake,31,02/14/2018
 City of Chesapeake,City of Chesapeake VA,31,02/14/2018
-City of Chicago,City of Chicago,693,03/08/2018
-City of Chicago,data.cityofchicago.org,693,03/08/2018
+City of Chicago,City of Chicago,694,03/16/2018
+City of Chicago,data.cityofchicago.org,694,03/16/2018
 City of Hartford,City of Hartford,50,03/08/2018
 City of Hartford,data.hartford.gov,50,03/08/2018
-City of Honolulu,City of Honolulu,135,03/08/2018
-City of Honolulu,data.honolulu.gov,135,03/08/2018
+City of Honolulu,City of Honolulu,135,03/16/2018
+City of Honolulu,data.honolulu.gov,135,03/16/2018
 "City of Jackson, Mississippi",City of Jackson Mississippi,51,04/07/2017
 "City of Jackson, Mississippi",data.jacksonms.gov,50,04/07/2017
 "City of Jackson, Mississippi",Department/Agency level/No publisher,1,02/10/2017
-City of Los Angeles,City of Los Angeles,305,03/13/2018
-City of Los Angeles,data.lacity.org,305,03/13/2018
+City of Los Angeles,City of Los Angeles,303,03/13/2018
+City of Los Angeles,data.lacity.org,303,03/13/2018
 City of New Orleans,City of New Orleans,157,03/13/2018
 City of New Orleans,appsteam@socrata.com,1,03/13/2018
 City of New Orleans,data.nola.gov,156,03/13/2018
-City of New York,City of New York,1655,03/08/2018
-City of New York,data.cityofnewyork.us,1652,03/08/2018
+City of New York,City of New York,1655,03/16/2018
+City of New York,data.cityofnewyork.us,1652,03/16/2018
 City of New York,Department/Agency level/No publisher,3,06/09/2016
 City of Philadelphia,City of Philadelphia,91,04/09/2015
 City of Philadelphia,City Of Philadelphia,1,04/09/2015
@@ -758,17 +758,17 @@ City of Philadelphia,City of Philadelphia,85,04/09/2015
 City of Philadelphia,City of Philadelphia,5,04/09/2015
 City of Providence,City of Providence,172,03/08/2018
 City of Providence,data.providenceri.gov,172,03/08/2018
-City of San Francisco,City of San Francisco,470,03/08/2018
-City of San Francisco,data.sfgov.org,470,03/08/2018
+City of San Francisco,City of San Francisco,469,03/16/2018
+City of San Francisco,data.sfgov.org,469,03/16/2018
 City of Santa Rosa,City of Santa Rosa,107,03/08/2018
 City of Santa Rosa,data.srcity.org,107,03/08/2018
-City of Seattle,City of Seattle,503,03/08/2018
-City of Seattle,data.seattle.gov,502,03/08/2018
+City of Seattle,City of Seattle,504,03/16/2018
+City of Seattle,data.seattle.gov,503,03/16/2018
 City of Seattle,Department/Agency level/No publisher,1,11/24/2016
 City of Sioux Falls,City of Sioux Falls,74,03/08/2018
 City of Sioux Falls,City of Sioux Falls GIS,74,03/08/2018
-City of Somerville,City of Somerville,45,03/08/2018
-City of Somerville,data.somervillema.gov,45,03/08/2018
+City of Somerville,City of Somerville,45,03/16/2018
+City of Somerville,data.somervillema.gov,45,03/16/2018
 City of Tempe,City of Tempe,56,03/08/2018
 City of Tempe,City of Tempe,56,03/08/2018
 Louisville Metro Government,Louisville Metro Government,254,03/08/2018
@@ -826,16 +826,16 @@ Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Alleghen
 Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,264,03/08/2018
 "Arlington County, VA",Arlington County VA,161,03/12/2018
 "Arlington County, VA",Arlington County,161,03/12/2018
-Cook County of Illinois,Cook County of Illinois,529,03/08/2018
-Cook County of Illinois,datacatalog.cookcountyil.gov,529,03/08/2018
+Cook County of Illinois,Cook County of Illinois,529,03/16/2018
+Cook County of Illinois,datacatalog.cookcountyil.gov,529,03/16/2018
 "Fairfax County, Virginia",Fairfax County Virginia,176,03/08/2018
 "Fairfax County, Virginia",Fairfax County GIS,176,03/08/2018
-"King County, Washington",King County Washington,263,03/08/2018
-"King County, Washington",data.kingcounty.gov,263,03/08/2018
+"King County, Washington",King County Washington,263,03/16/2018
+"King County, Washington",data.kingcounty.gov,263,03/16/2018
 "Loudoun County, Virginia",Loudoun County Virginia,42,03/08/2018
 "Loudoun County, Virginia",Loudoun GIS,42,03/08/2018
-Montgomery County of Maryland,Montgomery County of Maryland,221,03/08/2018
-Montgomery County of Maryland,data.montgomerycountymd.gov,221,03/08/2018
+Montgomery County of Maryland,Montgomery County of Maryland,221,03/16/2018
+Montgomery County of Maryland,data.montgomerycountymd.gov,221,03/16/2018
 Wake County,Wake County,277,03/08/2018
 Wake County,Wake County,277,03/08/2018
 NSGIC Education | GIS Inventory,NSGIC Education | GIS Inventory,762,12/13/2017
@@ -870,14 +870,14 @@ State of Illinois,State of Illinois,619,09/21/2017
 State of Illinois,data.illinois.gov,619,09/21/2017
 State of Iowa,State of Iowa,526,03/13/2018
 State of Iowa,data.iowa.gov,526,03/13/2018
-State of Maryland,State of Maryland,358,03/08/2018
-State of Maryland,data.maryland.gov,358,03/08/2018
+State of Maryland,State of Maryland,362,03/16/2018
+State of Maryland,data.maryland.gov,362,03/16/2018
 State of Minnesota,State of Minnesota,234,10/27/2017
-State of Missouri,State of Missouri,192,03/08/2018
-State of Missouri,data.mo.gov,192,03/08/2018
-State of New York,State of New York,611,03/08/2018
-State of New York,data.ny.gov,163,03/08/2018
-State of New York,State of New York,448,03/08/2018
+State of Missouri,State of Missouri,192,03/16/2018
+State of Missouri,data.mo.gov,192,03/16/2018
+State of New York,State of New York,611,03/16/2018
+State of New York,data.ny.gov,163,03/16/2018
+State of New York,State of New York,448,03/16/2018
 State of North Carolina,State of North Carolina,2,04/09/2015
 State of North Dakota,State of North Dakota,328,02/23/2018
 State of North Dakota,Attorney General,1,12/19/2017
@@ -914,8 +914,8 @@ State of Oklahoma,OKStateStat,135,09/15/2016
 State of Oklahoma,Used Motor Vehicle Parts Commission,3,09/15/2016
 State of Oregon,State of Oregon,568,03/13/2018
 State of Oregon,data.oregon.gov,568,03/13/2018
-State of Washington,State of Washington,439,03/08/2018
-State of Washington,data.wa.gov,439,03/08/2018
+State of Washington,State of Washington,440,03/16/2018
+State of Washington,data.wa.gov,440,03/16/2018
 Vermont Center for Geographic Information,Vermont Center for Geographic Information,997,03/08/2018
 Vermont Center for Geographic Information,VT Center for Geographic Information,997,03/08/2018
 Virginia Department of Environmental Quality,Virginia Department of Environmental Quality,2,04/10/2015
