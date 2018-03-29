@@ -43,7 +43,7 @@ Department of Agriculture,United States Department of Agriculture,2,02/04/2018
 Department of Agriculture,USDA Economic Research Service,1,03/01/2018
 Department of Agriculture,USDA NAL,357,03/01/2018
 Department of Agriculture,USDA-GIPSA,5,02/04/2018
-Department of Commerce,Department of Commerce,67293,03/26/2018
+Department of Commerce,Department of Commerce,67295,03/27/2018
 Department of Commerce,(),2,-
 Department of Commerce,(Point of Contact),12,02/16/2017
 Department of Commerce,(Point of Contact); Penn State University (Principal Investigator); Temple University College of Science and Technology (Principal Investigator),1,02/26/2016
@@ -70,7 +70,7 @@ Department of Commerce,Climate Prediction Center NOAA (Point of Contact),84,02/2
 Department of Commerce,Columbia University Lamont-Doherty Earth Observatory (LDEO) Lamont-Doherty Core Repository (LDCR) (Point of Contact),1,02/26/2016
 Department of Commerce,Denver Federal Center (Principal Investigator); National Snow and Ice Data Center (Principal Investigator Point of Contact),1,02/26/2016
 Department of Commerce,Department of Agriculture and Board of Trustees of Michigan State University,1,08/14/2015
-Department of Commerce,Department of Commerce,21,03/02/2018
+Department of Commerce,Department of Commerce,21,03/26/2018
 Department of Commerce,Department/Agency level/No publisher,2,02/26/2016
 Department of Commerce,DOC/NOAA/NESDIS/NCDC > National Climatic Data Center NESDIS NOAA U.S. Department of Commerce (Point of Contact),3,02/26/2016
 Department of Commerce,DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information NESDIS NOAA U.S. Department of Commerce (Point of Contact),482,02/16/2017
@@ -82,7 +82,7 @@ Department of Commerce,HUD,1,03/02/2018
 Department of Commerce,IFREMER/CERSAT > Institut Francais de Recherche pour l’Exploitation de la Mer Center d’Exploitation et de Recherche Satellitaire (Point of Contact); DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information NESDIS NOAA U.S. Department of Commerce (Point of Contact),3,02/26/2016
 Department of Commerce,International Trade Administration,8,05/13/2017
 Department of Commerce,International Trade Administration Department of Commerce,29,05/13/2017
-Department of Commerce,National Institute of Standards and Technology,269,03/02/2018
+Department of Commerce,National Institute of Standards and Technology,271,03/26/2018
 Department of Commerce,National Marine Mammal Laboratory (Point of Contact),1,02/26/2016
 Department of Commerce,National Oceanic and Atmospheric Administration,4,02/26/2016
 Department of Commerce,National Oceanic and Atmospheric Administration,64720,02/08/2018
@@ -130,7 +130,7 @@ Department of Commerce,University of Minnesota National Lacustrine Core Reposito
 Department of Commerce,University of Rhode Island (URI) Graduate School of Oceanography (GSO) Marine Geological Samples Laboratory (MGSL) (Point of Contact),1,02/26/2016
 Department of Commerce,University of Washington (Principal Investigator); National Snow and Ice Data Center (Point of Contact),1,02/26/2016
 Department of Commerce,US Census Burea Dept of Commerce,1,07/15/2016
-Department of Commerce,US Census Bureau,820,03/26/2018
+Department of Commerce,US Census Bureau,820,03/27/2018
 Department of Commerce,US Census Bureau,1,03/02/2018
 Department of Commerce,US Census Bureau Department of Commerce,206,03/02/2018
 Department of Commerce,US Census Bureau Dept of Commerce,6,03/02/2018
@@ -149,30 +149,31 @@ Department of Defense,National Geospatial-Intelligence Agency,3,11/17/2015
 Department of Defense,Office of the Secretary of Defense,2,01/18/2017
 Department of Defense,US Army Corps of Engineers,3,10/09/2017
 Department of Defense,World Wide Human Geography Data Working Group,3,07/18/2014
-Department of Education,Department of Education,351,02/04/2018
-Department of Education,Federal Student Aid,5,09/29/2017
+Department of Education,Department of Education,355,03/26/2018
+Department of Education,Federal Student Aid,5,03/26/2018
 Department of Education,Institute of Museum and Library Services,14,01/11/2018
 Department of Education,Nationa Center for Education Statistics,1,01/30/2017
 Department of Education,National Center for Education Evaluation and Regional Assistance,7,01/11/2018
-Department of Education,National Center for Education Statistics,167,01/11/2018
-Department of Education,National Center for Special Education Research,2,09/29/2017
-Department of Education,Office for Civil Rights,8,02/04/2018
-Department of Education,Office of Career Technical and Adult Education,19,09/29/2017
-Department of Education,Office of Elementary and Secondary Education,19,02/04/2018
-Department of Education,Office of Federal Student Aid,13,09/29/2017
+Department of Education,National Center for Education Statistics,171,03/26/2018
+Department of Education,National Center for Special Education Research,2,03/26/2018
+Department of Education,Office for Civil Rights,8,03/26/2018
+Department of Education,Office of Career Technical and Adult Education,19,03/26/2018
+Department of Education,Office of Elementary and Secondary Education,19,03/26/2018
+Department of Education,Office of Federal Student Aid,13,03/26/2018
 Department of Education,Office of Innovation and Improvement,16,06/03/2017
-Department of Education,Office of Language Acquisition,2,06/03/2017
-Department of Education,Office of Migrant Education,2,06/03/2017
+Department of Education,Office of Language Acquisition,2,03/26/2018
+Department of Education,Office of Migrant Education,2,03/26/2018
 Department of Education,Office of Planning Evaluation and Policy Development,1,09/29/2017
-Department of Education,Office of Postsecondary Education,16,09/29/2017
+Department of Education,Office of Postsecondary Education,16,03/26/2018
 Department of Education,Office of Safe and Healthy Students,11,09/29/2017
 Department of Education,Office of Special Education and Rehabilitative Services,2,09/29/2017
-Department of Education,Office of Special Education Programs,25,02/04/2018
+Department of Education,Office of Special Education Programs,25,03/26/2018
 Department of Education,Office of the Chief Information Officer,5,09/29/2017
 Department of Education,Office of Vocational and Adult Education,2,06/03/2017
-Department of Education,U.S. Department of Education,14,09/29/2017
-Department of Energy,Department of Energy,2393,03/09/2018
+Department of Education,U.S. Department of Education,14,03/26/2018
+Department of Energy,Department of Energy,2484,03/26/2018
 Department of Energy,ABB,2,12/03/2017
+Department of Energy,Aditya Choukulkar,3,03/26/2018
 Department of Energy,AltaRock Energy Inc,13,02/23/2018
 Department of Energy,Argonne National Laboratory,10,02/23/2018
 Department of Energy,Arizona State Geological Survey,1,08/29/2017
@@ -227,7 +228,7 @@ Department of Energy,DOE/Office of Fossil Energy,5,10/09/2017
 Department of Energy,DOE/Office of Hearings and Appeals,1,06/23/2017
 Department of Energy,DOE/Richland Operations and the Office of River Protection,2,06/23/2017
 Department of Energy,ElectraTherm Inc.,16,02/23/2018
-Department of Energy,Energy and Geoscience Institute at the University of Utah,43,03/09/2018
+Department of Energy,Energy and Geoscience Institute at the University of Utah,44,03/26/2018
 Department of Energy,Flint Geothermal LLC,48,11/18/2017
 Department of Energy,Gas Equipment Engineering Corporation,1,08/29/2017
 Department of Energy,GE Global Research,2,08/29/2017
@@ -240,16 +241,25 @@ Department of Energy,Honeywell International Inc.,1,08/29/2017
 Department of Energy,Idaho National Laboratory,13,03/09/2018
 Department of Energy,Igiugig Village Council,1,12/03/2017
 Department of Energy,Impact Technologies LLC,3,02/23/2018
-Department of Energy,Lawrence Berkeley National Laboratory,11,03/09/2018
+Department of Energy,Jim Wilczak,8,03/26/2018
+Department of Energy,Julie Lundquist,3,03/26/2018
+Department of Energy,Katherine McCaffrey,6,03/26/2018
+Department of Energy,Ken Burk,26,03/26/2018
+Department of Energy,Kirk Clawson,3,03/26/2018
+Department of Energy,kirk Clawson,4,03/26/2018
+Department of Energy,Laura Leo,4,03/26/2018
+Department of Energy,Lawrence Berkeley National Laboratory,14,03/26/2018
 Department of Energy,Lawrence Livermore National Laboratory,46,02/25/2018
 Department of Energy,Los Alamos National Laboratory,3,08/29/2017
 Department of Energy,M3 Wave,3,12/03/2017
+Department of Energy,Mark Stoelinga,9,03/26/2018
+Department of Energy,Matt Macduff,5,03/26/2018
 Department of Energy,National Energy Technology Laboratory,10,03/09/2018
 Department of Energy,National Energy Technology Laboratory (NETL),5,02/04/2018
 Department of Energy,National Nuclear Security Administration,11,06/23/2017
 Department of Energy,National Nuclear Security Administration/LANL,1,06/23/2017
 Department of Energy,National Nuclear Security Administration/SNL,1,06/23/2017
-Department of Energy,National Renewable Energy Laboratory,437,03/09/2018
+Department of Energy,National Renewable Energy Laboratory,437,03/26/2018
 Department of Energy,Nevada Bureau of Mines and Geology,5,02/23/2018
 Department of Energy,Nevada Geothermal Power Company,1,08/29/2017
 Department of Energy,New Mexico Bureau of Geology and Mineral Resources,6,08/29/2017
@@ -269,21 +279,24 @@ Department of Energy,Office of Energy Efficiency and Renewable Energy,1,02/25/20
 Department of Energy,Office of Information Resources,1,02/25/2018
 Department of Energy,Office of Small and Disadvantaged Business Utilization (OSDBU),4,06/23/2017
 Department of Energy,Oregon State University,7,02/25/2018
-Department of Energy,Ormat Nevada Inc,19,03/09/2018
+Department of Energy,Ormat Nevada Inc,19,03/26/2018
 Department of Energy,Oski Energy LLC,12,02/25/2018
 Department of Energy,Pacific Northwest National Laboratory,17,03/09/2018
 Department of Energy,Ram Power Inc.,3,08/29/2017
 Department of Energy,Regents of the University University of California,1,08/29/2017
 Department of Energy,Resolute Marine Energy Inc.,2,02/23/2018
 Department of Energy,Ricardo Detroit Technical Center,27,02/23/2018
-Department of Energy,Sandia National Laboratories,68,03/09/2018
+Department of Energy,Sandia National Laboratories,71,03/26/2018
+Department of Energy,Sebastian Otarola,1,03/26/2018
 Department of Energy,Simbol Inc,1,08/29/2017
 Department of Energy,SmartGrid.gov,2,08/29/2017
 Department of Energy,SMU Geothermal Laboratory,1,08/29/2017
+Department of Energy,Sonia Wharton,2,03/26/2018
 Department of Energy,Southern Research Institute,6,03/09/2018
 Department of Energy,Surprise Valley Electrification Corp. (SVEC),1,08/29/2017
 Department of Energy,Temple University,1,08/29/2017
 Department of Energy,Terra-Gen Sierra Holdings LLC,24,08/29/2017
+Department of Energy,Thomas Herges,3,03/26/2018
 Department of Energy,Trabits Group LLC,2,01/08/2018
 Department of Energy,Tusaar Corp.,18,02/23/2018
 Department of Energy,U.S. Department of Energy (DOE),10,10/09/2017
@@ -297,27 +310,28 @@ Department of Energy,University of Hawaii,26,12/03/2017
 Department of Energy,University of Massachusetts,1,02/23/2018
 Department of Energy,University of Nevada,33,03/09/2018
 Department of Energy,University of Oregon,2,02/25/2018
-Department of Energy,University of Utah,20,03/09/2018
-Department of Energy,University of Washington,9,02/23/2018
+Department of Energy,University of Utah,20,03/26/2018
+Department of Energy,University of Washington,10,03/26/2018
 Department of Energy,University of Washington (NNMREC),1,02/23/2018
-Department of Energy,University of Wisconsin,60,03/09/2018
+Department of Energy,University of Wisconsin,60,03/26/2018
 Department of Energy,University of Wyoming,6,12/17/2017
 Department of Energy,Utah State University,12,12/03/2017
+Department of Energy,Victor Morris,6,03/26/2018
 Department of Energy,Vortex Hydro Energy,1,02/25/2018
 Department of Energy,Washington Division of Geology and Earth Resources,1,08/29/2017
 Department of Energy,Washington Geological Survey,1,02/04/2018
 Department of Energy,Washington Geological Survey (Department of Natural Resources),2,01/03/2018
 Department of Energy,Wind Powering America,1,08/29/2017
 Department of Energy,Wright State University,6,01/17/2018
-Department of Health and Human Services,Department of Health and Human Services,1945,03/13/2018
+Department of Health and Human Services,Department of Health and Human Services,1946,03/26/2018
 Department of Health and Human Services,Administration for Children and Families,5,07/14/2017
 Department of Health and Human Services,Administration for Children and Families Department of Health & Human Services,2,07/14/2017
 Department of Health and Human Services,Agency for Healthcare Research and Quality Department of Health & Human Services,9,12/02/2017
-Department of Health and Human Services,Centers for Disease Control and Prevention,569,03/13/2018
-Department of Health and Human Services,Centers for Disease Control and Prevention Department of Health & Human Services,48,03/13/2018
-Department of Health and Human Services,Centers for Medicare & Medicaid Services,651,03/12/2018
+Department of Health and Human Services,Centers for Disease Control and Prevention,570,03/26/2018
+Department of Health and Human Services,Centers for Disease Control and Prevention Department of Health & Human Services,48,03/26/2018
+Department of Health and Human Services,Centers for Medicare & Medicaid Services,651,03/26/2018
 Department of Health and Human Services,Centers for Medicare & Medicaid Services Department of Health & Human Services,4,07/14/2017
-Department of Health and Human Services,Department of Health & Human Services,414,03/13/2018
+Department of Health and Human Services,Department of Health & Human Services,414,03/26/2018
 Department of Health and Human Services,Department of Health & Human Services Agency for Healthcare Research and Quality,1,12/02/2017
 Department of Health and Human Services,Department/Agency level/No publisher,16,12/07/2017
 Department of Health and Human Services,Health Resources and Services Administration,1,12/02/2017
@@ -475,8 +489,8 @@ Department of the Treasury,U.S. Department of the Treasury,1,08/24/2017
 Department of the Treasury,United States Mint Financial Department (CFO),1,02/27/2018
 Department of the Treasury,United States Mint Sales and Marketing (SAM) Department,3,02/27/2018
 Department of the Treasury,United States Mint. Sales and Marketing (SAM) Department,1,02/27/2018
-Department of Transportation,Department of Transportation,885,03/13/2018
-Department of Transportation,Bureau of Transportation Statisitics,3,03/13/2018
+Department of Transportation,Department of Transportation,885,03/27/2018
+Department of Transportation,Bureau of Transportation Statisitics,3,03/27/2018
 Department of Transportation,data.transportation.gov,1,11/14/2017
 Department of Transportation,Department/Agency level/No publisher,145,10/09/2017
 Department of Transportation,Federal Aviation Administration,342,05/23/2017
@@ -492,12 +506,12 @@ Department of Transportation,Pipeline and Hazardous Materials Safety Administrat
 Department of Transportation,Research and Innovative Technology Administration,33,10/09/2017
 Department of Transportation,Saint Lawrence Seaway Development Corporation,12,03/01/2017
 Department of Transportation,Surface Transportation Board,21,03/01/2017
-Department of Transportation,USDOT,56,03/13/2018
-Department of Veterans Affairs,Department of Veterans Affairs,1071,03/13/2018
-Department of Veterans Affairs,Department of Veterans Affairs,1071,03/13/2018
-Environmental Protection Agency,Environmental Protection Agency,3095,03/13/2018
+Department of Transportation,USDOT,56,03/27/2018
+Department of Veterans Affairs,Department of Veterans Affairs,1073,03/27/2018
+Department of Veterans Affairs,Department of Veterans Affairs,1073,03/27/2018
+Environmental Protection Agency,Environmental Protection Agency,3079,03/27/2018
 Environmental Protection Agency,Air Protection Division,1,03/08/2018
-Environmental Protection Agency,Department/Agency level/No publisher,2050,03/13/2018
+Environmental Protection Agency,Department/Agency level/No publisher,2034,03/27/2018
 Environmental Protection Agency,Environmental Protection Agency,7,03/08/2018
 Environmental Protection Agency,Land and Chemicals Division,1,08/10/2016
 Environmental Protection Agency,U.S. Environmental Protection Agency,87,03/13/2018
@@ -536,12 +550,12 @@ Environmental Protection Agency,U.S. EPA Office of Water (OW) – Office of Wast
 Environmental Protection Agency,U.S. EPA Office of Water (OW) – Office of Wetlands Oceans and Watersheds (OWOW),21,03/03/2017
 Environmental Protection Agency,U.S. EPA Region 5 Water Division Water Quality Branch,1,08/11/2016
 Environmental Protection Agency,US Environmental Protection Agency,3,03/13/2018
-General Services Administration,General Services Administration,113,03/09/2018
+General Services Administration,General Services Administration,113,03/27/2018
 General Services Administration,Data.gov,1,12/07/2017
-General Services Administration,General Services Administration,97,03/09/2018
+General Services Administration,General Services Administration,97,03/27/2018
 General Services Administration,GSA IT,1,07/13/2017
-General Services Administration,Office of Government-wide Policy,1,12/15/2017
-General Services Administration,Office of Governmentwide Policy,1,12/15/2017
+General Services Administration,Office of Government-wide Policy,1,03/27/2018
+General Services Administration,Office of Governmentwide Policy,1,03/27/2018
 General Services Administration,Office of the Chief Technology Officer,1,12/03/2016
 General Services Administration,Technology Transformation Service,11,12/01/2016
 National Aeronautics and Space Administration,National Aeronautics and Space Administration,39057,12/26/2017
@@ -620,8 +634,8 @@ Nuclear Regulatory Commission,Nuclear Regulatory Commission,36,03/08/2018
 Nuclear Regulatory Commission,U.S Nuclear Regulatory Commission,1,09/22/2017
 Office of Personnel Management,Office of Personnel Management,186,09/12/2015
 Office of Personnel Management,U.S. Office of Personnel Management,186,09/12/2015
-Small Business Administration,Small Business Administration,99,11/06/2017
-Small Business Administration,U.S. Small Business Administration,99,11/06/2017
+Small Business Administration,Small Business Administration,100,03/27/2018
+Small Business Administration,U.S. Small Business Administration,100,03/27/2018
 Social Security Administration,Social Security Administration,995,02/27/2018
 Social Security Administration,Department/Agency level/No publisher,4,10/29/2016
 Social Security Administration,Social Security Administration,991,02/27/2018
@@ -648,8 +662,8 @@ Federal Deposit Insurance Corporation,Federal Deposit Insurance Corporation,3,01
 Federal Election Commission,Federal Election Commission,4,01/12/2014
 Federal Housing Finance Agency,Federal Housing Finance Agency,2,05/29/2014
 Federal Housing Finance Agency,Federal Housing Finance Agency,2,05/29/2014
-Federal Laboratory Consortium,Federal Laboratory Consortium,2602,10/20/2017
-Federal Laboratory Consortium,Federal Laboratory Consortium,2602,10/20/2017
+Federal Laboratory Consortium,Federal Laboratory Consortium,2627,03/26/2018
+Federal Laboratory Consortium,Federal Laboratory Consortium,2627,03/26/2018
 Federal Reserve Board,Federal Reserve Board,5,01/12/2014
 Federal Trade Commission,Federal Trade Commission,6,05/20/2014
 Information Sharing Environment,Information Sharing Environment,2,01/12/2014
@@ -744,11 +758,11 @@ City of Honolulu,data.honolulu.gov,135,03/16/2018
 "City of Jackson, Mississippi",City of Jackson Mississippi,51,04/07/2017
 "City of Jackson, Mississippi",data.jacksonms.gov,50,04/07/2017
 "City of Jackson, Mississippi",Department/Agency level/No publisher,1,02/10/2017
-City of Los Angeles,City of Los Angeles,303,03/13/2018
-City of Los Angeles,data.lacity.org,303,03/13/2018
-City of New Orleans,City of New Orleans,157,03/13/2018
-City of New Orleans,appsteam@socrata.com,1,03/13/2018
-City of New Orleans,data.nola.gov,156,03/13/2018
+City of Los Angeles,City of Los Angeles,304,03/27/2018
+City of Los Angeles,data.lacity.org,304,03/27/2018
+City of New Orleans,City of New Orleans,157,03/27/2018
+City of New Orleans,appsteam@socrata.com,1,03/27/2018
+City of New Orleans,data.nola.gov,156,03/27/2018
 City of New York,City of New York,1651,03/16/2018
 City of New York,data.cityofnewyork.us,1648,03/16/2018
 City of New York,Department/Agency level/No publisher,3,06/09/2016
@@ -864,12 +878,12 @@ State of Arkansas,State of Arkansas,359,04/10/2015
 State of California,State of California,6210,03/08/2018
 State of Connecticut,State of Connecticut,444,03/08/2018
 State of Connecticut,data.ct.gov,444,03/08/2018
-State of Hawaii,State of Hawaii,707,03/13/2018
-State of Hawaii,data.hawaii.gov,707,03/13/2018
+State of Hawaii,State of Hawaii,711,03/26/2018
+State of Hawaii,data.hawaii.gov,711,03/26/2018
 State of Illinois,State of Illinois,619,09/21/2017
 State of Illinois,data.illinois.gov,619,09/21/2017
-State of Iowa,State of Iowa,523,03/13/2018
-State of Iowa,data.iowa.gov,523,03/13/2018
+State of Iowa,State of Iowa,523,03/27/2018
+State of Iowa,data.iowa.gov,523,03/27/2018
 State of Maryland,State of Maryland,356,03/16/2018
 State of Maryland,data.maryland.gov,356,03/16/2018
 State of Minnesota,State of Minnesota,234,10/27/2017
@@ -912,8 +926,8 @@ State of Oklahoma,Oklahoma Tax Commission,1,09/15/2016
 State of Oklahoma,Oklahoma Tourism and Recreation Department,1,09/15/2016
 State of Oklahoma,OKStateStat,135,09/15/2016
 State of Oklahoma,Used Motor Vehicle Parts Commission,3,09/15/2016
-State of Oregon,State of Oregon,568,03/13/2018
-State of Oregon,data.oregon.gov,568,03/13/2018
+State of Oregon,State of Oregon,571,03/27/2018
+State of Oregon,data.oregon.gov,571,03/27/2018
 State of Washington,State of Washington,440,03/16/2018
 State of Washington,data.wa.gov,440,03/16/2018
 Vermont Center for Geographic Information,Vermont Center for Geographic Information,997,03/08/2018
