@@ -1,115 +1,124 @@
 parent_agency,subagency,net_difference
 Department of the Interior,Department of the Interior,35129
-National Aeronautics and Space Administration,National Aeronautics and Space Administration,28621
+National Aeronautics and Space Administration,National Aeronautics and Space Administration,29169
 National Aeronautics and Space Administration,OB.DAAC,5523
 Department of the Interior,Fish and Wildlife Service,4790
 State of California,State of California,4700
 National Aeronautics and Space Administration,GESDISC,3286
-National Aeronautics and Space Administration,PO.DAAC,2298
+National Aeronautics and Space Administration,PO.DAAC,2304
 NSGIC Local Govt | GIS Inventory,NSGIC Local Govt | GIS Inventory,1572
 National Aeronautics and Space Administration,GHRC,1403
-National Aeronautics and Space Administration,ORNL_DAAC,1298
-National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/GESDISC,1115
+National Aeronautics and Space Administration,ORNL_DAAC,1314
+National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/GESDISC,1133
 Department of Veterans Affairs,Department of Veterans Affairs,621
 Department of Agriculture,Department of Agriculture,573
-National Aeronautics and Space Administration,SEDAC,471
-Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),332
+National Aeronautics and Space Administration,SEDAC,482
+Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),343
 Vermont Center for Geographic Information,VT Center for Geographic Information,295
 Vermont Center for Geographic Information,Vermont Center for Geographic Information,295
 State of Hawaii,State of Hawaii,274
 State of Hawaii,data.hawaii.gov,274
-National Aeronautics and Space Administration,NSIDC,273
 Department of Agriculture,USDA NAL,271
+National Aeronautics and Space Administration,NSIDC,268
 Department of Homeland Security,Department of Homeland Security,221
 NSGIC Regional | GIS Inventory,NSGIC Regional | GIS Inventory,216
 National Aeronautics and Space Administration,LAADS,176
+Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,134
 Department of Defense,Department of Defense,130
-Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,128
 Department of Commerce,National Institute of Standards and Technology,126
+National Aeronautics and Space Administration,LaRC,117
 Department of Homeland Security,Under Secretary / Management,113
-National Aeronautics and Space Administration,LaRC,112
+National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/OB.DAAC,102
 NSGIC Private | GIS Inventory,NSGIC Private | GIS Inventory,101
 Department of Health and Human Services,Centers for Disease Control and Prevention,80
 Department of the Interior,OR BLM,73
 State of Oregon,State of Oregon,72
 State of Oregon,data.oregon.gov,72
+Louisville Metro Government,Louisville Metro Government,71
 Department of Agriculture,NRCS,71
 City of Bloomington,City of Bloomington,70
-Louisville Metro Government,Louisville Metro Government,65
 Department of Agriculture,U.S. Forest Service,65
 NSGIC State | GIS Inventory,NSGIC State | GIS Inventory,63
 National Aeronautics and Space Administration,OBPG,63
-Louisville Metro Government,data.louisvilleky.gov,63
 Department of Homeland Security,Coast Guard United States,62
+Louisville Metro Government,data.louisvilleky.gov,60
 Department of the Interior,Bureau of Land Management – Eric Hiebenthal,59
 Federal Laboratory Consortium,Federal Laboratory Consortium,58
+City of New York,City of New York,53
+City of New York,data.cityofnewyork.us,53
 Social Security Administration,Social Security Administration,52
-City of New York,City of New York,49
-City of New York,data.cityofnewyork.us,49
 Department of Transportation,Department of Transportation,47
 University of Idaho,University of Idaho,46
+City of Tempe,City of Tempe,44
 Cook County of Illinois,Cook County of Illinois,42
 Cook County of Illinois,datacatalog.cookcountyil.gov,42
 Department of the Interior,BLM Colorado State Office,41
+City of San Francisco,City of San Francisco,40
+City of San Francisco,data.sfgov.org,40
 Department of Health and Human Services,Centers for Medicare & Medicaid Services,39
 Montgomery County of Maryland,Montgomery County of Maryland,38
 Montgomery County of Maryland,data.montgomerycountymd.gov,38
 Institute of Museum and Library Services,Institute of Museum and Library Services,36
 NSGIC Education | GIS Inventory,NSGIC Education | GIS Inventory,35
+National Aeronautics and Space Administration,Not provided,35
 Executive Office of the President,Executive Office of the President,32
 Department of Agriculture,Rural Development Department of Agriculture,32
 Department of Energy,University of Nevada,32
 Department of the Interior,BLM – Russell Slatton,30
 Department of Agriculture,Farm Service Agency Department of Agriculture,28
 Millenium Challenge Corporation,Millenium Challenge Corporation,26
+City of Chicago,City of Chicago,25
 Department of Homeland Security,U.S. Customs and Border Protection,25
-City of Tempe,City of Tempe,24
+City of Chicago,data.cityofchicago.org,25
 Department of Education,Department of Education,24
 Department of Commerce,US Census Bureau Department of Commerce,24
+State of New York,data.ny.gov,23
 Millenium Challenge Corporation,Millennium Challenge Corporation,22
 US Agency for International Development,US Agency for International Development,22
 US Agency for International Development,USAID,22
-State of New York,data.ny.gov,22
+National Aeronautics and Space Administration,NASA/MSFC/GHRC,21
 Department of the Interior,BLM Colorado – State Geospatial Lead,19
-City of Chicago,City of Chicago,19
-City of Chicago,data.cityofchicago.org,19
 City of Seattle,City of Seattle GIS Program,18
 State of Illinois,State of Illinois,18
 State of Illinois,data.illinois.gov,18
 Environmental Protection Agency,U.S. Environmental Protection Agency,17
 US Equal Employment Opportunity Commission,US Equal Employment Opportunity Commission,17
+National Aeronautics and Space Administration,ASDC,16
 Department of the Interior,BLM Eastern State Office,16
+City of New Orleans,City of New Orleans,16
 Department of Energy,Atmospheric Radiation Measurement Data Center,15
+OpenTopography,OpenTopography,15
 US Equal Employment Opportunity Commission,US Equal Employment Opportunity Commision,15
 Department of Energy,University of Wisconsin,15
+Federal Communications Commission,Federal Communications Commission,14
 State of Missouri,State of Missouri,14
 State of Missouri,data.mo.gov,14
 Department of the Treasury,Department of the Treasury,13
+State of Washington,data.wa.gov,13
+City of Santa Rosa,City of Santa Rosa,12
 Department of Energy,Energy and Geoscience Institute at the University of Utah,12
 Department of Homeland Security,Federal Emergency Management Agency,12
-OpenTopography,OpenTopography,12
 State of Washington,Washington State Geospatial Portal,12
-City of Santa Rosa,City of Santa Rosa,11
-City of Santa Rosa,data.srcity.org,11
-City of New Orleans,City of New Orleans,10
-Federal Communications Commission,Federal Communications Commission,10
+City of Santa Rosa,data.srcity.org,12
+National Aeronautics and Space Administration,NASA National Snow and Ice Data Center Distributed Active Archive Center,10
+City of Providence,data.providenceri.gov,10
+Federal Communications Commission,opendata.fcc.gov,10
 Department of Education,National Center for Education Statistics,9
 Department of Energy,Davenport Newberry Holdings LLC,8
 National Aeronautics and Space Administration,MODAPS,8
 Department of Energy,Sandia National Laboratories,8
 Department of Labor,U.S. Department of Labor Bureau of Labor Statistics,8
-City of Providence,data.providenceri.gov,8
-State of Washington,data.wa.gov,8
 Nuclear Regulatory Commission,Nuclear Regulatory Commission,7
 Department of Commerce,International Trade Administration,6
 Department of Energy,Lawrence Livermore National Laboratory,6
 National Endowment for the Humanities,National Endowment for the Humanities,6
+National Aeronautics and Space Administration,National Snow and Ice Data Center,6
 Department of the Treasury,TTB,6
 Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,6
 Department of Agriculture,US Forest Service Department of Agriculture,6
 Department of Transportation,USDOT,6
 Department of Energy,University of Washington,6
-Federal Communications Commission,opendata.fcc.gov,6
+State of Washington,State of Washington,5
 Department of Commerce,US Census Bureau US Department of Commerce,5
 Department of Energy,University of Wyoming,5
 Department of the Interior,BLM Utah State Office,4
@@ -122,27 +131,23 @@ City of Baltimore,data.baltimorecity.gov,4
 Department of the Interior,BLM,3
 Department of the Interior,Bureau of Land Management Colorado State Office – State Geospatial Lead,3
 Department of the Interior,Bureau of Land Management Nevada State Office,3
-City of San Francisco,City of San Francisco,3
 General Services Administration,General Services Administration,3
-National Aeronautics and Space Administration,NASA/LARC/SD/ASDC,3
-City of San Francisco,data.sfgov.org,3
 Department of the Interior,Bureau of Land Management Idaho State Office Engineering and Geosciences – CMavencamp,2
 Department of the Interior,Bureau of Land Management – New Mexico State Office – GIS Manager,2
 Department of Transportation,Bureau of Transportation Statisitics,2
 City of Chesapeake,City of Chesapeake,2
 City of Chesapeake,City of Chesapeake VA,2
+City of Providence,City of Providence,2
 Louisville Metro Government,LOJIC,2
-National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/OB.DAAC,2
-National Aeronautics and Space Administration,NASA/MSFC/GHRC,2
 National Archives and Records Administration,National Archives and Records Administration,2
 Department of Energy,Northwest National Marine renewable Energy Center (UW),2
 Department of Energy,Oregon State University,2
 Department of Energy,Ormat Nevada Inc,2
 Department of Energy,University of California Davis,2
+City of New Orleans,data.nola.gov,2
 Department of Energy,,1
 Department of Energy,ABB,1
 Department of Energy,AltaRock Energy Inc,1
-Louisville Metro Government,Animal Services,1
 Department of the Interior,BLM Moab Field Office,1
 Department of the Interior,BLM National Operations Center OC530 – NOC Data Management Lead,1
 Department of the Interior,BLM New Mexico Oil & Gas Program,1
@@ -152,13 +157,16 @@ Department of the Interior,Bureau of Land Management Arizona State Office – Br
 Department of the Interior,Bureau of Land Management Arizona State Office – GIS Manager,1
 Department of the Interior,Bureau of Land Management Nevada State Office – GIS Manager,1
 Department of Energy,Carnegie Mellon University,1
+City of Hartford,City of Hartford,1
 State of North Dakota,Department of Health,1
 Louisville Metro Government,Develop Louisville,1
+Louisville Metro Government,EMS,1
 Department of Agriculture,Economic Research Service U.S. Department of Agriculture,1
 Department of Transportation,Federal Aviation Administration,1
 Department of Agriculture,Federal Grain Inspection Service,1
 Department of Agriculture,Food and Nutrition Service,1
 Department of Agriculture,Foreign Agricultural Service,1
+Louisville Metro Government,Human Resources,1
 Department of Energy,Idaho National Laboratory,1
 Louisville Metro Government,Louisville Fire,1
 Department of Energy,M3 Wave,1
@@ -168,10 +176,10 @@ NSGIC Tribal | GIS Inventory,NSGIC Tribal | GIS Inventory,1
 Department of Education,National Center for Education Evaluation and Regional Assistance,1
 Department of Energy,National Energy Technology Laboratory,1
 Department of Energy,Nevada Bureau of Mines and Geology,1
-National Aeronautics and Space Administration,Not provided,1
 Department of the Interior,OR,1
 Department of Energy,Oak Ridge National Laboratory,1
 Department of Energy,Pacific Northwest National Laboratory,1
+Louisville Metro Government,Parking Authority (PARC),1
 Louisville Metro Government,Performance Improvement and Innovation Information Technology,1
 Louisville Metro Government,Public Works & Assets,1
 Railroad Retirement Board,Railroad Retirement Board,1
@@ -184,85 +192,81 @@ Department of the Interior,US Bureau of Reclamation,1
 Environmental Protection Agency,US Environmental Protection Agency,1
 Department of Energy,University of Utah,1
 Department of Energy,Utah State University,1
+City of Hartford,data.hartford.gov,1
 Department of Health and Human Services,Administration for Children and Families Department of Health & Human Services,0
-City of Hartford,City of Hartford,0
-City of Providence,City of Providence,0
+Louisville Metro Government,Animal Services,0
 City of Somerville,City of Somerville,0
+Louisville Metro Government,Construction Review,0
 Louisville Metro Government,Construction Review Develop Louisville,0
 Department of the Interior,Federal Geographic Data Committee,0
-Louisville Metro Government,Human Resources,0
+Louisville Metro Government,Health & Wellness,0
 Department of Homeland Security,Immigration and Customs Enforcement United States,0
 Louisville Metro Government,Metro Parks,0
 Department of Education,Office for Civil Rights,0
-Louisville Metro Government,Parking Authority (PARC),0
 Louisville Metro Government,Planning and Design,0
-Small Business Administration,Small Business Administration,0
-State of Washington,State of Washington,0
 Department of Energy,Wright State University,0
-City of Hartford,data.hartford.gov,0
 City of Somerville,data.somervillema.gov,0
 Department of the Treasury,Bureau of the Fiscal Service,-1
 Department of Homeland Security,Citizenship and Immigration Services United States,-1
 City of Boise,City of Boise,-1
 City of Boise,City of Boise Idaho,-1
 City of Los Angeles,City of Los Angeles,-1
-Louisville Metro Government,Construction Review,-1
 Department of Health and Human Services,Department of Health & Human Services,-1
 Department of Labor,Department of Labor,-1
 Department of Agriculture,Economic Research Service Department of Agriculture,-1
 Louisville Metro Government,Emergency Management,-1
 Department of Energy,Energy & Geoscience Institute at the University of Utah,-1
 State of North Dakota,Game and Fish Department,-1
+Louisville Metro Government,Metro Police,-1
 Executive Office of the President,Networking and Information Technology Research and Development,-1
+Small Business Administration,Small Business Administration,-1
 Department of Energy,Tusaar Corp.,-1
 City of Los Angeles,data.lacity.org,-1
 National Aeronautics and Space Administration,ASF,-2
 National Aeronautics and Space Administration,CDDIS,-2
-Louisville Metro Government,Health & Wellness,-2
 National Aeronautics and Space Administration,LPDAAC,-2
-Louisville Metro Government,Metro Police,-2
 National Science Foundation,National Science Foundation,-2
-Small Business Administration,U.S. Small Business Administration,-2
-City of Baton Rouge,City of Baton Rouge,-4
+City of Baton Rouge,City of Baton Rouge,-3
+Louisville Metro Government,Codes & Regulations,-3
+Small Business Administration,U.S. Small Business Administration,-3
+City of Baton Rouge,data.brla.gov,-3
+City of Sioux Falls,City of Sioux Falls GIS,-4
 Department of Agriculture,Farm Service Agency,-4
 Merit Systems Protection Board,Merit Systems Protection Board,-4
-City of Baton Rouge,data.brla.gov,-4
-City of New Orleans,data.nola.gov,-4
-City of Sioux Falls,City of Sioux Falls GIS,-5
-Louisville Metro Government,Codes & Regulations,-5
+City of Sioux Falls,City of Sioux Falls,-5
+State of Connecticut,State of Connecticut,-5
 Department of Energy,University of Washington (NNMREC),-5
-City of Sioux Falls,City of Sioux Falls,-6
-State of Connecticut,State of Connecticut,-7
-State of Connecticut,data.ct.gov,-7
+State of Connecticut,data.ct.gov,-5
+National Aeronautics and Space Administration,NASA/LARC/SD/ASDC,-7
 Department of Agriculture,Agricultural Research Service,-8
 Department of Commerce,International Trade Administration Department of Commerce,-8
-City of Seattle,City of Seattle,-10
+Wake County,Wake County,-8
+State of New York,State of New York,-9
 Pension Benefit Guaranty Corporation,Pension Benefit Guaranty Corporation,-10
-State of New York,State of New York,-10
-City of Seattle,data.seattle.gov,-10
 City of Honolulu,City of Honolulu,-11
 City of Honolulu,data.honolulu.gov,-11
 Department of State,Department of State,-12
-Wake County,Wake County,-12
 Department of Agriculture,Agricultural Research Service Department of Agriculture,-15
+City of Seattle,City of Seattle,-15
+City of Seattle,data.seattle.gov,-15
 City of Charlotte,City of Charlotte,-24
 Department of Health and Human Services,Department of Health and Human Services,-24
-State of Maryland,State of Maryland,-37
-State of Maryland,data.maryland.gov,-37
+State of Maryland,State of Maryland,-29
+State of Maryland,data.maryland.gov,-29
 Department of the Interior,Bureau of Ocean Energy Management,-48
 Department of the Interior,Bureau of Land Management,-64
-City of Austin,City of Austin,-85
-City of Austin,data.austintexas.gov,-85
 National Aeronautics and Space Administration,Atmospheric Science Data Center,-90
+City of Austin,City of Austin,-94
+City of Austin,data.austintexas.gov,-94
 Department of Energy,National Renewable Energy Laboratory,-97
-Municipality of Anchorage,data.muni.org,-135
-Municipality of Anchorage,Municipality of Anchorage,-161
+Municipality of Anchorage,data.muni.org,-133
+Municipality of Anchorage,Municipality of Anchorage,-159
 State of Iowa,State of Iowa,-199
 State of Iowa,data.iowa.gov,-199
 Department of Energy,Department of Energy,-278
 Department of Justice,Department of Justice,-696
 Department of the Interior,National Park Service,-939
-Environmental Protection Agency,Environmental Protection Agency,-1087
+Environmental Protection Agency,Environmental Protection Agency,-1076
 Department of Commerce,US Census Bureau,-2139
 Department of the Interior,U.S. Geological Survey,-5828
 Department of Commerce,National Oceanic and Atmospheric Administration,-6156
