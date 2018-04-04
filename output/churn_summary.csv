@@ -8,20 +8,20 @@ National Aeronautics and Space Administration,GESDISC,3286
 National Aeronautics and Space Administration,PO.DAAC,2310
 NSGIC Local Govt | GIS Inventory,NSGIC Local Govt | GIS Inventory,1572
 National Aeronautics and Space Administration,GHRC,1403
-National Aeronautics and Space Administration,ORNL_DAAC,1320
-National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/GESDISC,1166
+National Aeronautics and Space Administration,ORNL_DAAC,1322
+National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/GESDISC,1167
 Department of Agriculture,Department of Agriculture,679
 Department of Veterans Affairs,Department of Veterans Affairs,621
 National Aeronautics and Space Administration,SEDAC,486
 Department of Agriculture,USDA NAL,357
-Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),347
+Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),349
 Vermont Center for Geographic Information,VT Center for Geographic Information,295
 Vermont Center for Geographic Information,Vermont Center for Geographic Information,295
 State of Hawaii,State of Hawaii,276
 State of Hawaii,data.hawaii.gov,276
 National Aeronautics and Space Administration,NSIDC,267
+National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/OB.DAAC,228
 Department of Homeland Security,Department of Homeland Security,221
-National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/OB.DAAC,218
 NSGIC Regional | GIS Inventory,NSGIC Regional | GIS Inventory,216
 National Aeronautics and Space Administration,LAADS,176
 Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,134
@@ -104,9 +104,9 @@ City of Santa Rosa,data.srcity.org,12
 City of Providence,data.providenceri.gov,10
 Federal Communications Commission,opendata.fcc.gov,10
 Department of Education,National Center for Education Statistics,9
+National Aeronautics and Space Administration,National Snow and Ice Data Center,9
 Department of Energy,Davenport Newberry Holdings LLC,8
 National Aeronautics and Space Administration,MODAPS,8
-National Aeronautics and Space Administration,National Snow and Ice Data Center,8
 Department of Energy,Sandia National Laboratories,8
 Department of Labor,U.S. Department of Labor Bureau of Labor Statistics,8
 Nuclear Regulatory Commission,Nuclear Regulatory Commission,7
@@ -241,6 +241,7 @@ Department of Agriculture,Farm Service Agency,-4
 Merit Systems Protection Board,Merit Systems Protection Board,-4
 City of Sioux Falls,City of Sioux Falls,-5
 State of Connecticut,State of Connecticut,-5
+State of Minnesota,State of Minnesota,-5
 Department of Energy,University of Washington (NNMREC),-5
 State of Connecticut,data.ct.gov,-5
 National Aeronautics and Space Administration,NASA/LARC/SD/ASDC,-7
@@ -270,7 +271,7 @@ State of Iowa,data.iowa.gov,-199
 Department of Energy,Department of Energy,-278
 Department of Justice,Department of Justice,-696
 Department of the Interior,National Park Service,-939
-Environmental Protection Agency,Environmental Protection Agency,-1078
+Environmental Protection Agency,Environmental Protection Agency,-1076
 Department of Commerce,US Census Bureau,-2139
 Department of the Interior,U.S. Geological Survey,-5828
 Department of Commerce,National Oceanic and Atmospheric Administration,-6156
