@@ -1,5 +1,5 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,35301
+Department of the Interior,Department of the Interior,35299
 National Aeronautics and Space Administration,National Aeronautics and Space Administration,32712
 National Aeronautics and Space Administration,OB.DAAC,5446
 Department of the Interior,Fish and Wildlife Service,4791
@@ -27,7 +27,7 @@ NSGIC Regional | GIS Inventory,NSGIC Regional | GIS Inventory,216
 National Aeronautics and Space Administration,LAADS,176
 Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,130
 Department of Defense,Department of Defense,130
-Department of Commerce,National Institute of Standards and Technology,126
+Department of Commerce,National Institute of Standards and Technology,130
 National Aeronautics and Space Administration,LaRC,120
 Department of Homeland Security,Under Secretary / Management,113
 NSGIC Private | GIS Inventory,NSGIC Private | GIS Inventory,101
@@ -81,6 +81,7 @@ Millenium Challenge Corporation,Millennium Challenge Corporation,22
 US Agency for International Development,US Agency for International Development,22
 US Agency for International Development,USAID,22
 City of Seattle,City of Seattle GIS Program,18
+Department of Energy,Energy and Geoscience Institute at the University of Utah,18
 State of Illinois,State of Illinois,18
 State of Illinois,data.illinois.gov,18
 US Equal Employment Opportunity Commission,US Equal Employment Opportunity Commission,17
@@ -92,12 +93,12 @@ Department of Energy,Atmospheric Radiation Measurement Data Center,15
 US Equal Employment Opportunity Commission,US Equal Employment Opportunity Commision,15
 Department of Energy,University of Wisconsin,15
 Federal Communications Commission,Federal Communications Commission,14
+Department of Energy,Sandia National Laboratories,14
 State of Missouri,State of Missouri,14
 Environmental Protection Agency,U.S. Environmental Protection Agency,14
 State of Missouri,data.mo.gov,14
 Department of the Treasury,Department of the Treasury,13
 City of Santa Rosa,City of Santa Rosa,12
-Department of Energy,Energy and Geoscience Institute at the University of Utah,12
 Department of Homeland Security,Federal Emergency Management Agency,12
 State of Washington,Washington State Geospatial Portal,12
 City of Santa Rosa,data.srcity.org,12
@@ -107,7 +108,6 @@ Department of Education,National Center for Education Statistics,9
 National Aeronautics and Space Administration,National Snow and Ice Data Center,9
 Department of Energy,Davenport Newberry Holdings LLC,8
 National Aeronautics and Space Administration,MODAPS,8
-Department of Energy,Sandia National Laboratories,8
 Department of Labor,U.S. Department of Labor Bureau of Labor Statistics,8
 Nuclear Regulatory Commission,Nuclear Regulatory Commission,7
 Department of Commerce,International Trade Administration,6
@@ -141,6 +141,7 @@ City of Chesapeake,City of Chesapeake VA,2
 City of Providence,City of Providence,2
 National Archives and Records Administration,National Archives and Records Administration,2
 Department of Energy,Northwest National Marine renewable Energy Center (UW),2
+Department of Energy,Office of Small and Disadvantaged Business Utilization (OSDBU),2
 Department of Energy,Oregon State University,2
 Department of Energy,Ormat Nevada Inc,2
 Department of Energy,University of California Davis,2
@@ -214,7 +215,6 @@ Department of the Treasury,Bureau of the Fiscal Service,-1
 Department of Homeland Security,Citizenship and Immigration Services United States,-1
 City of Boise,City of Boise,-1
 City of Boise,City of Boise Idaho,-1
-City of Los Angeles,City of Los Angeles,-1
 Department of Labor,Department of Labor,-1
 Department of Agriculture,Economic Research Service Department of Agriculture,-1
 Louisville Metro Government,Emergency Management,-1
@@ -225,12 +225,13 @@ Executive Office of the President,Networking and Information Technology Research
 National Aeronautics and Space Administration,Office of the Chief Information Officer,-1
 Small Business Administration,Small Business Administration,-1
 Department of Energy,Tusaar Corp.,-1
-City of Los Angeles,data.lacity.org,-1
 National Aeronautics and Space Administration,ASF,-2
 National Aeronautics and Space Administration,CDDIS,-2
+City of Los Angeles,City of Los Angeles,-2
 Department of Health and Human Services,Department of Health & Human Services,-2
 National Aeronautics and Space Administration,LPDAAC,-2
 National Science Foundation,National Science Foundation,-2
+City of Los Angeles,data.lacity.org,-2
 National Aeronautics and Space Administration,Aeronautics Research Mission Directorate,-3
 City of Baton Rouge,City of Baton Rouge,-3
 Louisville Metro Government,Codes & Regulations,-3
@@ -275,13 +276,13 @@ National Aeronautics and Space Administration,,-167
 State of Iowa,State of Iowa,-200
 State of Iowa,data.iowa.gov,-200
 Department of Health and Human Services,Centers for Medicare & Medicaid Services,-242
-Department of Energy,Department of Energy,-278
+Department of Energy,Department of Energy,-263
 Department of Health and Human Services,Department of Health and Human Services,-484
 Department of Justice,Department of Justice,-696
 Department of the Interior,National Park Service,-939
 Environmental Protection Agency,Environmental Protection Agency,-1078
 Department of Commerce,US Census Bureau,-2139
-Department of the Interior,U.S. Geological Survey,-5828
+Department of the Interior,U.S. Geological Survey,-5830
 Department of Commerce,National Oceanic and Atmospheric Administration,-6156
 Department of the Interior,US Fish and Wildlife Service,-30577
-Department of Commerce,Department of Commerce,-42486
+Department of Commerce,Department of Commerce,-42482
