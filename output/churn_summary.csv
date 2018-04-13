@@ -1,5 +1,5 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,35299
+Department of the Interior,Department of the Interior,35300
 National Aeronautics and Space Administration,National Aeronautics and Space Administration,32712
 National Aeronautics and Space Administration,OB.DAAC,5446
 Department of the Interior,Fish and Wildlife Service,4791
@@ -215,6 +215,7 @@ Department of the Treasury,Bureau of the Fiscal Service,-1
 Department of Homeland Security,Citizenship and Immigration Services United States,-1
 City of Boise,City of Boise,-1
 City of Boise,City of Boise Idaho,-1
+City of Los Angeles,City of Los Angeles,-1
 Department of Labor,Department of Labor,-1
 Department of Agriculture,Economic Research Service Department of Agriculture,-1
 Louisville Metro Government,Emergency Management,-1
@@ -225,13 +226,12 @@ Executive Office of the President,Networking and Information Technology Research
 National Aeronautics and Space Administration,Office of the Chief Information Officer,-1
 Small Business Administration,Small Business Administration,-1
 Department of Energy,Tusaar Corp.,-1
+City of Los Angeles,data.lacity.org,-1
 National Aeronautics and Space Administration,ASF,-2
 National Aeronautics and Space Administration,CDDIS,-2
-City of Los Angeles,City of Los Angeles,-2
 Department of Health and Human Services,Department of Health & Human Services,-2
 National Aeronautics and Space Administration,LPDAAC,-2
 National Science Foundation,National Science Foundation,-2
-City of Los Angeles,data.lacity.org,-2
 National Aeronautics and Space Administration,Aeronautics Research Mission Directorate,-3
 City of Baton Rouge,City of Baton Rouge,-3
 Louisville Metro Government,Codes & Regulations,-3
@@ -266,8 +266,8 @@ Department of the Interior,Bureau of Ocean Energy Management,-48
 Department of the Interior,Bureau of Land Management,-64
 National Aeronautics and Space Administration,Science Mission Directorate,-71
 National Aeronautics and Space Administration,Atmospheric Science Data Center,-90
+Department of Health and Human Services,Centers for Disease Control and Prevention,-97
 Department of Energy,National Renewable Energy Laboratory,-97
-Department of Health and Human Services,Centers for Disease Control and Prevention,-98
 City of Austin,City of Austin,-110
 City of Austin,data.austintexas.gov,-110
 Municipality of Anchorage,data.muni.org,-133
@@ -275,11 +275,11 @@ Municipality of Anchorage,Municipality of Anchorage,-159
 National Aeronautics and Space Administration,,-167
 State of Iowa,State of Iowa,-200
 State of Iowa,data.iowa.gov,-200
-Department of Health and Human Services,Centers for Medicare & Medicaid Services,-242
+Department of Health and Human Services,Centers for Medicare & Medicaid Services,-239
 Department of Energy,Department of Energy,-263
-Department of Health and Human Services,Department of Health and Human Services,-484
+Department of Health and Human Services,Department of Health and Human Services,-480
 Department of Justice,Department of Justice,-696
-Department of the Interior,National Park Service,-939
+Department of the Interior,National Park Service,-938
 Environmental Protection Agency,Environmental Protection Agency,-1078
 Department of Commerce,US Census Bureau,-2139
 Department of the Interior,U.S. Geological Survey,-5830

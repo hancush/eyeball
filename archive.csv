@@ -44,7 +44,7 @@ Department of Agriculture,United States Department of Agriculture,2,02/04/2018
 Department of Agriculture,USDA Economic Research Service,1,03/29/2018
 Department of Agriculture,USDA NAL,443,03/29/2018
 Department of Agriculture,USDA-GIPSA,5,02/04/2018
-Department of Commerce,Department of Commerce,67299,04/11/2018
+Department of Commerce,Department of Commerce,67299,04/12/2018
 Department of Commerce,(),2,-
 Department of Commerce,(Point of Contact),12,02/16/2017
 Department of Commerce,(Point of Contact); Penn State University (Principal Investigator); Temple University College of Science and Technology (Principal Investigator),1,02/26/2016
@@ -131,7 +131,7 @@ Department of Commerce,University of Minnesota National Lacustrine Core Reposito
 Department of Commerce,University of Rhode Island (URI) Graduate School of Oceanography (GSO) Marine Geological Samples Laboratory (MGSL) (Point of Contact),1,02/26/2016
 Department of Commerce,University of Washington (Principal Investigator); National Snow and Ice Data Center (Point of Contact),1,02/26/2016
 Department of Commerce,US Census Burea Dept of Commerce,1,07/15/2016
-Department of Commerce,US Census Bureau,820,04/11/2018
+Department of Commerce,US Census Bureau,820,04/12/2018
 Department of Commerce,US Census Bureau,1,03/02/2018
 Department of Commerce,US Census Bureau Department of Commerce,206,03/02/2018
 Department of Commerce,US Census Bureau Dept of Commerce,6,03/02/2018
@@ -325,13 +325,13 @@ Department of Energy,Washington Geological Survey,1,02/04/2018
 Department of Energy,Washington Geological Survey (Department of Natural Resources),2,01/03/2018
 Department of Energy,Wind Powering America,1,08/29/2017
 Department of Energy,Wright State University,6,01/17/2018
-Department of Health and Human Services,Department of Health and Human Services,1486,04/08/2018
+Department of Health and Human Services,Department of Health and Human Services,1490,04/12/2018
 Department of Health and Human Services,Administration for Children and Families,5,04/06/2018
 Department of Health and Human Services,Administration for Children and Families Department of Health & Human Services,2,07/14/2017
 Department of Health and Human Services,Agency for Healthcare Research and Quality Department of Health & Human Services,9,12/02/2017
-Department of Health and Human Services,Centers for Disease Control and Prevention,392,04/08/2018
+Department of Health and Human Services,Centers for Disease Control and Prevention,393,04/12/2018
 Department of Health and Human Services,Centers for Disease Control and Prevention Department of Health & Human Services,48,04/06/2018
-Department of Health and Human Services,Centers for Medicare & Medicaid Services,370,04/06/2018
+Department of Health and Human Services,Centers for Medicare & Medicaid Services,373,04/12/2018
 Department of Health and Human Services,Centers for Medicare & Medicaid Services Department of Health & Human Services,4,04/06/2018
 Department of Health and Human Services,Department of Health & Human Services,413,04/06/2018
 Department of Health and Human Services,Department of Health & Human Services Agency for Healthcare Research and Quality,1,12/02/2017
@@ -404,7 +404,7 @@ Department of Labor,Wage and Hour Division,3,06/01/2017
 Department of State,Department of State,129,02/04/2018
 Department of State,Department/Agency level/No publisher,21,02/04/2018
 Department of State,U.S. Department of State,108,04/23/2016
-Department of the Interior,Department of the Interior,54040,04/05/2018
+Department of the Interior,Department of the Interior,54041,04/12/2018
 Department of the Interior,Arizona State Office Bureau of Land Management – GIS Manager,2,03/29/2018
 Department of the Interior,Avenza Maps,7,02/23/2018
 Department of the Interior,BLM,10,03/29/2018
@@ -449,7 +449,7 @@ Department of the Interior,Federal Geographic Data Committee,13,12/06/2017
 Department of the Interior,Fish and Wildlife Service,32859,03/29/2018
 Department of the Interior,Haskell Indian Nations University,1,04/10/2014
 Department of the Interior,Idaho BLM,1,02/23/2018
-Department of the Interior,National Park Service,478,04/05/2018
+Department of the Interior,National Park Service,479,04/12/2018
 Department of the Interior,Nevada Department of Wildlife,1,12/13/2017
 Department of the Interior,OR,2,-
 Department of the Interior,OR BLM,645,-
@@ -491,7 +491,7 @@ Department of the Treasury,U.S. Department of the Treasury,1,08/24/2017
 Department of the Treasury,United States Mint Financial Department (CFO),1,02/27/2018
 Department of the Treasury,United States Mint Sales and Marketing (SAM) Department,3,02/27/2018
 Department of the Treasury,United States Mint. Sales and Marketing (SAM) Department,1,02/27/2018
-Department of Transportation,Department of Transportation,885,04/11/2018
+Department of Transportation,Department of Transportation,885,04/12/2018
 Department of Transportation,Bureau of Transportation Statisitics,3,03/27/2018
 Department of Transportation,data.transportation.gov,1,11/14/2017
 Department of Transportation,Department/Agency level/No publisher,145,10/09/2017
@@ -508,9 +508,9 @@ Department of Transportation,Pipeline and Hazardous Materials Safety Administrat
 Department of Transportation,Research and Innovative Technology Administration,33,10/09/2017
 Department of Transportation,Saint Lawrence Seaway Development Corporation,12,03/01/2017
 Department of Transportation,Surface Transportation Board,21,03/01/2017
-Department of Transportation,USDOT,56,04/11/2018
-Department of Veterans Affairs,Department of Veterans Affairs,1071,04/11/2018
-Department of Veterans Affairs,Department of Veterans Affairs,1071,04/11/2018
+Department of Transportation,USDOT,56,04/12/2018
+Department of Veterans Affairs,Department of Veterans Affairs,1071,04/12/2018
+Department of Veterans Affairs,Department of Veterans Affairs,1071,04/12/2018
 Environmental Protection Agency,Environmental Protection Agency,3091,04/11/2018
 Environmental Protection Agency,Air Protection Division,1,03/08/2018
 Environmental Protection Agency,Department/Agency level/No publisher,2031,03/27/2018
@@ -552,9 +552,9 @@ Environmental Protection Agency,U.S. EPA Office of Water (OW) – Office of Wast
 Environmental Protection Agency,U.S. EPA Office of Water (OW) – Office of Wetlands Oceans and Watersheds (OWOW),21,03/03/2017
 Environmental Protection Agency,U.S. EPA Region 5 Water Division Water Quality Branch,1,08/11/2016
 Environmental Protection Agency,US Environmental Protection Agency,3,04/11/2018
-General Services Administration,General Services Administration,115,04/06/2018
+General Services Administration,General Services Administration,115,04/12/2018
 General Services Administration,Data.gov,1,12/07/2017
-General Services Administration,General Services Administration,97,04/06/2018
+General Services Administration,General Services Administration,97,04/12/2018
 General Services Administration,GSA IT,1,07/13/2017
 General Services Administration,Office of Government-wide Policy,2,03/29/2018
 General Services Administration,Office of Governmentwide Policy,2,03/29/2018
@@ -664,7 +664,6 @@ Federal Housing Finance Agency,Federal Housing Finance Agency,2,05/29/2014
 Federal Laboratory Consortium,Federal Laboratory Consortium,2627,03/26/2018
 Federal Laboratory Consortium,Federal Laboratory Consortium,2627,03/26/2018
 Federal Reserve Board,Federal Reserve Board,5,01/12/2014
-Federal Trade Commission,Federal Trade Commission,6,05/20/2014
 Information Sharing Environment,Information Sharing Environment,2,01/12/2014
 Institute of Museum and Library Services,Institute of Museum and Library Services,78,02/10/2017
 Institute of Museum and Library Services,data.imls.gov,78,02/10/2017
@@ -738,10 +737,10 @@ City of Austin,data.austintexas.gov,977,04/11/2018
 City of Austin,Department/Agency level/No publisher,1,05/24/2016
 City of Baltimore,City of Baltimore,433,04/11/2018
 City of Baltimore,data.baltimorecity.gov,433,04/11/2018
-City of Baton Rouge,City of Baton Rouge,41,04/11/2018
-City of Baton Rouge,data.brla.gov,41,04/11/2018
-City of Bloomington,City of Bloomington,137,04/11/2018
-City of Bloomington,City of Bloomington,137,04/11/2018
+City of Baton Rouge,City of Baton Rouge,41,04/12/2018
+City of Baton Rouge,data.brla.gov,41,04/12/2018
+City of Bloomington,City of Bloomington,137,04/12/2018
+City of Bloomington,City of Bloomington,137,04/12/2018
 City of Boise,City of Boise,11,04/05/2018
 City of Boise,City of Boise Idaho,11,04/05/2018
 City of Charlotte,City of Charlotte,49,04/04/2018
@@ -757,11 +756,11 @@ City of Honolulu,data.honolulu.gov,137,04/11/2018
 "City of Jackson, Mississippi",City of Jackson Mississippi,51,04/07/2017
 "City of Jackson, Mississippi",data.jacksonms.gov,50,04/07/2017
 "City of Jackson, Mississippi",Department/Agency level/No publisher,1,02/10/2017
-City of Los Angeles,City of Los Angeles,303,04/11/2018
-City of Los Angeles,data.lacity.org,303,04/11/2018
-City of New Orleans,City of New Orleans,163,04/11/2018
-City of New Orleans,appsteam@socrata.com,1,04/11/2018
-City of New Orleans,data.nola.gov,162,04/11/2018
+City of Los Angeles,City of Los Angeles,304,04/12/2018
+City of Los Angeles,data.lacity.org,304,04/12/2018
+City of New Orleans,City of New Orleans,163,04/12/2018
+City of New Orleans,appsteam@socrata.com,1,04/12/2018
+City of New Orleans,data.nola.gov,162,04/12/2018
 City of New York,City of New York,1676,04/11/2018
 City of New York,data.cityofnewyork.us,1673,04/11/2018
 City of New York,Department/Agency level/No publisher,3,06/09/2016
@@ -838,8 +837,8 @@ Municipality of Anchorage,data.muni.org,26,04/11/2018
 "Town of Chapel Hill, North Carolina",US Census,1,11/20/2017
 Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,269,04/11/2018
 Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,269,04/11/2018
-"Arlington County, VA",Arlington County VA,161,03/12/2018
-"Arlington County, VA",Arlington County,161,03/12/2018
+"Arlington County, VA",Arlington County VA,161,04/12/2018
+"Arlington County, VA",Arlington County,161,04/12/2018
 Cook County of Illinois,Cook County of Illinois,529,04/11/2018
 Cook County of Illinois,datacatalog.cookcountyil.gov,529,04/11/2018
 "Fairfax County, Virginia",Fairfax County Virginia,177,04/11/2018
@@ -866,8 +865,8 @@ Pacific States Marine Fisheries Commission,Pacific States Marine Fisheries Commi
 NSGIC Private | GIS Inventory,NSGIC Private | GIS Inventory,235,12/14/2017
 NSGIC Regional | GIS Inventory,NSGIC Regional | GIS Inventory,823,12/14/2017
 Arizona Geological Survey,Arizona Geological Survey,950,04/10/2015
-California Department of Resources,California Department of Resources,583,04/10/2015
 California Environmental Health Tracking Program,California Environmental Health Tracking Program,16,04/10/2015
+California Natural Resource Agency,California Natural Resource Agency,583,04/10/2015
 Florida Department of Environmental Protection,Florida Department of Environmental Protection,3,08/25/2016
 Florida Department of Environmental Protection,Engineering Hydrology & Geology Program,3,08/25/2016
 Louisiana Geographic Information Center,Louisiana Geographic Information Center,274,08/02/2016
@@ -926,8 +925,8 @@ State of Oklahoma,Oklahoma Tax Commission,1,09/15/2016
 State of Oklahoma,Oklahoma Tourism and Recreation Department,1,09/15/2016
 State of Oklahoma,OKStateStat,135,09/15/2016
 State of Oklahoma,Used Motor Vehicle Parts Commission,3,09/15/2016
-State of Oregon,State of Oregon,571,04/11/2018
-State of Oregon,data.oregon.gov,571,04/11/2018
+State of Oregon,State of Oregon,571,04/12/2018
+State of Oregon,data.oregon.gov,571,04/12/2018
 State of Washington,State of Washington,462,04/11/2018
 State of Washington,data.wa.gov,462,04/11/2018
 Vermont Center for Geographic Information,Vermont Center for Geographic Information,996,04/11/2018
