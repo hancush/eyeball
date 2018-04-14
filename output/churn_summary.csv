@@ -1,5 +1,4 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,35300
 National Aeronautics and Space Administration,National Aeronautics and Space Administration,32712
 National Aeronautics and Space Administration,OB.DAAC,5446
 Department of the Interior,Fish and Wildlife Service,4791
@@ -18,8 +17,8 @@ Department of Agriculture,USDA NAL,357
 Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),350
 Vermont Center for Geographic Information,VT Center for Geographic Information,294
 Vermont Center for Geographic Information,Vermont Center for Geographic Information,294
-State of Hawaii,State of Hawaii,276
-State of Hawaii,data.hawaii.gov,276
+State of Hawaii,State of Hawaii,277
+State of Hawaii,data.hawaii.gov,277
 National Aeronautics and Space Administration,NSIDC,262
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/OB.DAAC,228
 Department of Homeland Security,Department of Homeland Security,221
@@ -34,11 +33,11 @@ NSGIC Private | GIS Inventory,NSGIC Private | GIS Inventory,101
 City of New York,City of New York,74
 City of New York,data.cityofnewyork.us,74
 Department of the Interior,OR BLM,73
+City of Bloomington,City of Bloomington,72
 Louisville Metro Government,Louisville Metro Government,72
 State of Oregon,State of Oregon,72
 State of Oregon,data.oregon.gov,72
 Department of Agriculture,NRCS,71
-City of Bloomington,City of Bloomington,70
 Department of Agriculture,U.S. Forest Service,65
 NSGIC State | GIS Inventory,NSGIC State | GIS Inventory,63
 National Aeronautics and Space Administration,OBPG,63
@@ -275,14 +274,15 @@ Municipality of Anchorage,Municipality of Anchorage,-159
 National Aeronautics and Space Administration,,-167
 State of Iowa,State of Iowa,-200
 State of Iowa,data.iowa.gov,-200
-Department of Health and Human Services,Centers for Medicare & Medicaid Services,-239
+Department of Health and Human Services,Centers for Medicare & Medicaid Services,-232
 Department of Energy,Department of Energy,-263
-Department of Health and Human Services,Department of Health and Human Services,-480
+Department of Health and Human Services,Department of Health and Human Services,-473
 Department of Justice,Department of Justice,-696
 Department of the Interior,National Park Service,-938
 Environmental Protection Agency,Environmental Protection Agency,-1078
 Department of Commerce,US Census Bureau,-2139
 Department of the Interior,U.S. Geological Survey,-5830
 Department of Commerce,National Oceanic and Atmospheric Administration,-6156
+Department of the Interior,Department of the Interior,-18676
 Department of the Interior,US Fish and Wildlife Service,-30577
 Department of Commerce,Department of Commerce,-42482
