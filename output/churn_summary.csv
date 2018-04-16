@@ -1,7 +1,7 @@
 parent_agency,subagency,net_difference
 National Aeronautics and Space Administration,National Aeronautics and Space Administration,32712
 National Aeronautics and Space Administration,OB.DAAC,5446
-Department of the Interior,Fish and Wildlife Service,4791
+Department of the Interior,Fish and Wildlife Service,5008
 State of California,State of California,4701
 National Aeronautics and Space Administration,Space Technology Mission Directorate,3683
 National Aeronautics and Space Administration,GESDISC,3286
@@ -17,8 +17,8 @@ Department of Agriculture,USDA NAL,357
 Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),350
 Vermont Center for Geographic Information,VT Center for Geographic Information,294
 Vermont Center for Geographic Information,Vermont Center for Geographic Information,294
-State of Hawaii,State of Hawaii,277
-State of Hawaii,data.hawaii.gov,277
+State of Hawaii,State of Hawaii,274
+State of Hawaii,data.hawaii.gov,274
 National Aeronautics and Space Administration,NSIDC,262
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/OB.DAAC,228
 Department of Homeland Security,Department of Homeland Security,221
@@ -30,9 +30,9 @@ Department of Commerce,National Institute of Standards and Technology,130
 National Aeronautics and Space Administration,LaRC,120
 Department of Homeland Security,Under Secretary / Management,113
 NSGIC Private | GIS Inventory,NSGIC Private | GIS Inventory,101
+Department of the Interior,OR BLM,76
 City of New York,City of New York,74
 City of New York,data.cityofnewyork.us,74
-Department of the Interior,OR BLM,73
 City of Bloomington,City of Bloomington,72
 Louisville Metro Government,Louisville Metro Government,72
 State of Oregon,State of Oregon,72
@@ -42,8 +42,8 @@ Department of Agriculture,U.S. Forest Service,65
 NSGIC State | GIS Inventory,NSGIC State | GIS Inventory,63
 National Aeronautics and Space Administration,OBPG,63
 Department of Homeland Security,Coast Guard United States,62
+Department of the Interior,Bureau of Land Management – Eric Hiebenthal,60
 Louisville Metro Government,data.louisvilleky.gov,60
-Department of the Interior,Bureau of Land Management – Eric Hiebenthal,59
 Federal Laboratory Consortium,Federal Laboratory Consortium,58
 Social Security Administration,Social Security Administration,58
 City of Tempe,City of Tempe,48
@@ -72,20 +72,20 @@ City of Chicago,City of Chicago,27
 City of Chicago,data.cityofchicago.org,27
 Millenium Challenge Corporation,Millenium Challenge Corporation,26
 Department of Homeland Security,U.S. Customs and Border Protection,25
+Department of the Interior,BLM Colorado – State Geospatial Lead,24
 Department of Education,Department of Education,24
 Department of Commerce,US Census Bureau Department of Commerce,24
 State of New York,data.ny.gov,23
-Department of the Interior,BLM Colorado – State Geospatial Lead,22
 Millenium Challenge Corporation,Millennium Challenge Corporation,22
 State of Washington,State of Washington,22
 US Agency for International Development,US Agency for International Development,22
 US Agency for International Development,USAID,22
+Department of the Interior,BLM Eastern State Office,18
 City of Seattle,City of Seattle GIS Program,18
 Department of Energy,Energy and Geoscience Institute at the University of Utah,18
 State of Illinois,State of Illinois,18
 State of Illinois,data.illinois.gov,18
 US Equal Employment Opportunity Commission,US Equal Employment Opportunity Commission,17
-Department of the Interior,BLM Eastern State Office,16
 City of New Orleans,City of New Orleans,16
 OpenTopography,OpenTopography,16
 Department of Energy,Atmospheric Radiation Measurement Data Center,15
@@ -278,11 +278,11 @@ Department of Health and Human Services,Centers for Medicare & Medicaid Services
 Department of Energy,Department of Energy,-263
 Department of Health and Human Services,Department of Health and Human Services,-474
 Department of Justice,Department of Justice,-696
-Department of the Interior,National Park Service,-938
+Department of the Interior,National Park Service,-933
 Environmental Protection Agency,Environmental Protection Agency,-1078
 Department of Commerce,US Census Bureau,-2139
 Department of the Interior,U.S. Geological Survey,-5830
 Department of Commerce,National Oceanic and Atmospheric Administration,-6156
-Department of the Interior,Department of the Interior,-7800
+Department of the Interior,Department of the Interior,-7354
 Department of the Interior,US Fish and Wildlife Service,-30577
 Department of Commerce,Department of Commerce,-42482
