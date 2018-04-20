@@ -1,7 +1,7 @@
 parent_agency,subagency,net_difference
 National Aeronautics and Space Administration,National Aeronautics and Space Administration,32712
+Department of the Interior,Fish and Wildlife Service,5481
 National Aeronautics and Space Administration,OB.DAAC,5446
-Department of the Interior,Fish and Wildlife Service,5359
 State of California,State of California,4701
 National Aeronautics and Space Administration,Space Technology Mission Directorate,3683
 National Aeronautics and Space Administration,GESDISC,3286
@@ -70,17 +70,17 @@ State of Washington,data.wa.gov,30
 Department of Agriculture,Farm Service Agency Department of Agriculture,28
 City of Chicago,City of Chicago,27
 City of Chicago,data.cityofchicago.org,27
+Department of the Interior,BLM Colorado – State Geospatial Lead,25
 Department of Homeland Security,U.S. Customs and Border Protection,25
-Department of the Interior,BLM Colorado – State Geospatial Lead,24
 Department of Education,Department of Education,24
 Millenium Challenge Corporation,Millenium Challenge Corporation,24
 Department of Commerce,US Census Bureau Department of Commerce,24
+Department of the Interior,BLM Eastern State Office,23
 State of New York,data.ny.gov,23
 State of Washington,State of Washington,22
 US Agency for International Development,US Agency for International Development,22
 US Agency for International Development,USAID,22
 Millenium Challenge Corporation,Millennium Challenge Corporation,20
-Department of the Interior,BLM Eastern State Office,19
 City of Seattle,City of Seattle GIS Program,18
 Department of Energy,Energy and Geoscience Institute at the University of Utah,18
 State of Illinois,State of Illinois,18
@@ -109,11 +109,11 @@ Department of Energy,Davenport Newberry Holdings LLC,8
 National Aeronautics and Space Administration,MODAPS,8
 Department of Labor,U.S. Department of Labor Bureau of Labor Statistics,8
 Nuclear Regulatory Commission,Nuclear Regulatory Commission,7
+Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,7
 Department of Commerce,International Trade Administration,6
 Department of Energy,Lawrence Livermore National Laboratory,6
 National Endowment for the Humanities,National Endowment for the Humanities,6
 Department of the Treasury,TTB,6
-Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,6
 Department of Agriculture,US Forest Service Department of Agriculture,6
 Department of Transportation,USDOT,6
 Department of Energy,University of Washington,6
@@ -278,11 +278,11 @@ Department of Health and Human Services,Centers for Medicare & Medicaid Services
 Department of Energy,Department of Energy,-263
 Department of Health and Human Services,Department of Health and Human Services,-474
 Department of Justice,Department of Justice,-696
-Department of the Interior,National Park Service,-927
+Department of the Interior,National Park Service,-921
 Environmental Protection Agency,Environmental Protection Agency,-1078
 Department of Commerce,US Census Bureau,-2139
 Department of the Interior,U.S. Geological Survey,-5830
 Department of Commerce,National Oceanic and Atmospheric Administration,-6156
-Department of the Interior,Department of the Interior,-7215
+Department of the Interior,Department of the Interior,-6949
 Department of the Interior,US Fish and Wildlife Service,-30577
 Department of Commerce,Department of Commerce,-42482
