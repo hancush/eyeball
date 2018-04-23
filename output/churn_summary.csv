@@ -1,6 +1,6 @@
 parent_agency,subagency,net_difference
 National Aeronautics and Space Administration,National Aeronautics and Space Administration,32712
-Department of the Interior,Fish and Wildlife Service,5809
+Department of the Interior,Fish and Wildlife Service,7090
 National Aeronautics and Space Administration,OB.DAAC,5446
 State of California,State of California,4701
 National Aeronautics and Space Administration,Space Technology Mission Directorate,3683
@@ -30,7 +30,7 @@ Department of Commerce,National Institute of Standards and Technology,130
 National Aeronautics and Space Administration,LaRC,120
 Department of Homeland Security,Under Secretary / Management,113
 NSGIC Private | GIS Inventory,NSGIC Private | GIS Inventory,101
-Department of the Interior,OR BLM,77
+Department of the Interior,OR BLM,79
 City of New York,City of New York,74
 City of New York,data.cityofnewyork.us,74
 City of Bloomington,City of Bloomington,72
@@ -39,10 +39,10 @@ State of Oregon,data.oregon.gov,72
 Louisville Metro Government,Louisville Metro Government,71
 Department of Agriculture,NRCS,71
 Department of Agriculture,U.S. Forest Service,65
+Department of the Interior,Bureau of Land Management – Eric Hiebenthal,64
 NSGIC State | GIS Inventory,NSGIC State | GIS Inventory,63
 National Aeronautics and Space Administration,OBPG,63
 Department of Homeland Security,Coast Guard United States,62
-Department of the Interior,Bureau of Land Management – Eric Hiebenthal,60
 Louisville Metro Government,data.louisvilleky.gov,60
 Federal Laboratory Consortium,Federal Laboratory Consortium,58
 Social Security Administration,Social Security Administration,58
@@ -71,11 +71,11 @@ Department of Agriculture,Farm Service Agency Department of Agriculture,28
 City of Chicago,City of Chicago,27
 City of Chicago,data.cityofchicago.org,27
 Department of the Interior,BLM Colorado – State Geospatial Lead,25
+Department of the Interior,BLM Eastern State Office,25
 Department of Homeland Security,U.S. Customs and Border Protection,25
 Department of Education,Department of Education,24
 Millenium Challenge Corporation,Millenium Challenge Corporation,24
 Department of Commerce,US Census Bureau Department of Commerce,24
-Department of the Interior,BLM Eastern State Office,23
 State of New York,data.ny.gov,23
 State of Washington,State of Washington,22
 US Agency for International Development,US Agency for International Development,22
@@ -108,8 +108,8 @@ National Aeronautics and Space Administration,National Snow and Ice Data Center,
 Department of Energy,Davenport Newberry Holdings LLC,8
 National Aeronautics and Space Administration,MODAPS,8
 Department of Labor,U.S. Department of Labor Bureau of Labor Statistics,8
+Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,8
 Nuclear Regulatory Commission,Nuclear Regulatory Commission,7
-Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,7
 Department of Commerce,International Trade Administration,6
 Department of Energy,Lawrence Livermore National Laboratory,6
 National Endowment for the Humanities,National Endowment for the Humanities,6
@@ -117,10 +117,10 @@ Department of the Treasury,TTB,6
 Department of Agriculture,US Forest Service Department of Agriculture,6
 Department of Transportation,USDOT,6
 Department of Energy,University of Washington,6
+Department of the Interior,BLM Utah State Office,5
 General Services Administration,General Services Administration,5
 Department of Commerce,US Census Bureau US Department of Commerce,5
 Department of Energy,University of Wyoming,5
-Department of the Interior,BLM Utah State Office,4
 City of Baltimore,City of Baltimore,4
 Department of Energy,Lawrence Berkeley National Laboratory,4
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GGL/CDDIS,4
@@ -132,6 +132,8 @@ Department of the Interior,BLM,3
 Department of the Interior,Bureau of Land Management Colorado State Office – State Geospatial Lead,3
 Department of the Interior,Bureau of Land Management Nevada State Office,3
 Department of the Interior,Bureau of Land Management – New Mexico State Office – GIS Manager,3
+Department of the Interior,BLM National Operations Center OC530 – NOC Data Management Lead,2
+Department of the Interior,BLM New Mexico Oil & Gas Program,2
 Department of the Interior,Bureau of Land Management Idaho State Office Engineering and Geosciences – CMavencamp,2
 Department of Transportation,Bureau of Transportation Statisitics,2
 City of Chesapeake,City of Chesapeake,2
@@ -148,13 +150,13 @@ City of New Orleans,data.nola.gov,2
 Department of Energy,ABB,1
 Department of Energy,AltaRock Energy Inc,1
 Department of the Interior,BLM Moab Field Office,1
-Department of the Interior,BLM National Operations Center OC530 – NOC Data Management Lead,1
-Department of the Interior,BLM New Mexico Oil & Gas Program,1
 Department of Energy,Brookhaven National Laboratory,1
 Department of the Interior,Bureau Indian Affairs,1
 Department of the Interior,Bureau of Land Management Arizona State Office – Brandon Colvin,1
 Department of the Interior,Bureau of Land Management Arizona State Office – GIS Manager,1
 Department of the Interior,Bureau of Land Management Nevada State Office – GIS Manager,1
+Department of the Interior,Bureau of Land Management Oregon State Office – Eric Hiebenthal,1
+Department of the Interior,COSO,1
 Department of Energy,Carnegie Mellon University,1
 City of Hartford,City of Hartford,1
 State of North Dakota,Department of Health,1
@@ -278,11 +280,11 @@ Department of Health and Human Services,Centers for Medicare & Medicaid Services
 Department of Energy,Department of Energy,-263
 Department of Health and Human Services,Department of Health and Human Services,-474
 Department of Justice,Department of Justice,-696
-Department of the Interior,National Park Service,-913
+Department of the Interior,National Park Service,-905
 Environmental Protection Agency,Environmental Protection Agency,-1078
 Department of Commerce,US Census Bureau,-2139
-Department of the Interior,U.S. Geological Survey,-5831
+Department of the Interior,Department of the Interior,-4473
+Department of the Interior,U.S. Geological Survey,-5830
 Department of Commerce,National Oceanic and Atmospheric Administration,-6156
-Department of the Interior,Department of the Interior,-6325
 Department of the Interior,US Fish and Wildlife Service,-30577
 Department of Commerce,Department of Commerce,-42482
