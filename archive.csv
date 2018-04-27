@@ -44,7 +44,7 @@ Department of Agriculture,United States Department of Agriculture,2,02/04/2018
 Department of Agriculture,USDA Economic Research Service,1,03/29/2018
 Department of Agriculture,USDA NAL,443,03/29/2018
 Department of Agriculture,USDA-GIPSA,5,02/04/2018
-Department of Commerce,Department of Commerce,67299,04/23/2018
+Department of Commerce,Department of Commerce,67299,04/25/2018
 Department of Commerce,(),2,-
 Department of Commerce,(Point of Contact),12,02/16/2017
 Department of Commerce,(Point of Contact); Penn State University (Principal Investigator); Temple University College of Science and Technology (Principal Investigator),1,02/26/2016
@@ -131,7 +131,7 @@ Department of Commerce,University of Minnesota National Lacustrine Core Reposito
 Department of Commerce,University of Rhode Island (URI) Graduate School of Oceanography (GSO) Marine Geological Samples Laboratory (MGSL) (Point of Contact),1,02/26/2016
 Department of Commerce,University of Washington (Principal Investigator); National Snow and Ice Data Center (Point of Contact),1,02/26/2016
 Department of Commerce,US Census Burea Dept of Commerce,1,07/15/2016
-Department of Commerce,US Census Bureau,820,04/23/2018
+Department of Commerce,US Census Bureau,820,04/25/2018
 Department of Commerce,US Census Bureau,1,03/02/2018
 Department of Commerce,US Census Bureau Department of Commerce,206,03/02/2018
 Department of Commerce,US Census Bureau Dept of Commerce,6,03/02/2018
@@ -404,7 +404,7 @@ Department of Labor,Wage and Hour Division,3,06/01/2017
 Department of State,Department of State,129,02/04/2018
 Department of State,Department/Agency level/No publisher,21,02/04/2018
 Department of State,U.S. Department of State,108,04/23/2016
-Department of the Interior,Department of the Interior,16026,04/05/2018
+Department of the Interior,Department of the Interior,17037,04/05/2018
 Department of the Interior,Arizona State Office Bureau of Land Management – GIS Manager,2,03/29/2018
 Department of the Interior,Avenza Maps,1,02/23/2018
 Department of the Interior,BLM,5,03/29/2018
@@ -414,7 +414,7 @@ Department of the Interior,BLM – Russell Slatton,33,03/01/2018
 Department of the Interior,BLM Colorado – State Geospatial Lead,25,03/29/2018
 Department of the Interior,BLM Colorado Royal Gorge Field Office,1,02/23/2018
 Department of the Interior,BLM Colorado State Office,2,03/29/2018
-Department of the Interior,BLM Eastern States – Ryan Tietjen,2,12/12/2017
+Department of the Interior,BLM Eastern States – Ryan Tietjen,3,12/12/2017
 Department of the Interior,BLM Moab Field Office,4,02/23/2018
 Department of the Interior,BLM National Operations Center OC530 – NOC Data Management Lead,5,03/01/2018
 Department of the Interior,BLM New Mexico Fire Program,1,12/12/2017
@@ -435,22 +435,22 @@ Department of the Interior,Bureau of Land Management Arizona State Office – Br
 Department of the Interior,Bureau of Land Management Arizona State Office – GIS Manager,2,03/29/2018
 Department of the Interior,Bureau of Land Management Colorado State Office – State Geospatial Lead,6,03/29/2018
 Department of the Interior,Bureau of Land Management Idaho State Office Engineering and Geosciences – CMavencamp,12,12/13/2017
-Department of the Interior,Bureau of Land Management Nevada State Office,12,02/23/2018
+Department of the Interior,Bureau of Land Management Nevada State Office,13,02/23/2018
 Department of the Interior,Bureau of Land Management Nevada State Office – GIS Manager,1,02/23/2018
 Department of the Interior,Bureau of Land Management Oregon State Office – Eric Hiebenthal,10,03/29/2018
 Department of the Interior,Bureau of Ocean Energy Management,2,02/23/2018
 Department of the Interior,Colorado River Valley Field Office BLM – Field Office GIS Specialist,1,02/23/2018
 Department of the Interior,COSO,2,03/29/2018
 Department of the Interior,Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,1,02/23/2018
-Department of the Interior,Department/Agency level/No publisher,5503,04/05/2018
+Department of the Interior,Department/Agency level/No publisher,5696,04/05/2018
 Department of the Interior,Federal Geographic Data Committee,13,12/06/2017
-Department of the Interior,Fish and Wildlife Service,9854,03/29/2018
+Department of the Interior,Fish and Wildlife Service,10662,03/29/2018
 Department of the Interior,Haskell Indian Nations University,1,04/10/2014
 Department of the Interior,Idaho BLM,1,02/23/2018
-Department of the Interior,National Park Service,198,04/05/2018
+Department of the Interior,National Park Service,204,04/05/2018
 Department of the Interior,Nevada Department of Wildlife,1,12/13/2017
 Department of the Interior,OR,2,-
-Department of the Interior,OR BLM,101,-
+Department of the Interior,OR BLM,103,-
 Department of the Interior,Southwestern Indian Polytechnic Institute,1,04/10/2014
 Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,10,02/23/2018
 Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office – C Mavencamp,1,02/23/2018
@@ -506,8 +506,8 @@ Department of Transportation,Research and Innovative Technology Administration,3
 Department of Transportation,Saint Lawrence Seaway Development Corporation,12,03/01/2017
 Department of Transportation,Surface Transportation Board,21,03/01/2017
 Department of Transportation,USDOT,56,04/13/2018
-Department of Veterans Affairs,Department of Veterans Affairs,1071,04/12/2018
-Department of Veterans Affairs,Department of Veterans Affairs,1071,04/12/2018
+Department of Veterans Affairs,Department of Veterans Affairs,1070,04/12/2018
+Department of Veterans Affairs,Department of Veterans Affairs,1070,04/12/2018
 Environmental Protection Agency,Environmental Protection Agency,3091,04/13/2018
 Environmental Protection Agency,Air Protection Division,1,03/08/2018
 Environmental Protection Agency,Department/Agency level/No publisher,2031,03/27/2018
@@ -729,8 +729,8 @@ US Office of the Special Counsel,US Office of the Special Counsel,3,01/12/2014
 "City and County of Durham, North Carolina",Tax Administration,5,03/28/2018
 "City and County of Durham, North Carolina",U.S. Census Bureau,5,07/17/2017
 "City and County of Durham, North Carolina",University of South Carolina Hazards Research Lab Department of Geography,1,07/17/2017
-City of Austin,City of Austin,973,04/11/2018
-City of Austin,data.austintexas.gov,972,04/11/2018
+City of Austin,City of Austin,969,04/11/2018
+City of Austin,data.austintexas.gov,968,04/11/2018
 City of Austin,Department/Agency level/No publisher,1,05/24/2016
 City of Baltimore,City of Baltimore,433,04/11/2018
 City of Baltimore,data.baltimorecity.gov,433,04/11/2018
@@ -758,8 +758,8 @@ City of Los Angeles,data.lacity.org,304,04/13/2018
 City of New Orleans,City of New Orleans,163,04/13/2018
 City of New Orleans,appsteam@socrata.com,1,04/13/2018
 City of New Orleans,data.nola.gov,162,04/13/2018
-City of New York,City of New York,1676,04/11/2018
-City of New York,data.cityofnewyork.us,1673,04/11/2018
+City of New York,City of New York,1675,04/11/2018
+City of New York,data.cityofnewyork.us,1672,04/11/2018
 City of New York,Department/Agency level/No publisher,3,06/09/2016
 City of Philadelphia,City of Philadelphia,91,04/09/2015
 City of Philadelphia,City Of Philadelphia,1,04/09/2015
@@ -771,8 +771,8 @@ City of San Francisco,City of San Francisco,479,04/11/2018
 City of San Francisco,data.sfgov.org,479,04/11/2018
 City of Santa Rosa,City of Santa Rosa,109,04/11/2018
 City of Santa Rosa,data.srcity.org,109,04/11/2018
-City of Seattle,City of Seattle,472,04/11/2018
-City of Seattle,data.seattle.gov,471,04/11/2018
+City of Seattle,City of Seattle,461,04/11/2018
+City of Seattle,data.seattle.gov,460,04/11/2018
 City of Seattle,Department/Agency level/No publisher,1,11/24/2016
 City of Sioux Falls,City of Sioux Falls,74,03/08/2018
 City of Sioux Falls,City of Sioux Falls GIS,74,03/08/2018
@@ -846,8 +846,8 @@ Cook County of Illinois,datacatalog.cookcountyil.gov,529,04/11/2018
 "Loudoun County, Virginia",Loudoun GIS,46,04/05/2018
 Montgomery County of Maryland,Montgomery County of Maryland,220,04/11/2018
 Montgomery County of Maryland,data.montgomerycountymd.gov,220,04/11/2018
-Wake County,Wake County,275,04/11/2018
-Wake County,Wake County,275,04/11/2018
+Wake County,Wake County,230,04/11/2018
+Wake County,Wake County,230,04/11/2018
 NSGIC Education | GIS Inventory,NSGIC Education | GIS Inventory,762,12/13/2017
 NSGIC Local Govt | GIS Inventory,NSGIC Local Govt | GIS Inventory,9479,12/14/2017
 Great Lakes Commission,Great Lakes Commission,60,05/17/2013
@@ -880,8 +880,8 @@ State of Illinois,State of Illinois,619,09/21/2017
 State of Illinois,data.illinois.gov,619,09/21/2017
 State of Iowa,State of Iowa,520,04/13/2018
 State of Iowa,data.iowa.gov,520,04/13/2018
-State of Maryland,State of Maryland,357,04/11/2018
-State of Maryland,data.maryland.gov,357,04/11/2018
+State of Maryland,State of Maryland,354,04/11/2018
+State of Maryland,data.maryland.gov,354,04/11/2018
 State of Minnesota,State of Minnesota,229,10/27/2017
 State of Missouri,State of Missouri,192,04/11/2018
 State of Missouri,data.mo.gov,192,04/11/2018
@@ -924,10 +924,10 @@ State of Oklahoma,OKStateStat,135,09/15/2016
 State of Oklahoma,Used Motor Vehicle Parts Commission,3,09/15/2016
 State of Oregon,State of Oregon,571,04/13/2018
 State of Oregon,data.oregon.gov,571,04/13/2018
-State of Washington,State of Washington,462,04/11/2018
-State of Washington,data.wa.gov,462,04/11/2018
-Vermont Center for Geographic Information,Vermont Center for Geographic Information,940,04/11/2018
-Vermont Center for Geographic Information,VT Center for Geographic Information,940,04/11/2018
+State of Washington,State of Washington,458,04/11/2018
+State of Washington,data.wa.gov,458,04/11/2018
+Vermont Center for Geographic Information,Vermont Center for Geographic Information,935,04/11/2018
+Vermont Center for Geographic Information,VT Center for Geographic Information,935,04/11/2018
 Virginia Department of Environmental Quality,Virginia Department of Environmental Quality,2,04/10/2015
 NSGIC Tribal | GIS Inventory,NSGIC Tribal | GIS Inventory,8,12/14/2017
 "Baruch Institute for Marine and Coastal Sciences, Univ of South Carolina",Baruch Institute for Marine and Coastal Sciences Univ of South Carolina,26,05/17/2013
