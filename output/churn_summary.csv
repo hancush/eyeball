@@ -1,7 +1,6 @@
 parent_agency,subagency,net_difference
-National Aeronautics and Space Administration,National Aeronautics and Space Administration,32712
-Department of the Interior,Fish and Wildlife Service,13240
-Department of the Interior,Department of the Interior,5587
+Department of the Interior,Fish and Wildlife Service,13514
+Department of the Interior,Department of the Interior,6034
 National Aeronautics and Space Administration,OB.DAAC,5446
 State of California,State of California,4701
 National Aeronautics and Space Administration,Space Technology Mission Directorate,3683
@@ -30,9 +29,9 @@ Department of Defense,Department of Defense,130
 Department of Commerce,National Institute of Standards and Technology,130
 National Aeronautics and Space Administration,LaRC,120
 Department of Homeland Security,Under Secretary / Management,113
-Department of the Interior,OR BLM,105
+Department of the Interior,OR BLM,106
 NSGIC Private | GIS Inventory,NSGIC Private | GIS Inventory,101
-Department of the Interior,Bureau of Land Management – Eric Hiebenthal,75
+Department of the Interior,Bureau of Land Management – Eric Hiebenthal,76
 City of New York,City of New York,73
 City of New York,data.cityofnewyork.us,73
 City of Bloomington,City of Bloomington,72
@@ -282,10 +281,11 @@ Department of Health and Human Services,Centers for Medicare & Medicaid Services
 Department of Energy,Department of Energy,-263
 Department of Health and Human Services,Department of Health and Human Services,-474
 Department of Justice,Department of Justice,-696
-Department of the Interior,National Park Service,-843
+Department of the Interior,National Park Service,-842
 Environmental Protection Agency,Environmental Protection Agency,-1078
 Department of Commerce,US Census Bureau,-2139
 Department of the Interior,U.S. Geological Survey,-5830
 Department of Commerce,National Oceanic and Atmospheric Administration,-6157
+National Aeronautics and Space Administration,National Aeronautics and Space Administration,-10281
 Department of the Interior,US Fish and Wildlife Service,-30577
 Department of Commerce,Department of Commerce,-42483
