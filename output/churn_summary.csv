@@ -1,6 +1,6 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Fish and Wildlife Service,13514
-Department of the Interior,Department of the Interior,6034
+Department of the Interior,Fish and Wildlife Service,15259
+Department of the Interior,Department of the Interior,8837
 National Aeronautics and Space Administration,OB.DAAC,5446
 State of California,State of California,4701
 National Aeronautics and Space Administration,Space Technology Mission Directorate,3683
@@ -29,9 +29,9 @@ Department of Defense,Department of Defense,130
 Department of Commerce,National Institute of Standards and Technology,130
 National Aeronautics and Space Administration,LaRC,120
 Department of Homeland Security,Under Secretary / Management,113
-Department of the Interior,OR BLM,106
+Department of the Interior,OR BLM,110
 NSGIC Private | GIS Inventory,NSGIC Private | GIS Inventory,101
-Department of the Interior,Bureau of Land Management – Eric Hiebenthal,76
+Department of the Interior,Bureau of Land Management – Eric Hiebenthal,78
 City of New York,City of New York,73
 City of New York,data.cityofnewyork.us,73
 City of Bloomington,City of Bloomington,72
@@ -46,8 +46,8 @@ Department of Homeland Security,Coast Guard United States,62
 Louisville Metro Government,data.louisvilleky.gov,60
 Federal Laboratory Consortium,Federal Laboratory Consortium,58
 Social Security Administration,Social Security Administration,58
+Department of the Interior,BLM – Russell Slatton,48
 City of Tempe,City of Tempe,48
-Department of the Interior,BLM – Russell Slatton,47
 Department of Transportation,Department of Transportation,47
 University of Idaho,University of Idaho,46
 National Aeronautics and Space Administration,Not provided,44
@@ -56,9 +56,9 @@ Cook County of Illinois,Cook County of Illinois,42
 City of San Francisco,data.sfgov.org,42
 Cook County of Illinois,datacatalog.cookcountyil.gov,42
 Department of the Interior,BLM Colorado State Office,41
+Department of the Interior,BLM Eastern State Office,41
 Montgomery County of Maryland,Montgomery County of Maryland,37
 Montgomery County of Maryland,data.montgomerycountymd.gov,37
-Department of the Interior,BLM Eastern State Office,36
 Institute of Museum and Library Services,Institute of Museum and Library Services,36
 National Aeronautics and Space Administration,NASA National Snow and Ice Data Center Distributed Active Archive Center,36
 NSGIC Education | GIS Inventory,NSGIC Education | GIS Inventory,35
@@ -68,9 +68,9 @@ Department of Agriculture,Rural Development Department of Agriculture,32
 Department of Energy,University of Nevada,32
 National Aeronautics and Space Administration,ASDC,30
 Department of Agriculture,Farm Service Agency Department of Agriculture,28
+Department of the Interior,BLM Colorado – State Geospatial Lead,27
 City of Chicago,City of Chicago,27
 City of Chicago,data.cityofchicago.org,27
-Department of the Interior,BLM Colorado – State Geospatial Lead,26
 State of Washington,data.wa.gov,26
 Department of Homeland Security,U.S. Customs and Border Protection,25
 Department of Education,Department of Education,24
@@ -135,6 +135,7 @@ Department of the Interior,BLM National Operations Center OC530 – NOC Data Man
 Department of the Interior,Bureau of Land Management Oregon State Office – Eric Hiebenthal,3
 Department of the Interior,Bureau of Land Management – New Mexico State Office – GIS Manager,3
 Department of the Interior,BLM Eastern States – Ryan Tietjen,2
+Department of the Interior,BLM Moab Field Office,2
 Department of the Interior,BLM New Mexico Oil & Gas Program,2
 Department of the Interior,Bureau of Land Management Arizona State Office – GIS Manager,2
 Department of the Interior,Bureau of Land Management Idaho State Office Engineering and Geosciences – CMavencamp,2
@@ -152,7 +153,6 @@ Department of Energy,Ormat Nevada Inc,2
 Department of Energy,University of California Davis,2
 Department of Energy,ABB,1
 Department of Energy,AltaRock Energy Inc,1
-Department of the Interior,BLM Moab Field Office,1
 Department of Energy,Brookhaven National Laboratory,1
 Department of the Interior,Bureau Indian Affairs,1
 Department of the Interior,Bureau of Land Management Arizona State Office – Brandon Colvin,1
@@ -264,7 +264,7 @@ State of Maryland,data.maryland.gov,-39
 Department of the Interior,Bureau of Ocean Energy Management,-48
 City of Seattle,City of Seattle,-51
 City of Seattle,data.seattle.gov,-51
-Department of the Interior,Bureau of Land Management,-54
+Department of the Interior,Bureau of Land Management,-53
 National Aeronautics and Space Administration,Science Mission Directorate,-71
 National Aeronautics and Space Administration,Atmospheric Science Data Center,-90
 Department of Health and Human Services,Centers for Disease Control and Prevention,-97
@@ -281,11 +281,11 @@ Department of Health and Human Services,Centers for Medicare & Medicaid Services
 Department of Energy,Department of Energy,-263
 Department of Health and Human Services,Department of Health and Human Services,-474
 Department of Justice,Department of Justice,-696
-Department of the Interior,National Park Service,-842
+Department of the Interior,National Park Service,-827
 Environmental Protection Agency,Environmental Protection Agency,-1078
 Department of Commerce,US Census Bureau,-2139
 Department of the Interior,U.S. Geological Survey,-5830
-Department of Commerce,National Oceanic and Atmospheric Administration,-6157
+Department of Commerce,National Oceanic and Atmospheric Administration,-6156
 National Aeronautics and Space Administration,National Aeronautics and Space Administration,-10281
 Department of the Interior,US Fish and Wildlife Service,-30577
-Department of Commerce,Department of Commerce,-42483
+Department of Commerce,Department of Commerce,-42482
