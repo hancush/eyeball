@@ -1,6 +1,6 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Fish and Wildlife Service,16728
-Department of the Interior,Department of the Interior,11300
+Department of the Interior,Fish and Wildlife Service,17351
+Department of the Interior,Department of the Interior,12352
 National Aeronautics and Space Administration,OB.DAAC,5446
 State of California,State of California,4701
 National Aeronautics and Space Administration,Space Technology Mission Directorate,3683
@@ -28,17 +28,17 @@ Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Alleghen
 Department of Defense,Department of Defense,130
 Department of Commerce,National Institute of Standards and Technology,129
 National Aeronautics and Space Administration,LaRC,120
-Department of the Interior,OR BLM,113
+Department of the Interior,OR BLM,116
 Department of Homeland Security,Under Secretary / Management,113
 NSGIC Private | GIS Inventory,NSGIC Private | GIS Inventory,101
-Department of the Interior,Bureau of Land Management – Eric Hiebenthal,83
-City of New York,City of New York,73
-City of New York,data.cityofnewyork.us,73
+Department of the Interior,Bureau of Land Management – Eric Hiebenthal,86
 City of Bloomington,City of Bloomington,72
 State of Oregon,State of Oregon,72
 State of Oregon,data.oregon.gov,72
 Louisville Metro Government,Louisville Metro Government,71
 Department of Agriculture,NRCS,71
+City of New York,City of New York,67
+City of New York,data.cityofnewyork.us,67
 Department of Agriculture,U.S. Forest Service,65
 NSGIC State | GIS Inventory,NSGIC State | GIS Inventory,63
 National Aeronautics and Space Administration,OBPG,63
@@ -46,7 +46,7 @@ Department of Homeland Security,Coast Guard United States,62
 Louisville Metro Government,data.louisvilleky.gov,60
 Federal Laboratory Consortium,Federal Laboratory Consortium,58
 Social Security Administration,Social Security Administration,58
-Department of the Interior,BLM – Russell Slatton,48
+Department of the Interior,BLM – Russell Slatton,49
 Department of Transportation,Department of Transportation,47
 Department of the Interior,BLM Eastern State Office,46
 City of Tempe,City of Tempe,46
@@ -94,13 +94,13 @@ Department of Energy,University of Wisconsin,15
 Federal Communications Commission,Federal Communications Commission,14
 Department of Energy,Sandia National Laboratories,14
 State of Missouri,State of Missouri,14
+Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,14
 Environmental Protection Agency,U.S. Environmental Protection Agency,14
 State of Missouri,data.mo.gov,14
 City of Santa Rosa,City of Santa Rosa,13
 Department of the Treasury,Department of the Treasury,13
 City of Santa Rosa,data.srcity.org,13
 Department of Homeland Security,Federal Emergency Management Agency,12
-Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,12
 State of Washington,Washington State Geospatial Portal,12
 City of Providence,data.providenceri.gov,10
 Federal Communications Commission,opendata.fcc.gov,10
@@ -278,15 +278,15 @@ Municipality of Anchorage,Municipality of Anchorage,-159
 National Aeronautics and Space Administration,,-167
 State of Iowa,State of Iowa,-202
 State of Iowa,data.iowa.gov,-202
-Department of Health and Human Services,Centers for Medicare & Medicaid Services,-233
+Department of Health and Human Services,Centers for Medicare & Medicaid Services,-234
 Department of Energy,Department of Energy,-263
-Department of Health and Human Services,Department of Health and Human Services,-474
+Department of Health and Human Services,Department of Health and Human Services,-475
 Department of Justice,Department of Justice,-696
-Department of the Interior,National Park Service,-814
+Department of the Interior,National Park Service,-808
 Environmental Protection Agency,Environmental Protection Agency,-1078
 Department of Commerce,US Census Bureau,-2139
 Department of the Interior,U.S. Geological Survey,-5830
-Department of Commerce,National Oceanic and Atmospheric Administration,-6156
+Department of Commerce,National Oceanic and Atmospheric Administration,-6157
 National Aeronautics and Space Administration,National Aeronautics and Space Administration,-10281
 Department of the Interior,US Fish and Wildlife Service,-30577
 Department of Commerce,Department of Commerce,-42483
