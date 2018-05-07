@@ -1,6 +1,6 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Fish and Wildlife Service,18547
-Department of the Interior,Department of the Interior,14214
+Department of the Interior,Fish and Wildlife Service,18883
+Department of the Interior,Department of the Interior,14806
 National Aeronautics and Space Administration,OB.DAAC,5446
 State of California,State of California,4701
 National Aeronautics and Space Administration,Space Technology Mission Directorate,3683
@@ -26,8 +26,8 @@ Vermont Center for Geographic Information,Vermont Center for Geographic Informat
 National Aeronautics and Space Administration,LAADS,176
 Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,132
 Department of Defense,Department of Defense,130
+Department of the Interior,OR BLM,130
 Department of Commerce,National Institute of Standards and Technology,129
-Department of the Interior,OR BLM,124
 National Aeronautics and Space Administration,LaRC,120
 Department of Homeland Security,Under Secretary / Management,113
 NSGIC Private | GIS Inventory,NSGIC Private | GIS Inventory,101
@@ -44,19 +44,19 @@ NSGIC State | GIS Inventory,NSGIC State | GIS Inventory,63
 National Aeronautics and Space Administration,OBPG,63
 Department of Homeland Security,Coast Guard United States,62
 Louisville Metro Government,data.louisvilleky.gov,60
-Federal Laboratory Consortium,Federal Laboratory Consortium,58
 Social Security Administration,Social Security Administration,58
+Federal Laboratory Consortium,Federal Laboratory Consortium,57
 Department of the Interior,BLM – Russell Slatton,52
 Department of the Interior,BLM Eastern State Office,46
 City of Tempe,City of Tempe,46
 University of Idaho,University of Idaho,46
 Department of Transportation,Department of Transportation,45
+Department of the Interior,BLM Colorado State Office,44
 National Aeronautics and Space Administration,Not provided,44
 City of San Francisco,City of San Francisco,42
 Cook County of Illinois,Cook County of Illinois,42
 City of San Francisco,data.sfgov.org,42
 Cook County of Illinois,datacatalog.cookcountyil.gov,42
-Department of the Interior,BLM Colorado State Office,41
 Montgomery County of Maryland,Montgomery County of Maryland,37
 Montgomery County of Maryland,data.montgomerycountymd.gov,37
 Institute of Museum and Library Services,Institute of Museum and Library Services,36
@@ -216,8 +216,6 @@ Department of Energy,Wright State University,0
 City of Somerville,data.somervillema.gov,0
 Department of the Treasury,Bureau of the Fiscal Service,-1
 Department of Homeland Security,Citizenship and Immigration Services United States,-1
-City of Boise,City of Boise,-1
-City of Boise,City of Boise Idaho,-1
 Department of Labor,Department of Labor,-1
 Department of Agriculture,Economic Research Service Department of Agriculture,-1
 Louisville Metro Government,Emergency Management,-1
@@ -238,6 +236,8 @@ City of Baton Rouge,City of Baton Rouge,-3
 Louisville Metro Government,Codes & Regulations,-3
 Small Business Administration,U.S. Small Business Administration,-3
 City of Baton Rouge,data.brla.gov,-3
+City of Boise,City of Boise,-4
+City of Boise,City of Boise Idaho,-4
 City of Los Angeles,City of Los Angeles,-4
 Department of Agriculture,Farm Service Agency,-4
 Merit Systems Protection Board,Merit Systems Protection Board,-4
@@ -282,7 +282,7 @@ Department of Health and Human Services,Centers for Medicare & Medicaid Services
 Department of Energy,Department of Energy,-263
 Department of Health and Human Services,Department of Health and Human Services,-475
 Department of Justice,Department of Justice,-696
-Department of the Interior,National Park Service,-803
+Department of the Interior,National Park Service,-796
 Environmental Protection Agency,Environmental Protection Agency,-1084
 Department of Commerce,US Census Bureau,-2139
 Department of the Interior,U.S. Geological Survey,-5830
