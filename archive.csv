@@ -44,7 +44,7 @@ Department of Agriculture,United States Department of Agriculture,2,02/04/2018
 Department of Agriculture,USDA Economic Research Service,1,03/29/2018
 Department of Agriculture,USDA NAL,443,03/29/2018
 Department of Agriculture,USDA-GIPSA,5,02/04/2018
-Department of Commerce,Department of Commerce,67298,05/05/2018
+Department of Commerce,Department of Commerce,67298,05/07/2018
 Department of Commerce,(),2,-
 Department of Commerce,(Point of Contact),12,02/16/2017
 Department of Commerce,(Point of Contact); Penn State University (Principal Investigator); Temple University College of Science and Technology (Principal Investigator),1,02/26/2016
@@ -131,7 +131,7 @@ Department of Commerce,University of Minnesota National Lacustrine Core Reposito
 Department of Commerce,University of Rhode Island (URI) Graduate School of Oceanography (GSO) Marine Geological Samples Laboratory (MGSL) (Point of Contact),1,02/26/2016
 Department of Commerce,University of Washington (Principal Investigator); National Snow and Ice Data Center (Point of Contact),1,02/26/2016
 Department of Commerce,US Census Burea Dept of Commerce,1,07/15/2016
-Department of Commerce,US Census Bureau,820,05/05/2018
+Department of Commerce,US Census Bureau,820,05/07/2018
 Department of Commerce,US Census Bureau,1,03/02/2018
 Department of Commerce,US Census Bureau Department of Commerce,206,03/02/2018
 Department of Commerce,US Census Bureau Dept of Commerce,6,03/02/2018
@@ -404,7 +404,7 @@ Department of Labor,Wage and Hour Division,3,06/01/2017
 Department of State,Department of State,129,02/04/2018
 Department of State,Department/Agency level/No publisher,21,02/04/2018
 Department of State,U.S. Department of State,108,04/23/2016
-Department of the Interior,Department of the Interior,29247,04/28/2018
+Department of the Interior,Department of the Interior,29656,04/28/2018
 Department of the Interior,Arizona State Office Bureau of Land Management – GIS Manager,2,03/29/2018
 Department of the Interior,Avenza Maps,1,02/23/2018
 Department of the Interior,BLM,8,03/29/2018
@@ -420,7 +420,7 @@ Department of the Interior,BLM National Operations Center OC530 – NOC Data Man
 Department of the Interior,BLM New Mexico Fire Program,1,12/12/2017
 Department of the Interior,BLM New Mexico Oil & Gas Program,4,12/13/2017
 Department of the Interior,BLM Utah State Office,17,02/23/2018
-Department of the Interior,BLM Colorado State Office,10,03/29/2018
+Department of the Interior,BLM Colorado State Office,11,03/29/2018
 Department of the Interior,BLM Eastern State Office,58,12/13/2017
 Department of the Interior,BLM Idaho State Office,1,02/23/2018
 Department of the Interior,BLM Idaho State Office – CM,1,12/12/2017
@@ -429,7 +429,7 @@ Department of the Interior,BLM/USFS,1,12/13/2017
 Department of the Interior,Bureau Indian Affairs,3,02/23/2018
 Department of the Interior,Bureau of Indian Affairs,1,02/23/2018
 Department of the Interior,Bureau of Land Management,21,03/29/2018
-Department of the Interior,Bureau of Land Management – Eric Hiebenthal,61,03/29/2018
+Department of the Interior,Bureau of Land Management – Eric Hiebenthal,63,03/29/2018
 Department of the Interior,Bureau of Land Management – New Mexico State Office – GIS Manager,11,12/13/2017
 Department of the Interior,Bureau of Land Management – New Mexico State Office – State GIS Manager,2,12/13/2017
 Department of the Interior,Bureau of Land Management Arizona State Office – Brandon Colvin,2,12/13/2017
@@ -443,15 +443,15 @@ Department of the Interior,Bureau of Ocean Energy Management,2,02/23/2018
 Department of the Interior,Colorado River Valley Field Office BLM – Field Office GIS Specialist,1,02/23/2018
 Department of the Interior,COSO,2,03/29/2018
 Department of the Interior,Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,1,02/23/2018
-Department of the Interior,Department/Agency level/No publisher,8501,04/28/2018
+Department of the Interior,Department/Agency level/No publisher,8605,04/28/2018
 Department of the Interior,Federal Geographic Data Committee,13,12/06/2017
-Department of the Interior,Fish and Wildlife Service,19853,04/28/2018
+Department of the Interior,Fish and Wildlife Service,20152,04/28/2018
 Department of the Interior,Haskell Indian Nations University,1,04/10/2014
 Department of the Interior,Idaho BLM,1,02/23/2018
-Department of the Interior,National Park Service,289,04/05/2018
+Department of the Interior,National Park Service,291,04/05/2018
 Department of the Interior,Nevada Department of Wildlife,1,12/13/2017
 Department of the Interior,OR,2,-
-Department of the Interior,OR BLM,144,-
+Department of the Interior,OR BLM,145,-
 Department of the Interior,Oregon State Office Bureau of Land Management,1,03/29/2018
 Department of the Interior,Southwestern Indian Polytechnic Institute,1,04/10/2014
 Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,16,02/23/2018
@@ -603,7 +603,7 @@ Federal Deposit Insurance Corporation,Federal Deposit Insurance Corporation,3,01
 Federal Election Commission,Federal Election Commission,4,01/12/2014
 Federal Housing Finance Agency,Federal Housing Finance Agency,2,05/29/2014
 Federal Housing Finance Agency,Federal Housing Finance Agency,2,05/29/2014
-Federal Laboratory Consortium,Federal Laboratory Consortium,2626,03/26/2018
+Federal Laboratory Consortium,Federal Laboratory Consortium,2627,03/26/2018
 Federal Laboratory Consortium,Federal Laboratory Consortium,2627,03/26/2018
 Federal Reserve Board,Federal Reserve Board,5,01/12/2014
 Information Sharing Environment,Information Sharing Environment,2,01/12/2014
@@ -614,9 +614,9 @@ Library of Congress,Library of Congress,9,05/15/2017
 Library of Congress,Library of Congress,9,05/15/2017
 Merit Systems Protection Board,Merit Systems Protection Board,1,07/05/2017
 Merit Systems Protection Board,Merit Systems Protection Board,1,07/05/2017
-Millenium Challenge Corporation,Millenium Challenge Corporation,150,04/04/2018
+Millenium Challenge Corporation,Millenium Challenge Corporation,149,04/04/2018
 Millenium Challenge Corporation,MCC,4,10/16/2016
-Millenium Challenge Corporation,Millennium Challenge Corporation,146,04/04/2018
+Millenium Challenge Corporation,Millennium Challenge Corporation,145,04/04/2018
 National Capital Planning Commission,National Capital Planning Commission,4,10/09/2014
 National Endowment for the Humanities,National Endowment for the Humanities,14,03/02/2018
 National Endowment for the Humanities,NEH,14,03/02/2018
@@ -787,8 +787,8 @@ Cook County of Illinois,datacatalog.cookcountyil.gov,529,04/11/2018
 "Fairfax County, Virginia",Fairfax County GIS,177,04/11/2018
 "King County, Washington",King County Washington,261,04/11/2018
 "King County, Washington",data.kingcounty.gov,261,04/11/2018
-"Loudoun County, Virginia",Loudoun County Virginia,34,04/05/2018
-"Loudoun County, Virginia",Loudoun GIS,34,04/05/2018
+"Loudoun County, Virginia",Loudoun County Virginia,35,04/05/2018
+"Loudoun County, Virginia",Loudoun GIS,35,04/05/2018
 Montgomery County of Maryland,Montgomery County of Maryland,220,04/11/2018
 Montgomery County of Maryland,data.montgomerycountymd.gov,220,04/11/2018
 Wake County,Wake County,228,04/11/2018
