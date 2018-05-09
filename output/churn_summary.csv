@@ -1,6 +1,6 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Fish and Wildlife Service,19182
-Department of the Interior,Department of the Interior,15319
+Department of the Interior,Fish and Wildlife Service,20098
+Department of the Interior,Department of the Interior,16855
 National Aeronautics and Space Administration,OB.DAAC,5446
 State of California,State of California,4701
 National Aeronautics and Space Administration,Space Technology Mission Directorate,3683
@@ -24,19 +24,19 @@ NSGIC Regional | GIS Inventory,NSGIC Regional | GIS Inventory,216
 Vermont Center for Geographic Information,VT Center for Geographic Information,213
 Vermont Center for Geographic Information,Vermont Center for Geographic Information,213
 National Aeronautics and Space Administration,LAADS,176
+Department of the Interior,OR BLM,133
 Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,132
-Department of the Interior,OR BLM,131
 Department of Defense,Department of Defense,130
 Department of Commerce,National Institute of Standards and Technology,129
 National Aeronautics and Space Administration,LaRC,120
 Department of Homeland Security,Under Secretary / Management,113
 NSGIC Private | GIS Inventory,NSGIC Private | GIS Inventory,101
-Department of the Interior,Bureau of Land Management – Eric Hiebenthal,91
+Department of the Interior,Bureau of Land Management – Eric Hiebenthal,96
 City of Bloomington,City of Bloomington,72
-State of Oregon,State of Oregon,72
-State of Oregon,data.oregon.gov,72
 Louisville Metro Government,Louisville Metro Government,71
 Department of Agriculture,NRCS,71
+State of Oregon,State of Oregon,70
+State of Oregon,data.oregon.gov,70
 City of New York,City of New York,67
 City of New York,data.cityofnewyork.us,67
 Department of Agriculture,U.S. Forest Service,65
@@ -46,8 +46,8 @@ Department of Homeland Security,Coast Guard United States,62
 Louisville Metro Government,data.louisvilleky.gov,60
 Federal Laboratory Consortium,Federal Laboratory Consortium,58
 Social Security Administration,Social Security Administration,58
-Department of the Interior,BLM – Russell Slatton,52
-Department of the Interior,BLM Eastern State Office,46
+Department of the Interior,BLM – Russell Slatton,53
+Department of the Interior,BLM Eastern State Office,47
 City of Tempe,City of Tempe,46
 University of Idaho,University of Idaho,46
 Department of the Interior,BLM Colorado State Office,45
@@ -86,10 +86,10 @@ State of Illinois,State of Illinois,18
 State of Illinois,data.illinois.gov,18
 US Equal Employment Opportunity Commission,US Equal Employment Opportunity Commission,17
 OpenTopography,OpenTopography,16
+Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,16
 Department of Energy,Atmospheric Radiation Measurement Data Center,15
 City of New Orleans,City of New Orleans,15
 State of Washington,State of Washington,15
-Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,15
 US Equal Employment Opportunity Commission,US Equal Employment Opportunity Commision,15
 Department of Energy,University of Wisconsin,15
 Federal Communications Commission,Federal Communications Commission,14
@@ -108,11 +108,11 @@ Federal Communications Commission,opendata.fcc.gov,10
 Department of Education,National Center for Education Statistics,9
 National Aeronautics and Space Administration,National Snow and Ice Data Center,9
 Department of the Interior,BLM Utah State Office,8
+Department of the Interior,Bureau of Land Management Nevada State Office,8
 Department of Energy,Davenport Newberry Holdings LLC,8
 National Aeronautics and Space Administration,MODAPS,8
 Department of Labor,U.S. Department of Labor Bureau of Labor Statistics,8
 Department of the Interior,BLM,7
-Department of the Interior,Bureau of Land Management Nevada State Office,7
 Nuclear Regulatory Commission,Nuclear Regulatory Commission,7
 Department of Commerce,International Trade Administration,6
 Department of Energy,Lawrence Livermore National Laboratory,6
@@ -120,10 +120,10 @@ National Endowment for the Humanities,National Endowment for the Humanities,6
 Department of the Treasury,TTB,6
 Department of Agriculture,US Forest Service Department of Agriculture,6
 Department of Energy,University of Washington,6
+Department of the Interior,Bureau of Land Management Colorado State Office – State Geospatial Lead,5
 General Services Administration,General Services Administration,5
 Department of Commerce,US Census Bureau US Department of Commerce,5
 Department of Energy,University of Wyoming,5
-Department of the Interior,Bureau of Land Management Colorado State Office – State Geospatial Lead,4
 Department of the Interior,Bureau of Land Management Oregon State Office – Eric Hiebenthal,4
 Department of the Interior,Bureau of Land Management – New Mexico State Office – GIS Manager,4
 City of Baltimore,City of Baltimore,4
@@ -263,7 +263,7 @@ National Aeronautics and Space Administration,Human Exploration and Operations M
 State of Maryland,State of Maryland,-40
 State of Maryland,data.maryland.gov,-40
 Department of the Interior,Bureau of Ocean Energy Management,-48
-Department of the Interior,Bureau of Land Management,-53
+Department of the Interior,Bureau of Land Management,-51
 City of Seattle,City of Seattle,-57
 City of Seattle,data.seattle.gov,-57
 National Aeronautics and Space Administration,Science Mission Directorate,-71
@@ -282,7 +282,7 @@ Department of Health and Human Services,Centers for Medicare & Medicaid Services
 Department of Energy,Department of Energy,-263
 Department of Health and Human Services,Department of Health and Human Services,-475
 Department of Justice,Department of Justice,-696
-Department of the Interior,National Park Service,-794
+Department of the Interior,National Park Service,-788
 Environmental Protection Agency,Environmental Protection Agency,-1084
 Department of Commerce,US Census Bureau,-2139
 Department of the Interior,U.S. Geological Survey,-5830
