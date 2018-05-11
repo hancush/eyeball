@@ -1,6 +1,6 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Fish and Wildlife Service,21481
-Department of the Interior,Department of the Interior,18767
+Department of the Interior,Department of the Interior,25714
+Department of the Interior,Fish and Wildlife Service,24555
 National Aeronautics and Space Administration,OB.DAAC,5446
 State of California,State of California,4701
 National Aeronautics and Space Administration,Space Technology Mission Directorate,3683
@@ -102,10 +102,10 @@ Department of the Treasury,Department of the Treasury,13
 City of Santa Rosa,data.srcity.org,13
 Department of Homeland Security,Federal Emergency Management Agency,12
 State of Washington,Washington State Geospatial Portal,12
+Department of the Interior,BLM Utah State Office,10
 Department of the Interior,Utah BLM State Office,10
 City of Providence,data.providenceri.gov,10
 Federal Communications Commission,opendata.fcc.gov,10
-Department of the Interior,BLM Utah State Office,9
 Department of Education,National Center for Education Statistics,9
 National Aeronautics and Space Administration,National Snow and Ice Data Center,9
 Department of the Interior,Bureau of Land Management Nevada State Office,8
@@ -283,7 +283,7 @@ Department of Health and Human Services,Centers for Medicare & Medicaid Services
 Department of Energy,Department of Energy,-263
 Department of Health and Human Services,Department of Health and Human Services,-476
 Department of Justice,Department of Justice,-696
-Department of the Interior,National Park Service,-785
+Department of the Interior,National Park Service,-729
 Environmental Protection Agency,Environmental Protection Agency,-1084
 Department of Commerce,US Census Bureau,-2139
 Department of the Interior,U.S. Geological Survey,-5830
