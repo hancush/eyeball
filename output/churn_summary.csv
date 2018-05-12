@@ -1,6 +1,6 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,25714
-Department of the Interior,Fish and Wildlife Service,24555
+Department of the Interior,Department of the Interior,34854
+Department of the Interior,Fish and Wildlife Service,28439
 National Aeronautics and Space Administration,OB.DAAC,5446
 State of California,State of California,4701
 National Aeronautics and Space Administration,Space Technology Mission Directorate,3683
@@ -31,7 +31,7 @@ Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Alleghen
 National Aeronautics and Space Administration,LaRC,120
 Department of Homeland Security,Under Secretary / Management,113
 NSGIC Private | GIS Inventory,NSGIC Private | GIS Inventory,101
-Department of the Interior,Bureau of Land Management – Eric Hiebenthal,96
+Department of the Interior,Bureau of Land Management – Eric Hiebenthal,99
 City of Bloomington,City of Bloomington,72
 Louisville Metro Government,Louisville Metro Government,71
 Department of Agriculture,NRCS,71
@@ -270,7 +270,7 @@ Department of Labor,Department of Labor,-71
 National Aeronautics and Space Administration,Science Mission Directorate,-71
 National Aeronautics and Space Administration,Atmospheric Science Data Center,-90
 Department of Energy,National Renewable Energy Laboratory,-97
-Department of Health and Human Services,Centers for Disease Control and Prevention,-98
+Department of Health and Human Services,Centers for Disease Control and Prevention,-100
 Wake County,Wake County,-110
 City of Austin,City of Austin,-121
 City of Austin,data.austintexas.gov,-121
@@ -281,9 +281,9 @@ State of Iowa,State of Iowa,-202
 State of Iowa,data.iowa.gov,-202
 Department of Health and Human Services,Centers for Medicare & Medicaid Services,-234
 Department of Energy,Department of Energy,-263
-Department of Health and Human Services,Department of Health and Human Services,-476
+Department of Health and Human Services,Department of Health and Human Services,-478
+Department of the Interior,National Park Service,-668
 Department of Justice,Department of Justice,-696
-Department of the Interior,National Park Service,-729
 Environmental Protection Agency,Environmental Protection Agency,-1084
 Department of Commerce,US Census Bureau,-2139
 Department of the Interior,U.S. Geological Survey,-5830
