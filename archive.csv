@@ -403,14 +403,14 @@ Department of Labor,Wage and Hour Division,3,06/01/2017
 Department of State,Department of State,129,05/13/2018
 Department of State,Department/Agency level/No publisher,21,05/13/2018
 Department of State,U.S. Department of State,108,04/23/2016
-Department of the Interior,Department of the Interior,50241,05/12/2018
+Department of the Interior,Department of the Interior,50286,05/12/2018
 Department of the Interior,Arizona State Office Bureau of Land Management – GIS Manager,2,03/29/2018
 Department of the Interior,Avenza Maps,2,02/23/2018
 Department of the Interior,BLM,8,03/29/2018
 Department of the Interior,BLM – Eric Hiebenthal,2,02/23/2018
 Department of the Interior,BLM – Roger Blouch,2,12/13/2017
-Department of the Interior,BLM – Russell Slatton,47,03/01/2018
-Department of the Interior,BLM Colorado – State Geospatial Lead,32,03/29/2018
+Department of the Interior,BLM – Russell Slatton,49,03/01/2018
+Department of the Interior,BLM Colorado – State Geospatial Lead,33,03/29/2018
 Department of the Interior,BLM Colorado Royal Gorge Field Office,1,02/23/2018
 Department of the Interior,BLM Colorado State Office,2,03/29/2018
 Department of the Interior,BLM Eastern States – Ryan Tietjen,3,12/12/2017
@@ -419,8 +419,8 @@ Department of the Interior,BLM National Operations Center OC530 – NOC Data Man
 Department of the Interior,BLM New Mexico Fire Program,1,12/12/2017
 Department of the Interior,BLM New Mexico Oil & Gas Program,4,12/13/2017
 Department of the Interior,BLM Utah State Office,20,02/23/2018
-Department of the Interior,BLM Colorado State Office,13,03/29/2018
-Department of the Interior,BLM Eastern State Office,61,12/13/2017
+Department of the Interior,BLM Colorado State Office,14,03/29/2018
+Department of the Interior,BLM Eastern State Office,62,12/13/2017
 Department of the Interior,BLM Idaho State Office,1,02/23/2018
 Department of the Interior,BLM Idaho State Office – CM,1,12/12/2017
 Department of the Interior,BLM New Mexico State Office,1,12/12/2017
@@ -428,7 +428,7 @@ Department of the Interior,BLM/USFS,1,12/13/2017
 Department of the Interior,Bureau Indian Affairs,3,05/12/2018
 Department of the Interior,Bureau of Indian Affairs,1,05/12/2018
 Department of the Interior,Bureau of Land Management,25,05/10/2018
-Department of the Interior,Bureau of Land Management – Eric Hiebenthal,80,03/29/2018
+Department of the Interior,Bureau of Land Management – Eric Hiebenthal,81,03/29/2018
 Department of the Interior,Bureau of Land Management – New Mexico State Office – GIS Manager,11,12/13/2017
 Department of the Interior,Bureau of Land Management – New Mexico State Office – State GIS Manager,2,12/13/2017
 Department of the Interior,Bureau of Land Management Arizona State Office – Brandon Colvin,2,12/13/2017
@@ -442,15 +442,15 @@ Department of the Interior,Bureau of Ocean Energy Management,2,05/12/2018
 Department of the Interior,Colorado River Valley Field Office BLM – Field Office GIS Specialist,1,02/23/2018
 Department of the Interior,COSO,2,03/29/2018
 Department of the Interior,Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,1,02/23/2018
-Department of the Interior,Department/Agency level/No publisher,16303,05/12/2018
+Department of the Interior,Department/Agency level/No publisher,16336,05/12/2018
 Department of the Interior,Federal Geographic Data Committee,13,12/06/2017
-Department of the Interior,Fish and Wildlife Service,32766,05/12/2018
+Department of the Interior,Fish and Wildlife Service,32770,05/12/2018
 Department of the Interior,Haskell Indian Nations University,1,04/10/2014
 Department of the Interior,Idaho BLM,1,02/23/2018
 Department of the Interior,National Park Service,477,05/12/2018
 Department of the Interior,Nevada Department of Wildlife,1,12/13/2017
 Department of the Interior,OR,2,-
-Department of the Interior,OR BLM,190,-
+Department of the Interior,OR BLM,192,-
 Department of the Interior,Oregon State Office Bureau of Land Management,1,03/29/2018
 Department of the Interior,Southwestern Indian Polytechnic Institute,1,04/10/2014
 Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,18,02/23/2018
@@ -550,9 +550,9 @@ Environmental Protection Agency,U.S. EPA Office of Water (OW) – Office of Wast
 Environmental Protection Agency,U.S. EPA Office of Water (OW) – Office of Wetlands Oceans and Watersheds (OWOW),21,03/03/2017
 Environmental Protection Agency,U.S. EPA Region 5 Water Division Water Quality Branch,1,08/11/2016
 Environmental Protection Agency,US Environmental Protection Agency,3,05/13/2018
-General Services Administration,General Services Administration,104,05/13/2018
+General Services Administration,General Services Administration,105,05/13/2018
 General Services Administration,Data.gov,1,12/07/2017
-General Services Administration,General Services Administration,88,05/13/2018
+General Services Administration,General Services Administration,89,05/13/2018
 General Services Administration,GSA IT,1,07/13/2017
 General Services Administration,Office of Government-wide Policy,2,03/29/2018
 General Services Administration,Office of Governmentwide Policy,2,03/29/2018
@@ -790,8 +790,8 @@ Cook County of Illinois,datacatalog.cookcountyil.gov,529,05/13/2018
 "Fairfax County, Virginia",Fairfax County GIS,177,05/14/2018
 "King County, Washington",King County Washington,261,05/13/2018
 "King County, Washington",data.kingcounty.gov,261,05/13/2018
-"Loudoun County, Virginia",Loudoun County Virginia,38,04/05/2018
-"Loudoun County, Virginia",Loudoun GIS,38,04/05/2018
+"Loudoun County, Virginia",Loudoun County Virginia,39,04/05/2018
+"Loudoun County, Virginia",Loudoun GIS,39,04/05/2018
 Montgomery County of Maryland,Montgomery County of Maryland,226,05/13/2018
 Montgomery County of Maryland,data.montgomerycountymd.gov,226,05/13/2018
 Wake County,Wake County,226,05/14/2018
@@ -875,8 +875,8 @@ State of Oregon,data.oregon.gov,569,05/13/2018
 State of Washington,State of Washington,464,05/13/2018
 State of Washington,data.wa.gov,463,05/13/2018
 State of Washington,Department/Agency level/No publisher,1,05/13/2018
-Vermont Center for Geographic Information,Vermont Center for Geographic Information,916,05/14/2018
-Vermont Center for Geographic Information,VT Center for Geographic Information,916,05/14/2018
+Vermont Center for Geographic Information,Vermont Center for Geographic Information,916,05/15/2018
+Vermont Center for Geographic Information,VT Center for Geographic Information,916,05/15/2018
 Virginia Department of Environmental Quality,Virginia Department of Environmental Quality,2,04/10/2015
 NSGIC Tribal | GIS Inventory,NSGIC Tribal | GIS Inventory,8,12/14/2017
 "Baruch Institute for Marine and Coastal Sciences, Univ of South Carolina",Baruch Institute for Marine and Coastal Sciences Univ of South Carolina,26,05/17/2013

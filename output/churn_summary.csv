@@ -1,6 +1,6 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,43602
-Department of the Interior,Fish and Wildlife Service,31796
+Department of the Interior,Department of the Interior,43680
+Department of the Interior,Fish and Wildlife Service,31800
 National Aeronautics and Space Administration,OB.DAAC,5446
 State of California,State of California,4701
 National Aeronautics and Space Administration,Space Technology Mission Directorate,3683
@@ -23,16 +23,16 @@ Department of Homeland Security,Department of Homeland Security,218
 NSGIC Regional | GIS Inventory,NSGIC Regional | GIS Inventory,216
 Vermont Center for Geographic Information,VT Center for Geographic Information,214
 Vermont Center for Geographic Information,Vermont Center for Geographic Information,214
+Department of the Interior,OR BLM,178
 National Aeronautics and Space Administration,LAADS,176
-Department of the Interior,OR BLM,176
 Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,130
 Department of Defense,Department of Defense,130
 Department of Commerce,National Institute of Standards and Technology,129
 National Aeronautics and Space Administration,LaRC,120
 Department of Homeland Security,Under Secretary / Management,112
-Department of the Interior,Bureau of Land Management – Eric Hiebenthal,108
+Department of the Interior,Bureau of Land Management – Eric Hiebenthal,109
 NSGIC Private | GIS Inventory,NSGIC Private | GIS Inventory,101
-General Services Administration,General Services Administration,97
+General Services Administration,General Services Administration,99
 City of Bloomington,City of Bloomington,80
 Louisville Metro Government,Louisville Metro Government,74
 Department of Agriculture,NRCS,71
@@ -45,11 +45,11 @@ NSGIC State | GIS Inventory,NSGIC State | GIS Inventory,63
 National Aeronautics and Space Administration,OBPG,63
 Department of Homeland Security,Coast Guard United States,62
 Louisville Metro Government,data.louisvilleky.gov,60
+Department of the Interior,BLM – Russell Slatton,58
 Federal Laboratory Consortium,Federal Laboratory Consortium,58
 Social Security Administration,Social Security Administration,58
-Department of the Interior,BLM – Russell Slatton,56
-Department of the Interior,BLM Eastern State Office,49
-Department of the Interior,BLM Colorado State Office,47
+Department of the Interior,BLM Eastern State Office,50
+Department of the Interior,BLM Colorado State Office,48
 City of Tempe,City of Tempe,46
 University of Idaho,University of Idaho,46
 Department of Transportation,Department of Transportation,45
@@ -63,8 +63,8 @@ Cook County of Illinois,datacatalog.cookcountyil.gov,42
 Institute of Museum and Library Services,Institute of Museum and Library Services,36
 National Aeronautics and Space Administration,NASA National Snow and Ice Data Center Distributed Active Archive Center,36
 NSGIC Education | GIS Inventory,NSGIC Education | GIS Inventory,35
+Department of the Interior,BLM Colorado – State Geospatial Lead,33
 National Aeronautics and Space Administration,NASA/MSFC/GHRC,33
-Department of the Interior,BLM Colorado – State Geospatial Lead,32
 Executive Office of the President,Executive Office of the President,32
 Department of Agriculture,Rural Development Department of Agriculture,32
 Department of Energy,University of Nevada,32
