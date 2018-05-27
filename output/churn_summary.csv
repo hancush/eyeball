@@ -1,6 +1,6 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,106388
-Department of the Interior,Fish and Wildlife Service,69195
+Department of the Interior,Department of the Interior,106512
+Department of the Interior,Fish and Wildlife Service,69199
 Department of the Interior,U.S. Geological Survey,13297
 National Aeronautics and Space Administration,OB.DAAC,5446
 State of California,State of California,4701
@@ -33,7 +33,7 @@ Vermont Center for Geographic Information,VT Center for Geographic Information,2
 Vermont Center for Geographic Information,Vermont Center for Geographic Information,206
 National Aeronautics and Space Administration,LAADS,176
 Department of the Interior,U.S. Fish and Wildlife Service,161
-Department of the Interior,BLM Colorado – State Geospatial Lead,137
+Department of the Interior,BLM Colorado – State Geospatial Lead,139
 Department of Commerce,National Institute of Standards and Technology,131
 Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,130
 Department of Defense,Department of Defense,130
@@ -43,8 +43,8 @@ General Services Administration,General Services Administration,108
 NSGIC Private | GIS Inventory,NSGIC Private | GIS Inventory,101
 City of Bloomington,City of Bloomington,96
 Department of the Interior,Bureau of Ocean Energy Management,83
+Department of the Interior,BLM Utah State Office,74
 Louisville Metro Government,Louisville Metro Government,74
-Department of the Interior,BLM Utah State Office,73
 Department of Agriculture,NRCS,71
 State of Oregon,State of Oregon,70
 State of Oregon,data.oregon.gov,70
@@ -109,16 +109,16 @@ US Equal Employment Opportunity Commission,US Equal Employment Opportunity Commi
 City of Santa Rosa,data.srcity.org,17
 OpenTopography,OpenTopography,16
 Department of Energy,Atmospheric Radiation Measurement Data Center,15
+Department of the Interior,BLM National Operations Center OC530 – NOC Data Management Lead,15
 State of Missouri,State of Missouri,15
 US Equal Employment Opportunity Commission,US Equal Employment Opportunity Commision,15
 State of Missouri,data.mo.gov,15
-Department of the Interior,BLM National Operations Center OC530 – NOC Data Management Lead,14
 Federal Communications Commission,Federal Communications Commission,14
-Department of the Treasury,Department of the Treasury,13
 Department of Energy,National Energy Technology Laboratory,13
 Department of Homeland Security,Federal Emergency Management Agency,12
 Environmental Protection Agency,U.S. Environmental Protection Agency,12
 State of Washington,Washington State Geospatial Portal,12
+Department of the Treasury,Department of the Treasury,11
 Railroad Retirement Board,Railroad Retirement Board,11
 Department of the Interior,BLM New Mexico Oil & Gas Program,10
 Department of the Interior,BLM New Mexico State Office,10
@@ -241,7 +241,6 @@ Department of Education,Office for Civil Rights,0
 Louisville Metro Government,Planning and Design,0
 Department of Labor,U.S. Department of Labor Office of Public Affairs,0
 Department of Energy,Wright State University,0
-Department of the Treasury,Bureau of the Fiscal Service,-1
 Department of Homeland Security,Citizenship and Immigration Services United States,-1
 City of Baton Rouge,City of Baton Rouge,-1
 Department of Agriculture,Economic Research Service Department of Agriculture,-1
@@ -258,6 +257,7 @@ Environmental Protection Agency,U.S. EPA Office of Environmental Information (OE
 City of Baton Rouge,data.brla.gov,-1
 State of Connecticut,data.ct.gov,-1
 National Aeronautics and Space Administration,ASF,-2
+Department of the Treasury,Bureau of the Fiscal Service,-2
 National Aeronautics and Space Administration,CDDIS,-2
 National Aeronautics and Space Administration,LPDAAC,-2
 National Science Foundation,National Science Foundation,-2
