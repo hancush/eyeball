@@ -1,6 +1,6 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,106512
-Department of the Interior,Fish and Wildlife Service,69199
+Department of the Interior,Department of the Interior,106648
+Department of the Interior,Fish and Wildlife Service,69200
 Department of the Interior,U.S. Geological Survey,13297
 National Aeronautics and Space Administration,OB.DAAC,5446
 State of California,State of California,4701
@@ -8,7 +8,7 @@ National Aeronautics and Space Administration,Space Technology Mission Directora
 National Aeronautics and Space Administration,GESDISC,3286
 National Aeronautics and Space Administration,PO.DAAC,2310
 NSGIC Local Govt | GIS Inventory,NSGIC Local Govt | GIS Inventory,1572
-Department of the Interior,OR BLM,1493
+Department of the Interior,OR BLM,1495
 National Aeronautics and Space Administration,GHRC,1403
 National Aeronautics and Space Administration,ORNL_DAAC,1324
 Department of the Interior,Bureau of Land Management,1281
@@ -19,12 +19,12 @@ National Aeronautics and Space Administration,SEDAC,486
 Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),413
 Department of Agriculture,USDA NAL,357
 Department of the Interior,National Park Service,334
-State of Hawaii,State of Hawaii,295
-State of Hawaii,data.hawaii.gov,295
 Department of the Interior,BLM Eastern State Office,294
+State of Hawaii,State of Hawaii,294
+State of Hawaii,data.hawaii.gov,294
 National Aeronautics and Space Administration,NSIDC,262
 Department of the Interior,BLM – Russell Slatton,255
-Department of the Interior,Bureau of Land Management – Eric Hiebenthal,231
+Department of the Interior,Bureau of Land Management – Eric Hiebenthal,234
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/OB.DAAC,228
 Department of Homeland Security,Department of Homeland Security,218
 NSGIC Regional | GIS Inventory,NSGIC Regional | GIS Inventory,216
@@ -33,13 +33,13 @@ Vermont Center for Geographic Information,VT Center for Geographic Information,2
 Vermont Center for Geographic Information,Vermont Center for Geographic Information,206
 National Aeronautics and Space Administration,LAADS,176
 Department of the Interior,U.S. Fish and Wildlife Service,161
-Department of the Interior,BLM Colorado – State Geospatial Lead,139
+Department of the Interior,BLM Colorado – State Geospatial Lead,140
 Department of Commerce,National Institute of Standards and Technology,131
 Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,130
 Department of Defense,Department of Defense,130
 National Aeronautics and Space Administration,LaRC,120
 Department of Homeland Security,Under Secretary / Management,112
-General Services Administration,General Services Administration,108
+General Services Administration,General Services Administration,111
 NSGIC Private | GIS Inventory,NSGIC Private | GIS Inventory,101
 City of Bloomington,City of Bloomington,96
 Department of the Interior,Bureau of Ocean Energy Management,83
@@ -131,6 +131,7 @@ National Aeronautics and Space Administration,MODAPS,8
 Department of Education,Office of Federal Student Aid,8
 Department of the Interior,Bureau Indian Affairs,7
 Nuclear Regulatory Commission,Nuclear Regulatory Commission,7
+General Services Administration,Technology Transformation Service,7
 Department of the Interior,Avenza Maps,6
 Department of the Interior,BLM Eastern States – Ryan Tietjen,6
 Department of the Interior,Bureau of Land Management Nevada State Office – GIS Manager,6
@@ -138,7 +139,6 @@ Department of Commerce,International Trade Administration,6
 Department of Energy,Lawrence Livermore National Laboratory,6
 National Endowment for the Humanities,National Endowment for the Humanities,6
 Department of the Treasury,TTB,6
-General Services Administration,Technology Transformation Service,6
 Department of Agriculture,US Forest Service Department of Agriculture,6
 Department of Energy,University of Washington,6
 Department of the Interior,Bureau of Land Management Arizona State Office – Brandon Colvin,5
@@ -149,6 +149,7 @@ Department of Commerce,US Census Bureau US Department of Commerce,5
 Department of Energy,University of Wyoming,5
 City of New Orleans,data.nola.gov,5
 Department of the Interior,Arizona State Office Bureau of Land Management – GIS Manager,4
+Department of the Interior,BLM Moab Field Office,4
 Department of the Interior,BLM – Roger Blouch,4
 Department of the Interior,Bureau of Land Management Arizona State Office – GIS Manager,4
 Department of the Interior,Bureau of Safety and Environmental Enforcement (BSEE),4
@@ -159,7 +160,6 @@ Department of Veterans Affairs,Office of General Counsel,4
 Department of Commerce,US Patent and Trademark Office Department of Commerce,4
 Department of Transportation,USDOT,4
 City of Baltimore,data.baltimorecity.gov,4
-Department of the Interior,BLM Moab Field Office,3
 Department of the Interior,BLM Colorado Royal Gorge Field Office,2
 Department of the Interior,BLM Idaho State Office,2
 Department of the Interior,BLM Idaho State Office – CM,2
@@ -311,8 +311,8 @@ National Aeronautics and Space Administration,,-167
 State of Iowa,State of Iowa,-182
 State of Iowa,data.iowa.gov,-182
 Department of Energy,Department of Energy,-217
-Department of Health and Human Services,Centers for Medicare & Medicaid Services,-230
-Department of Health and Human Services,Department of Health and Human Services,-467
+Department of Health and Human Services,Centers for Medicare & Medicaid Services,-232
+Department of Health and Human Services,Department of Health and Human Services,-469
 Department of Justice,Department of Justice,-696
 Environmental Protection Agency,Environmental Protection Agency,-1017
 Department of Commerce,US Census Bureau,-2139
