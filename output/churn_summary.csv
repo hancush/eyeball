@@ -1,6 +1,6 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,106648
-Department of the Interior,Fish and Wildlife Service,69200
+Department of the Interior,Department of the Interior,106717
+Department of the Interior,Fish and Wildlife Service,69202
 Department of the Interior,U.S. Geological Survey,13297
 National Aeronautics and Space Administration,OB.DAAC,5446
 State of California,State of California,4701
@@ -11,7 +11,7 @@ NSGIC Local Govt | GIS Inventory,NSGIC Local Govt | GIS Inventory,1572
 Department of the Interior,OR BLM,1495
 National Aeronautics and Space Administration,GHRC,1403
 National Aeronautics and Space Administration,ORNL_DAAC,1324
-Department of the Interior,Bureau of Land Management,1281
+Department of the Interior,Bureau of Land Management,1283
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/GESDISC,1170
 Department of Veterans Affairs,Department of Veterans Affairs,725
 Department of Agriculture,Department of Agriculture,679
@@ -107,9 +107,9 @@ State of Illinois,data.illinois.gov,18
 City of Santa Rosa,City of Santa Rosa,17
 US Equal Employment Opportunity Commission,US Equal Employment Opportunity Commission,17
 City of Santa Rosa,data.srcity.org,17
+Department of the Interior,BLM National Operations Center OC530 – NOC Data Management Lead,16
 OpenTopography,OpenTopography,16
 Department of Energy,Atmospheric Radiation Measurement Data Center,15
-Department of the Interior,BLM National Operations Center OC530 – NOC Data Management Lead,15
 State of Missouri,State of Missouri,15
 US Equal Employment Opportunity Commission,US Equal Employment Opportunity Commision,15
 State of Missouri,data.mo.gov,15
