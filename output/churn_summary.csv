@@ -1,5 +1,5 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,106771
+Department of the Interior,Department of the Interior,106775
 Department of the Interior,Fish and Wildlife Service,69206
 Department of the Interior,U.S. Geological Survey,13297
 National Aeronautics and Space Administration,OB.DAAC,5446
@@ -35,8 +35,8 @@ National Aeronautics and Space Administration,LAADS,176
 Department of the Interior,U.S. Fish and Wildlife Service,161
 Department of the Interior,BLM Colorado – State Geospatial Lead,141
 Department of Commerce,National Institute of Standards and Technology,131
-Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,130
 Department of Defense,Department of Defense,130
+Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,126
 National Aeronautics and Space Administration,LaRC,120
 Department of Homeland Security,Under Secretary / Management,112
 General Services Administration,General Services Administration,111
@@ -60,10 +60,10 @@ Department of the Interior,BLM Colorado State Office,56
 Department of the Interior,Bureau of Land Management Nevada State Office,46
 City of Tempe,City of Tempe,46
 University of Idaho,University of Idaho,46
-City of New York,City of New York,45
 Department of Transportation,Department of Transportation,45
-City of New York,data.cityofnewyork.us,45
+City of New York,City of New York,44
 National Aeronautics and Space Administration,Not provided,44
+City of New York,data.cityofnewyork.us,44
 Montgomery County of Maryland,Montgomery County of Maryland,43
 Department of the Interior,Utah BLM State Office,43
 Montgomery County of Maryland,data.montgomerycountymd.gov,43
@@ -96,8 +96,8 @@ State of New York,data.ny.gov,25
 State of Washington,State of Washington,24
 Department of Commerce,US Census Bureau Department of Commerce,24
 Department of Homeland Security,U.S. Customs and Border Protection,23
-US Agency for International Development,US Agency for International Development,22
-US Agency for International Development,USAID,22
+US Agency for International Development,US Agency for International Development,21
+US Agency for International Development,USAID,21
 Department of Energy,University of Wisconsin,21
 Department of Energy,Sandia National Laboratories,20
 City of New Orleans,City of New Orleans,19
@@ -292,19 +292,19 @@ National Aeronautics and Space Administration,Office of the Chief Technologist,-
 City of Charlotte,City of Charlotte,-28
 National Aeronautics and Space Administration,Center Independent Research & Development,-31
 National Aeronautics and Space Administration,Human Exploration and Operations Mission Directorate,-34
-State of Maryland,State of Maryland,-44
-State of Maryland,data.maryland.gov,-44
+State of Maryland,State of Maryland,-46
+State of Maryland,data.maryland.gov,-46
 Department of Labor,U.S. Department of Labor Bureau of Labor Statistics,-52
 National Aeronautics and Space Administration,Science Mission Directorate,-71
-City of Seattle,City of Seattle,-82
-City of Seattle,data.seattle.gov,-82
+City of Seattle,City of Seattle,-83
+City of Seattle,data.seattle.gov,-83
 National Aeronautics and Space Administration,Atmospheric Science Data Center,-90
 Department of Energy,National Renewable Energy Laboratory,-91
 Department of Health and Human Services,Centers for Disease Control and Prevention,-92
 Department of Labor,Department of Labor,-95
 Wake County,Wake County,-110
-City of Austin,City of Austin,-120
-City of Austin,data.austintexas.gov,-120
+City of Austin,City of Austin,-124
+City of Austin,data.austintexas.gov,-124
 Municipality of Anchorage,data.muni.org,-133
 Municipality of Anchorage,Municipality of Anchorage,-159
 National Aeronautics and Space Administration,,-167

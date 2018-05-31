@@ -44,7 +44,7 @@ Department of Agriculture,United States Department of Agriculture,2,02/04/2018
 Department of Agriculture,USDA Economic Research Service,1,03/29/2018
 Department of Agriculture,USDA NAL,443,03/29/2018
 Department of Agriculture,USDA-GIPSA,5,02/04/2018
-Department of Commerce,Department of Commerce,67261,05/29/2018
+Department of Commerce,Department of Commerce,67261,05/30/2018
 Department of Commerce,(),2,-
 Department of Commerce,(Point of Contact),12,02/16/2017
 Department of Commerce,(Point of Contact); Penn State University (Principal Investigator); Temple University College of Science and Technology (Principal Investigator),1,02/26/2016
@@ -131,7 +131,7 @@ Department of Commerce,University of Minnesota National Lacustrine Core Reposito
 Department of Commerce,University of Rhode Island (URI) Graduate School of Oceanography (GSO) Marine Geological Samples Laboratory (MGSL) (Point of Contact),1,02/26/2016
 Department of Commerce,University of Washington (Principal Investigator); National Snow and Ice Data Center (Point of Contact),1,02/26/2016
 Department of Commerce,US Census Burea Dept of Commerce,1,07/15/2016
-Department of Commerce,US Census Bureau,821,05/29/2018
+Department of Commerce,US Census Bureau,821,05/30/2018
 Department of Commerce,US Census Bureau,1,03/02/2018
 Department of Commerce,US Census Bureau Department of Commerce,206,03/02/2018
 Department of Commerce,US Census Bureau Dept of Commerce,6,03/02/2018
@@ -401,7 +401,7 @@ Department of Labor,Wage and Hour Division,3,06/01/2017
 Department of State,Department of State,129,05/13/2018
 Department of State,Department/Agency level/No publisher,21,05/13/2018
 Department of State,U.S. Department of State,108,04/23/2016
-Department of the Interior,Department of the Interior,140613,05/28/2018
+Department of the Interior,Department of the Interior,140615,05/30/2018
 Department of the Interior,Arizona State Office Bureau of Land Management – GIS Manager,6,05/21/2018
 Department of the Interior,Avenza Maps,7,02/23/2018
 Department of the Interior,BLM,30,05/21/2018
@@ -444,7 +444,7 @@ Department of the Interior,Climate Science Centers,406,05/21/2018
 Department of the Interior,Colorado River Valley Field Office BLM – Field Office GIS Specialist,1,02/23/2018
 Department of the Interior,COSO,6,05/21/2018
 Department of the Interior,Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,3,05/21/2018
-Department of the Interior,Department/Agency level/No publisher,17100,05/19/2018
+Department of the Interior,Department/Agency level/No publisher,17102,05/19/2018
 Department of the Interior,Federal Geographic Data Committee,13,12/06/2017
 Department of the Interior,Fish and Wildlife Service,97384,05/21/2018
 Department of the Interior,Haskell Indian Nations University,1,04/10/2014
@@ -460,7 +460,7 @@ Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land 
 Department of the Interior,U.S. Department of the Interior Bureau of Land Management (BLM) Idaho State Office,3,05/21/2018
 Department of the Interior,U.S. Fish and Wildlife Service,322,05/21/2018
 Department of the Interior,U.S. Geological Survey,19285,05/21/2018
-Department of the Interior,U.S. Geological Survey,64,05/28/2018
+Department of the Interior,U.S. Geological Survey,64,05/30/2018
 Department of the Interior,US Fish and Wildlife Service,3,05/21/2018
 Department of the Interior,Utah BLM State Office,51,05/21/2018
 Department of the Treasury,Department of the Treasury,266,02/27/2018
@@ -583,8 +583,8 @@ Small Business Administration,U.S. Small Business Administration,99,03/28/2018
 Social Security Administration,Social Security Administration,998,03/29/2018
 Social Security Administration,Department/Agency level/No publisher,4,10/29/2016
 Social Security Administration,Social Security Administration,994,03/29/2018
-US Agency for International Development,US Agency for International Development,198,03/02/2018
-US Agency for International Development,USAID,198,03/02/2018
+US Agency for International Development,US Agency for International Development,197,03/02/2018
+US Agency for International Development,USAID,197,03/02/2018
 Broadcasting Board of Governors,Broadcasting Board of Governors,6,01/12/2014
 Commodity Futures Trading Commission,Commodity Futures Trading Commission,3,01/12/2014
 Consumer Financial Protection Bureau,Consumer Financial Protection Bureau,2,09/26/2015
@@ -647,13 +647,13 @@ US International Trade Commission,Office of Tariff Affairs and Trade Agreements,
 US International Trade Commission,Office of the Secretary,1,11/06/2015
 US International Trade Commission,Office of Unfair Import Investigations,1,11/06/2015
 US Office of the Special Counsel,US Office of the Special Counsel,3,01/12/2014
-"City and County of Durham, North Carolina",City and County of Durham North Carolina,130,04/04/2018
+"City and County of Durham, North Carolina",City and County of Durham North Carolina,129,04/04/2018
 "City and County of Durham, North Carolina",Board of Elections,2,11/21/2017
 "City and County of Durham, North Carolina",Budget Department,2,10/19/2017
 "City and County of Durham, North Carolina",Budget Department Office of Performance and Innovation,5,09/13/2017
 "City and County of Durham, North Carolina",Bureau of Justice Statistics Office,3,07/17/2017
 "City and County of Durham, North Carolina",Bureau of Labor Statistics,1,07/17/2017
-"City and County of Durham, North Carolina",City and County of Durham NC,31,02/28/2018
+"City and County of Durham, North Carolina",City and County of Durham NC,30,02/28/2018
 "City and County of Durham, North Carolina",City Department of Transportation,1,09/23/2017
 "City and County of Durham, North Carolina",City of Durham,3,02/28/2018
 "City and County of Durham, North Carolina",Data Works NC,2,11/21/2017
@@ -677,8 +677,8 @@ US Office of the Special Counsel,US Office of the Special Counsel,3,01/12/2014
 "City and County of Durham, North Carolina",Tax Administration,5,03/28/2018
 "City and County of Durham, North Carolina",U.S. Census Bureau,5,07/17/2017
 "City and County of Durham, North Carolina",University of South Carolina Hazards Research Lab Department of Geography,1,07/17/2017
-City of Austin,City of Austin,975,05/18/2018
-City of Austin,data.austintexas.gov,974,05/18/2018
+City of Austin,City of Austin,971,05/18/2018
+City of Austin,data.austintexas.gov,970,05/18/2018
 City of Austin,Department/Agency level/No publisher,1,05/24/2016
 City of Baltimore,City of Baltimore,433,05/13/2018
 City of Baltimore,data.baltimorecity.gov,433,05/13/2018
@@ -706,8 +706,8 @@ City of Los Angeles,data.lacity.org,301,05/23/2018
 City of New Orleans,City of New Orleans,166,05/23/2018
 City of New Orleans,appsteam@socrata.com,1,05/23/2018
 City of New Orleans,data.nola.gov,165,05/23/2018
-City of New York,City of New York,1647,05/13/2018
-City of New York,data.cityofnewyork.us,1644,05/13/2018
+City of New York,City of New York,1646,05/13/2018
+City of New York,data.cityofnewyork.us,1643,05/13/2018
 City of New York,Department/Agency level/No publisher,3,06/09/2016
 City of Philadelphia,City of Philadelphia,91,04/09/2015
 City of Philadelphia,City Of Philadelphia,1,04/09/2015
@@ -719,8 +719,8 @@ City of San Francisco,City of San Francisco,479,05/19/2018
 City of San Francisco,data.sfgov.org,479,05/19/2018
 City of Santa Rosa,City of Santa Rosa,113,05/14/2018
 City of Santa Rosa,data.srcity.org,113,05/14/2018
-City of Seattle,City of Seattle,433,05/19/2018
-City of Seattle,data.seattle.gov,432,05/19/2018
+City of Seattle,City of Seattle,432,05/19/2018
+City of Seattle,data.seattle.gov,431,05/19/2018
 City of Seattle,Department/Agency level/No publisher,1,11/24/2016
 City of Sioux Falls,City of Sioux Falls,73,03/08/2018
 City of Sioux Falls,City of Sioux Falls GIS,73,03/08/2018
@@ -784,8 +784,8 @@ Municipality of Anchorage,data.muni.org,26,05/18/2018
 "Town of Chapel Hill, North Carolina",NCDOT Division of Bicycle and Pedestrian Transportation,2,11/20/2017
 "Town of Chapel Hill, North Carolina",Town of Chapel Hill,51,04/11/2018
 "Town of Chapel Hill, North Carolina",US Census,1,11/20/2017
-Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,265,05/14/2018
-Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,265,05/14/2018
+Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,263,05/14/2018
+Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,263,05/14/2018
 "Arlington County, VA",Arlington County VA,161,04/12/2018
 "Arlington County, VA",Arlington County,161,04/12/2018
 Cook County of Illinois,Cook County of Illinois,529,05/13/2018
@@ -832,8 +832,8 @@ State of Illinois,State of Illinois,619,09/21/2017
 State of Illinois,data.illinois.gov,619,09/21/2017
 State of Iowa,State of Iowa,543,05/23/2018
 State of Iowa,data.iowa.gov,543,05/23/2018
-State of Maryland,State of Maryland,349,05/18/2018
-State of Maryland,data.maryland.gov,349,05/18/2018
+State of Maryland,State of Maryland,347,05/18/2018
+State of Maryland,data.maryland.gov,347,05/18/2018
 State of Minnesota,State of Minnesota,229,10/27/2017
 State of Missouri,State of Missouri,194,05/18/2018
 State of Missouri,data.mo.gov,194,05/18/2018
