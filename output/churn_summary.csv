@@ -1,6 +1,6 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,106775
-Department of the Interior,Fish and Wildlife Service,69206
+Department of the Interior,Department of the Interior,106982
+Department of the Interior,Fish and Wildlife Service,69211
 Department of the Interior,U.S. Geological Survey,13297
 National Aeronautics and Space Administration,OB.DAAC,5446
 State of California,State of California,4701
@@ -8,7 +8,7 @@ National Aeronautics and Space Administration,Space Technology Mission Directora
 National Aeronautics and Space Administration,GESDISC,3286
 National Aeronautics and Space Administration,PO.DAAC,2310
 NSGIC Local Govt | GIS Inventory,NSGIC Local Govt | GIS Inventory,1572
-Department of the Interior,OR BLM,1495
+Department of the Interior,OR BLM,1552
 National Aeronautics and Space Administration,GHRC,1403
 National Aeronautics and Space Administration,ORNL_DAAC,1324
 Department of the Interior,Bureau of Land Management,1283
@@ -19,12 +19,12 @@ National Aeronautics and Space Administration,SEDAC,486
 Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),413
 Department of Agriculture,USDA NAL,357
 Department of the Interior,National Park Service,334
-Department of the Interior,BLM Eastern State Office,294
+Department of the Interior,BLM Eastern State Office,302
 State of Hawaii,State of Hawaii,294
 State of Hawaii,data.hawaii.gov,294
 National Aeronautics and Space Administration,NSIDC,262
-Department of the Interior,BLM – Russell Slatton,255
-Department of the Interior,Bureau of Land Management – Eric Hiebenthal,234
+Department of the Interior,BLM – Russell Slatton,258
+Department of the Interior,Bureau of Land Management – Eric Hiebenthal,235
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/OB.DAAC,228
 Department of Homeland Security,Department of Homeland Security,218
 NSGIC Regional | GIS Inventory,NSGIC Regional | GIS Inventory,216
@@ -33,13 +33,13 @@ Vermont Center for Geographic Information,VT Center for Geographic Information,2
 Vermont Center for Geographic Information,Vermont Center for Geographic Information,206
 National Aeronautics and Space Administration,LAADS,176
 Department of the Interior,U.S. Fish and Wildlife Service,161
-Department of the Interior,BLM Colorado – State Geospatial Lead,141
+Department of the Interior,BLM Colorado – State Geospatial Lead,142
 Department of Commerce,National Institute of Standards and Technology,131
 Department of Defense,Department of Defense,130
 Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,126
 National Aeronautics and Space Administration,LaRC,120
+General Services Administration,General Services Administration,113
 Department of Homeland Security,Under Secretary / Management,112
-General Services Administration,General Services Administration,111
 NSGIC Private | GIS Inventory,NSGIC Private | GIS Inventory,101
 City of Bloomington,City of Bloomington,96
 Department of the Interior,Bureau of Ocean Energy Management,83
