@@ -44,7 +44,7 @@ Department of Agriculture,United States Department of Agriculture,2,02/04/2018
 Department of Agriculture,USDA Economic Research Service,1,03/29/2018
 Department of Agriculture,USDA NAL,443,03/29/2018
 Department of Agriculture,USDA-GIPSA,5,02/04/2018
-Department of Commerce,Department of Commerce,67261,05/31/2018
+Department of Commerce,Department of Commerce,67261,06/01/2018
 Department of Commerce,(),2,-
 Department of Commerce,(Point of Contact),12,02/16/2017
 Department of Commerce,(Point of Contact); Penn State University (Principal Investigator); Temple University College of Science and Technology (Principal Investigator),1,02/26/2016
@@ -131,7 +131,7 @@ Department of Commerce,University of Minnesota National Lacustrine Core Reposito
 Department of Commerce,University of Rhode Island (URI) Graduate School of Oceanography (GSO) Marine Geological Samples Laboratory (MGSL) (Point of Contact),1,02/26/2016
 Department of Commerce,University of Washington (Principal Investigator); National Snow and Ice Data Center (Point of Contact),1,02/26/2016
 Department of Commerce,US Census Burea Dept of Commerce,1,07/15/2016
-Department of Commerce,US Census Bureau,821,05/31/2018
+Department of Commerce,US Census Bureau,821,06/01/2018
 Department of Commerce,US Census Bureau,1,03/02/2018
 Department of Commerce,US Census Bureau Department of Commerce,206,03/02/2018
 Department of Commerce,US Census Bureau Dept of Commerce,6,03/02/2018
@@ -170,10 +170,10 @@ Department of Education,Office of Special Education Programs,25,03/26/2018
 Department of Education,Office of the Chief Information Officer,5,09/29/2017
 Department of Education,Office of Vocational and Adult Education,2,06/03/2017
 Department of Education,U.S. Department of Education,14,03/26/2018
-Department of Energy,Department of Energy,2545,05/24/2018
+Department of Energy,Department of Energy,2481,05/24/2018
 Department of Energy,ABB,2,12/03/2017
 Department of Energy,Aditya Choukulkar,3,03/26/2018
-Department of Energy,AltaRock Energy Inc,13,02/23/2018
+Department of Energy,AltaRock Energy Inc,12,02/23/2018
 Department of Energy,Argonne National Laboratory,10,02/23/2018
 Department of Energy,Arizona State Geological Survey,1,08/29/2017
 Department of Energy,Arthur Mansure,1,02/23/2018
@@ -252,12 +252,12 @@ Department of Energy,Los Alamos National Laboratory,3,08/29/2017
 Department of Energy,M3 Wave,3,12/03/2017
 Department of Energy,Mark Stoelinga,9,03/26/2018
 Department of Energy,Matt Macduff,5,03/26/2018
-Department of Energy,National Energy Technology Laboratory,22,05/24/2018
-Department of Energy,National Energy Technology Laboratory (NETL),5,05/24/2018
+Department of Energy,National Energy Technology Laboratory,21,05/24/2018
+Department of Energy,National Energy Technology Laboratory (NETL),5,05/23/2018
 Department of Energy,National Nuclear Security Administration,11,06/23/2017
 Department of Energy,National Nuclear Security Administration/LANL,1,06/23/2017
 Department of Energy,National Nuclear Security Administration/SNL,1,06/23/2017
-Department of Energy,National Renewable Energy Laboratory,443,05/24/2018
+Department of Energy,National Renewable Energy Laboratory,382,05/24/2018
 Department of Energy,Nevada Bureau of Mines and Geology,5,02/23/2018
 Department of Energy,Nevada Geothermal Power Company,1,08/29/2017
 Department of Energy,New Mexico Bureau of Geology and Mineral Resources,6,08/29/2017
@@ -277,7 +277,7 @@ Department of Energy,Office of Energy Efficiency & Renewable Energy (EERE),62,02
 Department of Energy,Office of Energy Efficiency and Renewable Energy,1,05/24/2018
 Department of Energy,Office of Information Resources,1,05/24/2018
 Department of Energy,Office of Small and Disadvantaged Business Utilization (OSDBU),6,04/10/2018
-Department of Energy,Oregon State University,7,05/24/2018
+Department of Energy,Oregon State University,6,05/24/2018
 Department of Energy,Ormat Nevada Inc,19,03/26/2018
 Department of Energy,Oski Energy LLC,12,05/24/2018
 Department of Energy,Pacific Northwest National Laboratory,17,03/09/2018
@@ -358,25 +358,11 @@ Department of Homeland Security,Under Secretary / Management,469,02/17/2018
 Department of Housing and Urban Development,Department of Housing and Urban Development,173,04/25/2017
 Department of Housing and Urban Development,US Bureau of the Census,1,03/08/2017
 Department of Housing and Urban Development,US Department of Housing and Urban Development,172,04/25/2017
-Department of Justice,Department of Justice,1058,03/01/2017
-Department of Justice,ATR – Antitrust Division U.S. Department of Justice,5,03/01/2017
-Department of Justice,BJS – Bureau of Justice Statistics,713,03/01/2017
-Department of Justice,CIV – Civil Division,3,03/01/2017
-Department of Justice,CRT – Civil Rights Division,49,03/01/2017
-Department of Justice,DEA – Drug Enforcement Administration,151,03/01/2017
-Department of Justice,ENRD – Environment and Natural Resources Division,1,03/01/2017
-Department of Justice,EOIR – Executive Office for Immigration Review,5,03/01/2017
-Department of Justice,EOUSA – Executive Office for United States Attorneys,1,03/01/2017
-Department of Justice,FBI – Federal Bureau of Investigation,47,03/01/2017
-Department of Justice,FPI – Federal Prisons Industries,1,03/01/2017
-Department of Justice,NIJ – National Institute of Justice,50,03/01/2017
-Department of Justice,OJJDP – Office of Juvenile Justice and Delinquency Prevention,12,03/01/2017
-Department of Justice,OJP – Office of Justice Programs,2,03/01/2017
-Department of Justice,PPS – Performance Management,1,03/01/2017
-Department of Justice,PPS – Policy Planning and Strategy,4,03/01/2017
+Department of Justice,Department of Justice,60,03/01/2017
+Department of Justice,BJS – Bureau of Justice Statistics,54,06/02/2016
+Department of Justice,DEA – Drug Enforcement Administration,2,03/01/2017
+Department of Justice,NIJ – National Institute of Justice,2,03/01/2017
 Department of Justice,United States Department of Justice. Office of Justice Programs. National Institute of Justice,2,04/11/2014
-Department of Justice,USMS – United States Marshals Service,1,03/01/2017
-Department of Justice,USTP – U.S. Trustee Program,10,03/01/2017
 Department of Labor,Department of Labor,303,03/08/2018
 Department of Labor,Employee Benefits Security Administration,5,06/01/2017
 Department of Labor,U.S. Department of Labor Benefits.gov Program,21,09/21/2017
@@ -401,7 +387,7 @@ Department of Labor,Wage and Hour Division,3,06/01/2017
 Department of State,Department of State,129,05/13/2018
 Department of State,Department/Agency level/No publisher,21,05/13/2018
 Department of State,U.S. Department of State,108,04/23/2016
-Department of the Interior,Department of the Interior,140756,05/31/2018
+Department of the Interior,Department of the Interior,140811,06/01/2018
 Department of the Interior,Arizona State Office Bureau of Land Management – GIS Manager,6,05/21/2018
 Department of the Interior,Avenza Maps,7,02/23/2018
 Department of the Interior,BLM,30,05/21/2018
@@ -418,8 +404,8 @@ Department of the Interior,BLM New Mexico Fire Program,3,05/21/2018
 Department of the Interior,BLM New Mexico Oil & Gas Program,12,05/21/2018
 Department of the Interior,BLM Oregon State Office,3,05/21/2018
 Department of the Interior,BLM Utah State Office,84,05/21/2018
-Department of the Interior,BLM Colorado State Office,18,05/21/2018
-Department of the Interior,BLM Eastern State Office,314,05/21/2018
+Department of the Interior,BLM Colorado State Office,21,05/21/2018
+Department of the Interior,BLM Eastern State Office,315,05/21/2018
 Department of the Interior,BLM Idaho State Office,3,05/21/2018
 Department of the Interior,BLM Idaho State Office – CM,3,05/21/2018
 Department of the Interior,BLM New Mexico State Office,11,05/21/2018
@@ -444,15 +430,15 @@ Department of the Interior,Climate Science Centers,406,05/21/2018
 Department of the Interior,Colorado River Valley Field Office BLM – Field Office GIS Specialist,1,02/23/2018
 Department of the Interior,COSO,6,05/21/2018
 Department of the Interior,Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,3,05/21/2018
-Department of the Interior,Department/Agency level/No publisher,17168,05/19/2018
+Department of the Interior,Department/Agency level/No publisher,17209,05/19/2018
 Department of the Interior,Federal Geographic Data Committee,13,12/06/2017
-Department of the Interior,Fish and Wildlife Service,97389,05/21/2018
+Department of the Interior,Fish and Wildlife Service,97393,05/21/2018
 Department of the Interior,Haskell Indian Nations University,1,04/10/2014
 Department of the Interior,Idaho BLM,3,05/21/2018
 Department of the Interior,National Park Service,1431,05/21/2018
 Department of the Interior,Nevada Department of Wildlife,3,05/21/2018
 Department of the Interior,OR,6,-
-Department of the Interior,OR BLM,1583,-
+Department of the Interior,OR BLM,1589,-
 Department of the Interior,Oregon State Office Bureau of Land Management,3,05/21/2018
 Department of the Interior,Southwestern Indian Polytechnic Institute,1,04/10/2014
 Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,67,05/21/2018
@@ -460,7 +446,7 @@ Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land 
 Department of the Interior,U.S. Department of the Interior Bureau of Land Management (BLM) Idaho State Office,3,05/21/2018
 Department of the Interior,U.S. Fish and Wildlife Service,322,05/21/2018
 Department of the Interior,U.S. Geological Survey,19285,05/21/2018
-Department of the Interior,U.S. Geological Survey,64,05/31/2018
+Department of the Interior,U.S. Geological Survey,64,06/01/2018
 Department of the Interior,US Fish and Wildlife Service,3,05/21/2018
 Department of the Interior,Utah BLM State Office,51,05/21/2018
 Department of the Treasury,Department of the Treasury,266,02/27/2018

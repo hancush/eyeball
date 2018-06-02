@@ -1,6 +1,6 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,106982
-Department of the Interior,Fish and Wildlife Service,69211
+Department of the Interior,Department of the Interior,107078
+Department of the Interior,Fish and Wildlife Service,69215
 Department of the Interior,U.S. Geological Survey,13297
 National Aeronautics and Space Administration,OB.DAAC,5446
 State of California,State of California,4701
@@ -8,7 +8,7 @@ National Aeronautics and Space Administration,Space Technology Mission Directora
 National Aeronautics and Space Administration,GESDISC,3286
 National Aeronautics and Space Administration,PO.DAAC,2310
 NSGIC Local Govt | GIS Inventory,NSGIC Local Govt | GIS Inventory,1572
-Department of the Interior,OR BLM,1552
+Department of the Interior,OR BLM,1558
 National Aeronautics and Space Administration,GHRC,1403
 National Aeronautics and Space Administration,ORNL_DAAC,1324
 Department of the Interior,Bureau of Land Management,1283
@@ -19,7 +19,7 @@ National Aeronautics and Space Administration,SEDAC,486
 Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),413
 Department of Agriculture,USDA NAL,357
 Department of the Interior,National Park Service,334
-Department of the Interior,BLM Eastern State Office,302
+Department of the Interior,BLM Eastern State Office,303
 State of Hawaii,State of Hawaii,294
 State of Hawaii,data.hawaii.gov,294
 National Aeronautics and Space Administration,NSIDC,262
@@ -54,9 +54,9 @@ NSGIC State | GIS Inventory,NSGIC State | GIS Inventory,63
 National Aeronautics and Space Administration,OBPG,63
 Department of Homeland Security,Coast Guard United States,62
 Louisville Metro Government,data.louisvilleky.gov,60
+Department of the Interior,BLM Colorado State Office,59
 Federal Laboratory Consortium,Federal Laboratory Consortium,58
 Social Security Administration,Social Security Administration,58
-Department of the Interior,BLM Colorado State Office,56
 Department of the Interior,Bureau of Land Management Nevada State Office,46
 City of Tempe,City of Tempe,46
 University of Idaho,University of Idaho,46
@@ -114,8 +114,8 @@ State of Missouri,State of Missouri,15
 US Equal Employment Opportunity Commission,US Equal Employment Opportunity Commision,15
 State of Missouri,data.mo.gov,15
 Federal Communications Commission,Federal Communications Commission,14
-Department of Energy,National Energy Technology Laboratory,13
 Department of Homeland Security,Federal Emergency Management Agency,12
+Department of Energy,National Energy Technology Laboratory,12
 Environmental Protection Agency,U.S. Environmental Protection Agency,12
 State of Washington,Washington State Geospatial Portal,12
 Department of the Treasury,Department of the Treasury,11
@@ -179,14 +179,12 @@ Department of the Interior,Nevada Department of Wildlife,2
 General Services Administration,Office of Government-wide Policy,2
 Department of Energy,Office of Small and Disadvantaged Business Utilization (OSDBU),2
 Department of the Interior,Oregon State Office Bureau of Land Management,2
-Department of Energy,Oregon State University,2
 Department of Energy,Ormat Nevada Inc,2
 Department of Energy,Southern Research Institute,2
 Department of the Interior,U.S. Department of the Interior Bureau of Land Management (BLM) Idaho State Office,2
 Department of Energy,University of California Davis,2
 Department of Energy,Washington Geological Survey,2
 Department of Energy,ABB,1
-Department of Energy,AltaRock Energy Inc,1
 Department of Energy,Brookhaven National Laboratory,1
 Department of the Interior,Bureau of Indian Affairs,1
 Department of the Interior,Bureau of Reclamation,1
@@ -214,6 +212,7 @@ Department of Energy,Nevada Bureau of Mines and Geology,1
 Department of Energy,Northwest National Marine renewable Energy Center (UW),1
 Department of Energy,Oak Ridge National Laboratory,1
 General Services Administration,Office of Governmentwide Policy,1
+Department of Energy,Oregon State University,1
 Department of Energy,Pacific Northwest National Laboratory,1
 Louisville Metro Government,Parking Authority (PARC),1
 Louisville Metro Government,Performance Improvement and Innovation Information Technology,1
@@ -230,6 +229,7 @@ City of Somerville,data.somervillema.gov,1
 Department of Health and Human Services,Administration for Children and Families Department of Health & Human Services,0
 Department of Agriculture,Agricultural Research Service,0
 Department of Agriculture,Agricultural Research Service Department of Agriculture,0
+Department of Energy,AltaRock Energy Inc,0
 Louisville Metro Government,Animal Services,0
 Louisville Metro Government,Construction Review,0
 Louisville Metro Government,Construction Review Develop Louisville,0
@@ -294,27 +294,30 @@ National Aeronautics and Space Administration,Center Independent Research & Deve
 National Aeronautics and Space Administration,Human Exploration and Operations Mission Directorate,-34
 State of Maryland,State of Maryland,-46
 State of Maryland,data.maryland.gov,-46
+Department of Justice,NIJ – National Institute of Justice,-48
 Department of Labor,U.S. Department of Labor Bureau of Labor Statistics,-52
 National Aeronautics and Space Administration,Science Mission Directorate,-71
 City of Seattle,City of Seattle,-83
 City of Seattle,data.seattle.gov,-83
 National Aeronautics and Space Administration,Atmospheric Science Data Center,-90
-Department of Energy,National Renewable Energy Laboratory,-91
 Department of Health and Human Services,Centers for Disease Control and Prevention,-92
 Department of Labor,Department of Labor,-95
 Wake County,Wake County,-110
 City of Austin,City of Austin,-124
 City of Austin,data.austintexas.gov,-124
 Municipality of Anchorage,data.muni.org,-133
+Department of Justice,DEA – Drug Enforcement Administration,-149
+Department of Energy,National Renewable Energy Laboratory,-152
 Municipality of Anchorage,Municipality of Anchorage,-159
 National Aeronautics and Space Administration,,-167
 State of Iowa,State of Iowa,-182
 State of Iowa,data.iowa.gov,-182
-Department of Energy,Department of Energy,-217
 Department of Health and Human Services,Centers for Medicare & Medicaid Services,-232
+Department of Energy,Department of Energy,-281
 Department of Health and Human Services,Department of Health and Human Services,-469
-Department of Justice,Department of Justice,-696
+Department of Justice,BJS – Bureau of Justice Statistics,-659
 Environmental Protection Agency,Environmental Protection Agency,-1017
+Department of Justice,Department of Justice,-1694
 Department of Commerce,US Census Bureau,-2139
 Department of Commerce,National Oceanic and Atmospheric Administration,-6156
 National Aeronautics and Space Administration,National Aeronautics and Space Administration,-10281
