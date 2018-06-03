@@ -1,6 +1,6 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,107078
-Department of the Interior,Fish and Wildlife Service,69215
+Department of the Interior,Department of the Interior,107544
+Department of the Interior,Fish and Wildlife Service,69223
 Department of the Interior,U.S. Geological Survey,13297
 National Aeronautics and Space Administration,OB.DAAC,5446
 State of California,State of California,4701
@@ -24,7 +24,7 @@ State of Hawaii,State of Hawaii,294
 State of Hawaii,data.hawaii.gov,294
 National Aeronautics and Space Administration,NSIDC,262
 Department of the Interior,BLM – Russell Slatton,258
-Department of the Interior,Bureau of Land Management – Eric Hiebenthal,235
+Department of the Interior,Bureau of Land Management – Eric Hiebenthal,236
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/OB.DAAC,228
 Department of Homeland Security,Department of Homeland Security,218
 NSGIC Regional | GIS Inventory,NSGIC Regional | GIS Inventory,216
@@ -33,7 +33,7 @@ Vermont Center for Geographic Information,VT Center for Geographic Information,2
 Vermont Center for Geographic Information,Vermont Center for Geographic Information,206
 National Aeronautics and Space Administration,LAADS,176
 Department of the Interior,U.S. Fish and Wildlife Service,161
-Department of the Interior,BLM Colorado – State Geospatial Lead,142
+Department of the Interior,BLM Colorado – State Geospatial Lead,143
 Department of Commerce,National Institute of Standards and Technology,131
 Department of Defense,Department of Defense,130
 Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,126
@@ -50,11 +50,11 @@ State of Oregon,State of Oregon,70
 State of Oregon,data.oregon.gov,70
 Department of Agriculture,U.S. Forest Service,65
 Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,64
+Department of the Interior,BLM Colorado State Office,63
 NSGIC State | GIS Inventory,NSGIC State | GIS Inventory,63
 National Aeronautics and Space Administration,OBPG,63
 Department of Homeland Security,Coast Guard United States,62
 Louisville Metro Government,data.louisvilleky.gov,60
-Department of the Interior,BLM Colorado State Office,59
 Federal Laboratory Consortium,Federal Laboratory Consortium,58
 Social Security Administration,Social Security Administration,58
 Department of the Interior,Bureau of Land Management Nevada State Office,46
@@ -119,7 +119,6 @@ Department of Energy,National Energy Technology Laboratory,12
 Environmental Protection Agency,U.S. Environmental Protection Agency,12
 State of Washington,Washington State Geospatial Portal,12
 Department of the Treasury,Department of the Treasury,11
-Railroad Retirement Board,Railroad Retirement Board,11
 Department of the Interior,BLM New Mexico Oil & Gas Program,10
 Department of the Interior,BLM New Mexico State Office,10
 City of Providence,data.providenceri.gov,10
@@ -160,6 +159,7 @@ Department of Veterans Affairs,Office of General Counsel,4
 Department of Commerce,US Patent and Trademark Office Department of Commerce,4
 Department of Transportation,USDOT,4
 City of Baltimore,data.baltimorecity.gov,4
+Railroad Retirement Board,Railroad Retirement Board,3
 Department of the Interior,BLM Colorado Royal Gorge Field Office,2
 Department of the Interior,BLM Idaho State Office,2
 Department of the Interior,BLM Idaho State Office – CM,2
