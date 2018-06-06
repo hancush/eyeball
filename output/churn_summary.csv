@@ -1,13 +1,13 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,108892
-Department of the Interior,Fish and Wildlife Service,69230
+Department of the Interior,Department of the Interior,109253
+Department of the Interior,Fish and Wildlife Service,69232
 Department of the Interior,U.S. Geological Survey,13297
 National Aeronautics and Space Administration,OB.DAAC,5446
 State of California,State of California,4701
 National Aeronautics and Space Administration,Space Technology Mission Directorate,3683
 National Aeronautics and Space Administration,GESDISC,3286
 National Aeronautics and Space Administration,PO.DAAC,2310
-Department of the Interior,OR BLM,1731
+Department of the Interior,OR BLM,1791
 NSGIC Local Govt | GIS Inventory,NSGIC Local Govt | GIS Inventory,1572
 National Aeronautics and Space Administration,GHRC,1403
 National Aeronautics and Space Administration,ORNL_DAAC,1324
@@ -19,12 +19,12 @@ National Aeronautics and Space Administration,SEDAC,486
 Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),413
 Department of Agriculture,USDA NAL,357
 Department of the Interior,National Park Service,334
-Department of the Interior,BLM Eastern State Office,326
+Department of the Interior,BLM Eastern State Office,328
 State of Hawaii,State of Hawaii,294
 State of Hawaii,data.hawaii.gov,294
-Department of the Interior,BLM – Russell Slatton,278
+Department of the Interior,BLM – Russell Slatton,282
 National Aeronautics and Space Administration,NSIDC,262
-Department of the Interior,Bureau of Land Management – Eric Hiebenthal,249
+Department of the Interior,Bureau of Land Management – Eric Hiebenthal,253
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/OB.DAAC,228
 Department of Homeland Security,Department of Homeland Security,218
 NSGIC Regional | GIS Inventory,NSGIC Regional | GIS Inventory,216
@@ -33,7 +33,7 @@ Vermont Center for Geographic Information,VT Center for Geographic Information,2
 Vermont Center for Geographic Information,Vermont Center for Geographic Information,206
 National Aeronautics and Space Administration,LAADS,176
 Department of the Interior,U.S. Fish and Wildlife Service,161
-Department of the Interior,BLM Colorado – State Geospatial Lead,145
+Department of the Interior,BLM Colorado – State Geospatial Lead,146
 Department of Commerce,National Institute of Standards and Technology,131
 Department of Defense,Department of Defense,130
 Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,126
@@ -45,10 +45,10 @@ City of Bloomington,City of Bloomington,96
 Department of the Interior,Bureau of Ocean Energy Management,83
 Department of the Interior,BLM Utah State Office,75
 Louisville Metro Government,Louisville Metro Government,74
+Department of the Interior,BLM Colorado State Office,71
 Department of Agriculture,NRCS,71
 State of Oregon,State of Oregon,70
 State of Oregon,data.oregon.gov,70
-Department of the Interior,BLM Colorado State Office,69
 Department of Agriculture,U.S. Forest Service,65
 Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,64
 NSGIC State | GIS Inventory,NSGIC State | GIS Inventory,63
@@ -233,7 +233,6 @@ Department of Energy,AltaRock Energy Inc,0
 Louisville Metro Government,Animal Services,0
 Louisville Metro Government,Construction Review,0
 Louisville Metro Government,Construction Review Develop Louisville,0
-Department of the Interior,Federal Geographic Data Committee,0
 Louisville Metro Government,Health & Wellness,0
 Department of Homeland Security,Immigration and Customs Enforcement United States,0
 Louisville Metro Government,Metro Parks,0
@@ -276,6 +275,7 @@ City of Los Angeles,data.lacity.org,-4
 State of Minnesota,State of Minnesota,-5
 Department of Energy,University of Washington (NNMREC),-5
 City of Sioux Falls,City of Sioux Falls GIS,-6
+Department of the Interior,Federal Geographic Data Committee,-6
 City of Sioux Falls,City of Sioux Falls,-7
 State of New York,State of New York,-7
 Department of Commerce,International Trade Administration Department of Commerce,-8
@@ -322,4 +322,4 @@ Department of Commerce,US Census Bureau,-2139
 Department of Commerce,National Oceanic and Atmospheric Administration,-6156
 National Aeronautics and Space Administration,National Aeronautics and Space Administration,-10281
 Department of the Interior,US Fish and Wildlife Service,-30575
-Department of Commerce,Department of Commerce,-42521
+Department of Commerce,Department of Commerce,-42522
