@@ -387,7 +387,7 @@ Department of Labor,Wage and Hour Division,3,06/01/2017
 Department of State,Department of State,129,05/13/2018
 Department of State,Department/Agency level/No publisher,21,05/13/2018
 Department of State,U.S. Department of State,108,04/23/2016
-Department of the Interior,Department of the Interior,142076,06/07/2018
+Department of the Interior,Department of the Interior,143496,06/08/2018
 Department of the Interior,Arizona State Office Bureau of Land Management – GIS Manager,6,05/21/2018
 Department of the Interior,Avenza Maps,7,02/23/2018
 Department of the Interior,BLM,30,05/21/2018
@@ -410,32 +410,32 @@ Department of the Interior,BLM Idaho State Office,3,05/21/2018
 Department of the Interior,BLM Idaho State Office – CM,3,05/21/2018
 Department of the Interior,BLM New Mexico State Office,11,05/21/2018
 Department of the Interior,BLM/USFS,3,05/21/2018
-Department of the Interior,Bureau Indian Affairs,9,05/21/2018
-Department of the Interior,Bureau of Indian Affairs,3,05/21/2018
-Department of the Interior,Bureau of Land Management,1362,05/21/2018
+Department of the Interior,Bureau Indian Affairs,9,06/08/2018
+Department of the Interior,Bureau of Indian Affairs,3,06/08/2018
+Department of the Interior,Bureau of Land Management,2712,06/08/2018
 Department of the Interior,Bureau of Land Management – Eric Hiebenthal,254,05/21/2018
-Department of the Interior,Bureau of Land Management – New Mexico State Office – GIS Manager,33,05/21/2018
-Department of the Interior,Bureau of Land Management – New Mexico State Office – State GIS Manager,6,05/21/2018
-Department of the Interior,Bureau of Land Management Arizona State Office – Brandon Colvin,6,05/21/2018
-Department of the Interior,Bureau of Land Management Arizona State Office – GIS Manager,4,05/21/2018
-Department of the Interior,Bureau of Land Management Colorado State Office – State Geospatial Lead,36,05/21/2018
+Department of the Interior,Bureau of Land Management – New Mexico State Office – GIS Manager,33,06/08/2018
+Department of the Interior,Bureau of Land Management – New Mexico State Office – State GIS Manager,6,06/08/2018
+Department of the Interior,Bureau of Land Management Arizona State Office – Brandon Colvin,6,06/08/2018
+Department of the Interior,Bureau of Land Management Arizona State Office – GIS Manager,4,06/08/2018
+Department of the Interior,Bureau of Land Management Colorado State Office – State Geospatial Lead,36,06/08/2018
 Department of the Interior,Bureau of Land Management Idaho State Office Engineering and Geosciences – CMavencamp,45,05/21/2018
-Department of the Interior,Bureau of Land Management Nevada State Office,54,05/21/2018
-Department of the Interior,Bureau of Land Management Nevada State Office – GIS Manager,6,05/21/2018
+Department of the Interior,Bureau of Land Management Nevada State Office,54,06/08/2018
+Department of the Interior,Bureau of Land Management Nevada State Office – GIS Manager,6,06/08/2018
 Department of the Interior,Bureau of Land Management Oregon State Office – Eric Hiebenthal,39,05/21/2018
 Department of the Interior,Bureau of Ocean Energy Management,134,05/21/2018
-Department of the Interior,Bureau of Reclamation,2,05/21/2018
+Department of the Interior,Bureau of Reclamation,2,06/08/2018
 Department of the Interior,Bureau of Safety and Environmental Enforcement (BSEE),8,05/21/2018
 Department of the Interior,Climate Science Centers,406,05/21/2018
 Department of the Interior,Colorado River Valley Field Office BLM – Field Office GIS Specialist,1,02/23/2018
 Department of the Interior,COSO,6,05/21/2018
 Department of the Interior,Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,3,05/21/2018
-Department of the Interior,Department/Agency level/No publisher,18144,05/19/2018
+Department of the Interior,Department/Agency level/No publisher,18189,06/08/2018
 Department of the Interior,Federal Geographic Data Committee,7,12/06/2017
-Department of the Interior,Fish and Wildlife Service,97410,05/21/2018
+Department of the Interior,Fish and Wildlife Service,97428,06/08/2018
 Department of the Interior,Haskell Indian Nations University,1,04/10/2014
 Department of the Interior,Idaho BLM,3,05/21/2018
-Department of the Interior,National Park Service,1431,05/21/2018
+Department of the Interior,National Park Service,1432,06/08/2018
 Department of the Interior,Nevada Department of Wildlife,3,05/21/2018
 Department of the Interior,OR,6,-
 Department of the Interior,OR BLM,1823,-
@@ -446,7 +446,7 @@ Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land 
 Department of the Interior,U.S. Department of the Interior Bureau of Land Management (BLM) Idaho State Office,3,05/21/2018
 Department of the Interior,U.S. Fish and Wildlife Service,322,05/21/2018
 Department of the Interior,U.S. Geological Survey,19285,05/21/2018
-Department of the Interior,U.S. Geological Survey,65,06/07/2018
+Department of the Interior,U.S. Geological Survey,71,06/08/2018
 Department of the Interior,US Fish and Wildlife Service,3,05/21/2018
 Department of the Interior,Utah BLM State Office,51,05/21/2018
 Department of the Treasury,Department of the Treasury,266,02/27/2018
@@ -499,9 +499,9 @@ Department of Transportation,USDOT,54,06/07/2018
 Department of Veterans Affairs,Department of Veterans Affairs,1145,06/07/2018
 Department of Veterans Affairs,Department of Veterans Affairs,1144,06/07/2018
 Department of Veterans Affairs,Department/Agency level/No publisher,1,05/20/2018
-Environmental Protection Agency,Environmental Protection Agency,3169,06/07/2018
+Environmental Protection Agency,Environmental Protection Agency,3170,06/07/2018
 Environmental Protection Agency,Air Protection Division,1,03/08/2018
-Environmental Protection Agency,Department/Agency level/No publisher,2031,05/20/2018
+Environmental Protection Agency,Department/Agency level/No publisher,2032,06/07/2018
 Environmental Protection Agency,Environmental Protection Agency,7,06/06/2018
 Environmental Protection Agency,Land and Chemicals Division,1,08/10/2016
 Environmental Protection Agency,U.S. Environmental Protection Agency,82,06/07/2018
@@ -687,8 +687,8 @@ City of Honolulu,data.honolulu.gov,137,06/06/2018
 "City of Jackson, Mississippi",City of Jackson Mississippi,51,04/07/2017
 "City of Jackson, Mississippi",data.jacksonms.gov,50,04/07/2017
 "City of Jackson, Mississippi",Department/Agency level/No publisher,1,02/10/2017
-City of Los Angeles,City of Los Angeles,302,06/07/2018
-City of Los Angeles,data.lacity.org,302,06/07/2018
+City of Los Angeles,City of Los Angeles,304,06/07/2018
+City of Los Angeles,data.lacity.org,304,06/07/2018
 City of New Orleans,City of New Orleans,176,06/07/2018
 City of New Orleans,appsteam@socrata.com,1,06/07/2018
 City of New Orleans,data.nola.gov,175,06/07/2018

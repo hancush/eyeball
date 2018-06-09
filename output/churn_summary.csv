@@ -1,24 +1,24 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,109278
-Department of the Interior,Fish and Wildlife Service,69232
-Department of the Interior,U.S. Geological Survey,13298
+Department of the Interior,Department of the Interior,110743
+Department of the Interior,Fish and Wildlife Service,69250
+Department of the Interior,U.S. Geological Survey,13304
 National Aeronautics and Space Administration,OB.DAAC,5446
 State of California,State of California,4701
 National Aeronautics and Space Administration,Space Technology Mission Directorate,3683
 National Aeronautics and Space Administration,GESDISC,3286
+Department of the Interior,Bureau of Land Management,2633
 National Aeronautics and Space Administration,PO.DAAC,2310
 Department of the Interior,OR BLM,1792
 NSGIC Local Govt | GIS Inventory,NSGIC Local Govt | GIS Inventory,1572
 National Aeronautics and Space Administration,GHRC,1403
 National Aeronautics and Space Administration,ORNL_DAAC,1324
-Department of the Interior,Bureau of Land Management,1283
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/GESDISC,1170
 Department of Veterans Affairs,Department of Veterans Affairs,764
 Department of Agriculture,Department of Agriculture,639
 National Aeronautics and Space Administration,SEDAC,486
 Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),430
 Department of Agriculture,USDA NAL,371
-Department of the Interior,National Park Service,334
+Department of the Interior,National Park Service,335
 Department of the Interior,BLM Eastern State Office,328
 State of Hawaii,State of Hawaii,299
 State of Hawaii,data.hawaii.gov,299
@@ -248,6 +248,7 @@ Louisville Metro Government,Planning and Design,0
 Department of Labor,U.S. Department of Labor Office of Public Affairs,0
 Department of Energy,Wright State University,0
 Department of Homeland Security,Citizenship and Immigration Services United States,-1
+City of Los Angeles,City of Los Angeles,-1
 Department of Agriculture,Economic Research Service Department of Agriculture,-1
 Louisville Metro Government,Emergency Management,-1
 Department of Energy,Energy & Geoscience Institute at the University of Utah,-1
@@ -258,18 +259,17 @@ National Aeronautics and Space Administration,Office of the Chief Information Of
 Small Business Administration,Small Business Administration,-1
 Department of Energy,Tusaar Corp.,-1
 Environmental Protection Agency,U.S. EPA Office of Environmental Information (OEI),-1
+City of Los Angeles,data.lacity.org,-1
 National Aeronautics and Space Administration,ASF,-2
 Department of the Treasury,Bureau of the Fiscal Service,-2
 National Aeronautics and Space Administration,CDDIS,-2
 National Aeronautics and Space Administration,LPDAAC,-2
 National Science Foundation,National Science Foundation,-2
 National Aeronautics and Space Administration,Aeronautics Research Mission Directorate,-3
-City of Los Angeles,City of Los Angeles,-3
 Louisville Metro Government,Codes & Regulations,-3
 Department of Health and Human Services,Department of Health & Human Services,-3
 State of New York,State of New York,-3
 Small Business Administration,U.S. Small Business Administration,-3
-City of Los Angeles,data.lacity.org,-3
 Department of Agriculture,Farm Service Agency,-4
 Merit Systems Protection Board,Merit Systems Protection Board,-4
 Department of Labor,U.S. Department of Labor Mine Safety and Health Administration,-4
@@ -319,7 +319,7 @@ Department of Health and Human Services,Centers for Medicare & Medicaid Services
 Department of Energy,Department of Energy,-270
 Department of Health and Human Services,Department of Health and Human Services,-462
 Department of Justice,BJS – Bureau of Justice Statistics,-659
-Environmental Protection Agency,Environmental Protection Agency,-1000
+Environmental Protection Agency,Environmental Protection Agency,-998
 Department of Justice,Department of Justice,-1694
 Department of Commerce,US Census Bureau,-2139
 Department of Commerce,National Oceanic and Atmospheric Administration,-6156
