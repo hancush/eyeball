@@ -1,6 +1,6 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,110960
-Department of the Interior,Fish and Wildlife Service,69254
+Department of the Interior,Department of the Interior,111207
+Department of the Interior,Fish and Wildlife Service,69258
 Department of the Interior,U.S. Geological Survey,13306
 National Aeronautics and Space Administration,OB.DAAC,5446
 State of California,State of California,4701
@@ -8,25 +8,25 @@ National Aeronautics and Space Administration,Space Technology Mission Directora
 National Aeronautics and Space Administration,GESDISC,3286
 Department of the Interior,Bureau of Land Management,2731
 National Aeronautics and Space Administration,PO.DAAC,2310
-Department of the Interior,OR BLM,1799
+Department of the Interior,OR BLM,1818
 NSGIC Local Govt | GIS Inventory,NSGIC Local Govt | GIS Inventory,1572
 National Aeronautics and Space Administration,GHRC,1403
-National Aeronautics and Space Administration,ORNL_DAAC,1324
+National Aeronautics and Space Administration,ORNL_DAAC,1335
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/GESDISC,1170
 Department of Veterans Affairs,Department of Veterans Affairs,864
-Department of Agriculture,Department of Agriculture,673
+Department of Agriculture,Department of Agriculture,672
 Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),492
-National Aeronautics and Space Administration,SEDAC,486
+National Aeronautics and Space Administration,SEDAC,489
 Department of Agriculture,USDA NAL,393
 Department of the Interior,National Park Service,335
-Department of the Interior,BLM Eastern State Office,328
-State of Hawaii,State of Hawaii,310
-State of Hawaii,data.hawaii.gov,310
-Department of the Interior,BLM – Russell Slatton,282
+Department of the Interior,BLM Eastern State Office,329
+State of Hawaii,State of Hawaii,309
+State of Hawaii,data.hawaii.gov,309
+Department of the Interior,BLM – Russell Slatton,286
 Vermont Center for Geographic Information,VT Center for Geographic Information,277
 Vermont Center for Geographic Information,Vermont Center for Geographic Information,277
 National Aeronautics and Space Administration,NSIDC,262
-Department of the Interior,Bureau of Land Management – Eric Hiebenthal,255
+Department of the Interior,Bureau of Land Management – Eric Hiebenthal,258
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/OB.DAAC,228
 Department of Homeland Security,Department of Homeland Security,218
 NSGIC Regional | GIS Inventory,NSGIC Regional | GIS Inventory,216
@@ -89,10 +89,10 @@ Department of Agriculture,Rural Development Department of Agriculture,32
 Department of Energy,University of Nevada,32
 National Aeronautics and Space Administration,ASDC,30
 Department of the Interior,BLM,29
-Department of Agriculture,U.S. Forest Service,29
 State of New York,data.ny.gov,29
 City of Chicago,City of Chicago,28
 Department of Agriculture,Farm Service Agency Department of Agriculture,28
+Department of Agriculture,U.S. Forest Service,28
 City of Chicago,data.cityofchicago.org,28
 Department of the Interior,Bureau of Land Management Oregon State Office – Eric Hiebenthal,26
 Department of the Interior,Bureau of Land Management – New Mexico State Office – GIS Manager,26
@@ -107,12 +107,12 @@ City of Santa Rosa,data.srcity.org,21
 City of Seattle,City of Seattle GIS Program,18
 State of Illinois,State of Illinois,18
 State of Illinois,data.illinois.gov,18
-Department of Energy,National Energy Technology Laboratory,17
 Department of Education,Office of Federal Student Aid,17
 State of Missouri,State of Missouri,17
 US Equal Employment Opportunity Commission,US Equal Employment Opportunity Commission,17
 State of Missouri,data.mo.gov,17
 Department of the Interior,BLM National Operations Center OC530 – NOC Data Management Lead,16
+Department of Energy,National Energy Technology Laboratory,16
 OpenTopography,OpenTopography,16
 Department of Energy,Atmospheric Radiation Measurement Data Center,15
 US Equal Employment Opportunity Commission,US Equal Employment Opportunity Commision,15
@@ -315,14 +315,14 @@ Municipality of Anchorage,Municipality of Anchorage,-159
 National Aeronautics and Space Administration,,-167
 State of Iowa,State of Iowa,-167
 State of Iowa,data.iowa.gov,-167
-Department of Health and Human Services,Centers for Medicare & Medicaid Services,-184
-Department of Energy,Department of Energy,-249
-Department of Health and Human Services,Department of Health and Human Services,-405
+Department of Health and Human Services,Centers for Medicare & Medicaid Services,-189
+Department of Energy,Department of Energy,-250
+Department of Health and Human Services,Department of Health and Human Services,-410
 Department of Justice,BJS – Bureau of Justice Statistics,-659
 Environmental Protection Agency,Environmental Protection Agency,-936
 Department of Justice,Department of Justice,-1694
 Department of Commerce,US Census Bureau,-2139
 Department of Commerce,National Oceanic and Atmospheric Administration,-6156
-National Aeronautics and Space Administration,National Aeronautics and Space Administration,-10259
+National Aeronautics and Space Administration,National Aeronautics and Space Administration,-10112
 Department of the Interior,US Fish and Wildlife Service,-30575
-Department of Commerce,Department of Commerce,-42516
+Department of Commerce,Department of Commerce,-42515
