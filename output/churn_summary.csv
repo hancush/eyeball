@@ -1,28 +1,28 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,111207
+Department of the Interior,Department of the Interior,111260
 Department of the Interior,Fish and Wildlife Service,69258
 Department of the Interior,U.S. Geological Survey,13306
 National Aeronautics and Space Administration,OB.DAAC,5446
 State of California,State of California,4701
 National Aeronautics and Space Administration,Space Technology Mission Directorate,3683
-National Aeronautics and Space Administration,GESDISC,3286
+National Aeronautics and Space Administration,GESDISC,3299
 Department of the Interior,Bureau of Land Management,2731
 National Aeronautics and Space Administration,PO.DAAC,2310
-Department of the Interior,OR BLM,1818
+Department of the Interior,OR BLM,1823
 NSGIC Local Govt | GIS Inventory,NSGIC Local Govt | GIS Inventory,1572
-National Aeronautics and Space Administration,GHRC,1403
+National Aeronautics and Space Administration,GHRC,1408
 National Aeronautics and Space Administration,ORNL_DAAC,1335
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/GESDISC,1170
 Department of Veterans Affairs,Department of Veterans Affairs,864
 Department of Agriculture,Department of Agriculture,672
+National Aeronautics and Space Administration,SEDAC,500
 Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),492
-National Aeronautics and Space Administration,SEDAC,489
 Department of Agriculture,USDA NAL,393
 Department of the Interior,National Park Service,335
 Department of the Interior,BLM Eastern State Office,329
 State of Hawaii,State of Hawaii,309
 State of Hawaii,data.hawaii.gov,309
-Department of the Interior,BLM – Russell Slatton,286
+Department of the Interior,BLM – Russell Slatton,287
 Vermont Center for Geographic Information,VT Center for Geographic Information,277
 Vermont Center for Geographic Information,Vermont Center for Geographic Information,277
 National Aeronautics and Space Administration,NSIDC,262
@@ -322,7 +322,7 @@ Department of Justice,BJS – Bureau of Justice Statistics,-659
 Environmental Protection Agency,Environmental Protection Agency,-936
 Department of Justice,Department of Justice,-1694
 Department of Commerce,US Census Bureau,-2139
-Department of Commerce,National Oceanic and Atmospheric Administration,-6156
-National Aeronautics and Space Administration,National Aeronautics and Space Administration,-10112
+Department of Commerce,National Oceanic and Atmospheric Administration,-6157
+National Aeronautics and Space Administration,National Aeronautics and Space Administration,-10065
 Department of the Interior,US Fish and Wildlife Service,-30575
 Department of Commerce,Department of Commerce,-42515
