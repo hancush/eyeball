@@ -44,7 +44,7 @@ Department of Agriculture,United States Department of Agriculture,2,02/04/2018
 Department of Agriculture,USDA Economic Research Service,1,03/29/2018
 Department of Agriculture,USDA NAL,479,06/09/2018
 Department of Agriculture,USDA-GIPSA,5,02/04/2018
-Department of Commerce,Department of Commerce,67267,06/12/2018
+Department of Commerce,Department of Commerce,67266,06/12/2018
 Department of Commerce,(),2,-
 Department of Commerce,(Point of Contact),12,02/16/2017
 Department of Commerce,(Point of Contact); Penn State University (Principal Investigator); Temple University College of Science and Technology (Principal Investigator),1,02/26/2016
@@ -86,7 +86,7 @@ Department of Commerce,International Trade Administration Department of Commerce
 Department of Commerce,National Institute of Standards and Technology,282,06/09/2018
 Department of Commerce,National Marine Mammal Laboratory (Point of Contact),1,02/26/2016
 Department of Commerce,National Oceanic and Atmospheric Administration,4,02/26/2016
-Department of Commerce,National Oceanic and Atmospheric Administration,64719,02/08/2018
+Department of Commerce,National Oceanic and Atmospheric Administration,64720,02/08/2018
 Department of Commerce,National Snow and Ice Data Center (Point of Contact),3,02/16/2017
 Department of Commerce,National Snow and Ice Data Center (Point of Contact); National Weather Service (Principal Investigator),1,02/26/2016
 Department of Commerce,National Snow and Ice Data Center (Point of Contact); US Department of Transportation Maritime Administration (Principal Investigator),1,02/26/2016
@@ -387,13 +387,13 @@ Department of Labor,Wage and Hour Division,3,06/01/2017
 Department of State,Department of State,129,05/13/2018
 Department of State,Department/Agency level/No publisher,21,05/13/2018
 Department of State,U.S. Department of State,108,04/23/2016
-Department of the Interior,Department of the Interior,143829,06/12/2018
+Department of the Interior,Department of the Interior,143851,06/13/2018
 Department of the Interior,Arizona State Office Bureau of Land Management – GIS Manager,6,05/21/2018
 Department of the Interior,Avenza Maps,7,02/23/2018
 Department of the Interior,BLM,30,05/21/2018
 Department of the Interior,BLM – Eric Hiebenthal,2,02/23/2018
 Department of the Interior,BLM – Roger Blouch,6,05/21/2018
-Department of the Interior,BLM – Russell Slatton,292,05/21/2018
+Department of the Interior,BLM – Russell Slatton,294,05/21/2018
 Department of the Interior,BLM Colorado – State Geospatial Lead,147,05/21/2018
 Department of the Interior,BLM Colorado Royal Gorge Field Office,3,05/21/2018
 Department of the Interior,BLM Colorado State Office,6,05/21/2018
@@ -430,7 +430,7 @@ Department of the Interior,Climate Science Centers,406,05/21/2018
 Department of the Interior,Colorado River Valley Field Office BLM – Field Office GIS Specialist,1,02/23/2018
 Department of the Interior,COSO,6,05/21/2018
 Department of the Interior,Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,3,05/21/2018
-Department of the Interior,Department/Agency level/No publisher,18373,06/08/2018
+Department of the Interior,Department/Agency level/No publisher,18392,06/08/2018
 Department of the Interior,Federal Geographic Data Committee,7,12/06/2017
 Department of the Interior,Fish and Wildlife Service,97436,06/08/2018
 Department of the Interior,Haskell Indian Nations University,1,04/10/2014
@@ -438,7 +438,7 @@ Department of the Interior,Idaho BLM,3,05/21/2018
 Department of the Interior,National Park Service,1432,06/08/2018
 Department of the Interior,Nevada Department of Wildlife,3,05/21/2018
 Department of the Interior,OR,6,-
-Department of the Interior,OR BLM,1854,-
+Department of the Interior,OR BLM,1855,-
 Department of the Interior,Oregon State Office Bureau of Land Management,3,05/21/2018
 Department of the Interior,Southwestern Indian Polytechnic Institute,1,04/10/2014
 Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,67,05/21/2018
@@ -446,7 +446,7 @@ Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land 
 Department of the Interior,U.S. Department of the Interior Bureau of Land Management (BLM) Idaho State Office,3,05/21/2018
 Department of the Interior,U.S. Fish and Wildlife Service,322,05/21/2018
 Department of the Interior,U.S. Geological Survey,19285,05/21/2018
-Department of the Interior,U.S. Geological Survey,73,06/12/2018
+Department of the Interior,U.S. Geological Survey,73,06/13/2018
 Department of the Interior,US Fish and Wildlife Service,3,05/21/2018
 Department of the Interior,Utah BLM State Office,51,05/21/2018
 Department of the Treasury,Department of the Treasury,266,02/27/2018
@@ -548,17 +548,18 @@ General Services Administration,Office of Government-wide Policy,2,03/29/2018
 General Services Administration,Office of Governmentwide Policy,2,03/29/2018
 General Services Administration,Office of the Chief Technology Officer,1,12/03/2016
 General Services Administration,Technology Transformation Service,11,12/01/2016
-National Aeronautics and Space Administration,National Aeronautics and Space Administration,169,06/12/2018
+National Aeronautics and Space Administration,National Aeronautics and Space Administration,241,06/13/2018
 National Aeronautics and Space Administration,ASF,3,06/11/2018
 National Aeronautics and Space Administration,California Institute of Technology,1,05/17/2013
 National Aeronautics and Space Administration,Dashlink,2,06/09/2018
 National Aeronautics and Space Administration,Department/Agency level/No publisher,2,//
-National Aeronautics and Space Administration,GESDISC,42,06/12/2018
+National Aeronautics and Space Administration,GESDISC,50,06/12/2018
 National Aeronautics and Space Administration,GHRC,30,06/12/2018
-National Aeronautics and Space Administration,National Aeronautics and Space Administration,53,06/12/2018
-National Aeronautics and Space Administration,NSIDC,2,06/12/2018
-National Aeronautics and Space Administration,ORNL_DAAC,12,06/11/2018
-National Aeronautics and Space Administration,SEDAC,22,06/12/2018
+National Aeronautics and Space Administration,LPDAAC,4,06/12/2018
+National Aeronautics and Space Administration,National Aeronautics and Space Administration,90,06/13/2018
+National Aeronautics and Space Administration,NSIDC,5,06/13/2018
+National Aeronautics and Space Administration,ORNL_DAAC,24,06/13/2018
+National Aeronautics and Space Administration,SEDAC,30,06/12/2018
 National Archives and Records Administration,National Archives and Records Administration,49,02/24/2018
 National Archives and Records Administration,National Archives and Records Administration,40,02/24/2018
 National Archives and Records Administration,Office of Innovation,1,10/23/2015
@@ -700,8 +701,8 @@ City of Los Angeles,data.lacity.org,310,06/09/2018
 City of New Orleans,City of New Orleans,199,06/09/2018
 City of New Orleans,appsteam@socrata.com,1,06/09/2018
 City of New Orleans,data.nola.gov,198,06/09/2018
-City of New York,City of New York,1649,06/06/2018
-City of New York,data.cityofnewyork.us,1646,06/06/2018
+City of New York,City of New York,1638,06/06/2018
+City of New York,data.cityofnewyork.us,1635,06/06/2018
 City of New York,Department/Agency level/No publisher,3,06/09/2016
 City of Philadelphia,City of Philadelphia,91,04/09/2015
 City of Philadelphia,City Of Philadelphia,1,04/09/2015
@@ -713,15 +714,15 @@ City of San Francisco,City of San Francisco,483,06/07/2018
 City of San Francisco,data.sfgov.org,483,06/07/2018
 City of Santa Rosa,City of Santa Rosa,117,06/06/2018
 City of Santa Rosa,data.srcity.org,117,06/06/2018
-City of Seattle,City of Seattle,436,06/07/2018
-City of Seattle,data.seattle.gov,435,06/07/2018
+City of Seattle,City of Seattle,435,06/07/2018
+City of Seattle,data.seattle.gov,434,06/07/2018
 City of Seattle,Department/Agency level/No publisher,1,11/24/2016
 City of Sioux Falls,City of Sioux Falls,73,03/08/2018
 City of Sioux Falls,City of Sioux Falls GIS,73,03/08/2018
 City of Somerville,City of Somerville,47,06/06/2018
 City of Somerville,data.somervillema.gov,47,06/06/2018
-City of Tempe,City of Tempe,68,06/07/2018
-City of Tempe,City of Tempe,68,06/07/2018
+City of Tempe,City of Tempe,67,06/07/2018
+City of Tempe,City of Tempe,67,06/07/2018
 Louisville Metro Government,Louisville Metro Government,265,06/06/2018
 Louisville Metro Government,Air Pollution Control District,12,01/10/2018
 Louisville Metro Government,Animal Services,5,06/06/2018
@@ -790,12 +791,13 @@ Cook County of Illinois,datacatalog.cookcountyil.gov,529,06/06/2018
 "King County, Washington",data.kingcounty.gov,261,06/06/2018
 "Loudoun County, Virginia",Loudoun County Virginia,46,04/05/2018
 "Loudoun County, Virginia",Loudoun GIS,46,04/05/2018
-Montgomery County of Maryland,Montgomery County of Maryland,232,06/06/2018
-Montgomery County of Maryland,data.montgomerycountymd.gov,232,06/06/2018
-Wake County,Wake County,274,06/06/2018
-Wake County,Wake County,274,06/06/2018
+Montgomery County of Maryland,Montgomery County of Maryland,231,06/06/2018
+Montgomery County of Maryland,data.montgomerycountymd.gov,231,06/06/2018
+Wake County,Wake County,272,06/06/2018
+Wake County,Wake County,272,06/06/2018
 NSGIC Education | GIS Inventory,NSGIC Education | GIS Inventory,762,12/13/2017
-NSGIC Local Govt | GIS Inventory,NSGIC Local Govt | GIS Inventory,9479,12/14/2017
+NSGIC Local Govt | GIS Inventory,NSGIC Local Govt | GIS Inventory,9478,12/14/2017
+NSGIC Local Govt | GIS Inventory,Department/Agency level/No publisher,9479,12/14/2017
 Great Lakes Commission,Great Lakes Commission,60,05/17/2013
 Legal Services Corporation,Legal Services Corporation,1,03/27/2018
 Legal Services Corporation,Office of Data Governance and Analysis,1,03/27/2018
@@ -809,7 +811,8 @@ NSGIC Private | GIS Inventory,NSGIC Private | GIS Inventory,235,12/14/2017
 NSGIC Regional | GIS Inventory,NSGIC Regional | GIS Inventory,823,12/14/2017
 Arizona Geological Survey,Arizona Geological Survey,950,04/10/2015
 California Environmental Health Tracking Program,California Environmental Health Tracking Program,16,04/10/2015
-California Natural Resource Agency,California Natural Resource Agency,583,04/10/2015
+California Natural Resource Agency,California Natural Resource Agency,582,04/10/2015
+California Natural Resource Agency,Department/Agency level/No publisher,583,04/10/2015
 Florida Department of Environmental Protection,Florida Department of Environmental Protection,3,08/25/2016
 Florida Department of Environmental Protection,Engineering Hydrology & Geology Program,3,08/25/2016
 Louisiana Geographic Information Center,Louisiana Geographic Information Center,274,08/02/2016
