@@ -1,5 +1,5 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,111301
+Department of the Interior,Department of the Interior,111330
 Department of the Interior,Fish and Wildlife Service,69258
 Department of the Interior,U.S. Geological Survey,13306
 National Aeronautics and Space Administration,OB.DAAC,5446
@@ -8,10 +8,10 @@ National Aeronautics and Space Administration,Space Technology Mission Directora
 National Aeronautics and Space Administration,GESDISC,3307
 Department of the Interior,Bureau of Land Management,2731
 National Aeronautics and Space Administration,PO.DAAC,2310
-Department of the Interior,OR BLM,1824
-NSGIC Local Govt | GIS Inventory,NSGIC Local Govt | GIS Inventory,1571
+Department of the Interior,OR BLM,1827
+NSGIC Local Govt | GIS Inventory,NSGIC Local Govt | GIS Inventory,1572
 National Aeronautics and Space Administration,GHRC,1408
-National Aeronautics and Space Administration,ORNL_DAAC,1347
+National Aeronautics and Space Administration,ORNL_DAAC,1369
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/GESDISC,1170
 Department of Veterans Affairs,Department of Veterans Affairs,864
 Department of Agriculture,Department of Agriculture,672
@@ -19,15 +19,15 @@ National Aeronautics and Space Administration,SEDAC,508
 Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),492
 Department of Agriculture,USDA NAL,393
 Department of the Interior,National Park Service,335
-Department of the Interior,BLM Eastern State Office,329
+Department of the Interior,BLM Eastern State Office,330
 State of Hawaii,State of Hawaii,309
 State of Hawaii,data.hawaii.gov,309
 Department of the Interior,BLM – Russell Slatton,289
-Vermont Center for Geographic Information,VT Center for Geographic Information,277
-Vermont Center for Geographic Information,Vermont Center for Geographic Information,277
 National Aeronautics and Space Administration,NSIDC,265
 Department of the Interior,Bureau of Land Management – Eric Hiebenthal,258
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/OB.DAAC,228
+Vermont Center for Geographic Information,VT Center for Geographic Information,225
+Vermont Center for Geographic Information,Vermont Center for Geographic Information,225
 Department of Homeland Security,Department of Homeland Security,218
 NSGIC Regional | GIS Inventory,NSGIC Regional | GIS Inventory,216
 Department of the Interior,Climate Science Centers,208
@@ -240,6 +240,7 @@ Department of Agriculture,Agricultural Research Service,0
 Department of Agriculture,Agricultural Research Service Department of Agriculture,0
 Department of Energy,AltaRock Energy Inc,0
 Louisville Metro Government,Animal Services,0
+California Natural Resource Agency,California Natural Resource Agency,0
 Louisville Metro Government,Construction Review,0
 Louisville Metro Government,Construction Review Develop Louisville,0
 Louisville Metro Government,Health & Wellness,0
@@ -249,7 +250,6 @@ Department of Education,Office for Civil Rights,0
 Louisville Metro Government,Planning and Design,0
 Department of Labor,U.S. Department of Labor Office of Public Affairs,0
 Department of Energy,Wright State University,0
-California Natural Resource Agency,California Natural Resource Agency,-1
 Department of Homeland Security,Citizenship and Immigration Services United States,-1
 Department of Agriculture,Economic Research Service Department of Agriculture,-1
 Louisville Metro Government,Emergency Management,-1
@@ -309,21 +309,21 @@ National Aeronautics and Space Administration,Atmospheric Science Data Center,-9
 Department of Labor,Department of Labor,-95
 City of Austin,City of Austin,-114
 City of Austin,data.austintexas.gov,-114
-Municipality of Anchorage,data.muni.org,-133
+Municipality of Anchorage,data.muni.org,-134
 Department of Justice,DEA – Drug Enforcement Administration,-149
 Department of Energy,National Renewable Energy Laboratory,-149
-Municipality of Anchorage,Municipality of Anchorage,-159
+Municipality of Anchorage,Municipality of Anchorage,-160
 National Aeronautics and Space Administration,,-167
 State of Iowa,State of Iowa,-167
 State of Iowa,data.iowa.gov,-167
-Department of Health and Human Services,Centers for Medicare & Medicaid Services,-189
+Department of Health and Human Services,Centers for Medicare & Medicaid Services,-192
 Department of Energy,Department of Energy,-250
-Department of Health and Human Services,Department of Health and Human Services,-410
+Department of Health and Human Services,Department of Health and Human Services,-413
 Department of Justice,BJS – Bureau of Justice Statistics,-659
 Environmental Protection Agency,Environmental Protection Agency,-936
 Department of Justice,Department of Justice,-1694
 Department of Commerce,US Census Bureau,-2139
 Department of Commerce,National Oceanic and Atmospheric Administration,-6156
-National Aeronautics and Space Administration,National Aeronautics and Space Administration,-9956
+National Aeronautics and Space Administration,National Aeronautics and Space Administration,-9896
 Department of the Interior,US Fish and Wildlife Service,-30575
-Department of Commerce,Department of Commerce,-42516
+Department of Commerce,Department of Commerce,-42515
