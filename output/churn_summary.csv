@@ -1,5 +1,5 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,111366
+Department of the Interior,Department of the Interior,111374
 Department of the Interior,Fish and Wildlife Service,69259
 Department of the Interior,U.S. Geological Survey,13306
 National Aeronautics and Space Administration,OB.DAAC,5446
@@ -10,7 +10,7 @@ Department of the Interior,Bureau of Land Management,2731
 National Aeronautics and Space Administration,PO.DAAC,2310
 Department of the Interior,OR BLM,1828
 NSGIC Local Govt | GIS Inventory,NSGIC Local Govt | GIS Inventory,1572
-National Aeronautics and Space Administration,ORNL_DAAC,1437
+National Aeronautics and Space Administration,ORNL_DAAC,1475
 National Aeronautics and Space Administration,GHRC,1408
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/GESDISC,1170
 Department of Veterans Affairs,Department of Veterans Affairs,864
@@ -72,8 +72,8 @@ National Aeronautics and Space Administration,Not provided,44
 Department of the Interior,Utah BLM State Office,43
 Cook County of Illinois,Cook County of Illinois,42
 Cook County of Illinois,datacatalog.cookcountyil.gov,42
-Millenium Challenge Corporation,Millenium Challenge Corporation,38
 City of New Orleans,data.nola.gov,38
+Millenium Challenge Corporation,Millenium Challenge Corporation,37
 City of New York,City of New York,36
 Department of Education,Department of Education,36
 Institute of Museum and Library Services,Institute of Museum and Library Services,36
@@ -81,8 +81,8 @@ National Aeronautics and Space Administration,NASA National Snow and Ice Data Ce
 City of New York,data.cityofnewyork.us,36
 Department of the Interior,Bureau of Land Management Idaho State Office Engineering and Geosciences – CMavencamp,35
 NSGIC Education | GIS Inventory,NSGIC Education | GIS Inventory,35
-Millenium Challenge Corporation,Millennium Challenge Corporation,34
 Department of the Interior,Bureau of Land Management Colorado State Office – State Geospatial Lead,33
+Millenium Challenge Corporation,Millennium Challenge Corporation,33
 National Aeronautics and Space Administration,NASA/MSFC/GHRC,33
 Executive Office of the President,Executive Office of the President,32
 Department of Agriculture,Rural Development Department of Agriculture,32
@@ -316,14 +316,14 @@ Municipality of Anchorage,Municipality of Anchorage,-160
 National Aeronautics and Space Administration,,-167
 State of Iowa,State of Iowa,-167
 State of Iowa,data.iowa.gov,-167
-Department of Health and Human Services,Centers for Medicare & Medicaid Services,-192
+Department of Health and Human Services,Centers for Medicare & Medicaid Services,-195
 Department of Energy,Department of Energy,-250
-Department of Health and Human Services,Department of Health and Human Services,-413
+Department of Health and Human Services,Department of Health and Human Services,-416
 Department of Justice,BJS – Bureau of Justice Statistics,-659
 Environmental Protection Agency,Environmental Protection Agency,-938
 Department of Justice,Department of Justice,-1694
 Department of Commerce,US Census Bureau,-2139
-Department of Commerce,National Oceanic and Atmospheric Administration,-6157
-National Aeronautics and Space Administration,National Aeronautics and Space Administration,-9688
+Department of Commerce,National Oceanic and Atmospheric Administration,-6156
+National Aeronautics and Space Administration,National Aeronautics and Space Administration,-9572
 Department of the Interior,US Fish and Wildlife Service,-30575
 Department of Commerce,Department of Commerce,-42515
