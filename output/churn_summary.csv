@@ -1,5 +1,5 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,111374
+Department of the Interior,Department of the Interior,111378
 Department of the Interior,Fish and Wildlife Service,69259
 Department of the Interior,U.S. Geological Survey,13306
 National Aeronautics and Space Administration,OB.DAAC,5446
@@ -10,7 +10,7 @@ Department of the Interior,Bureau of Land Management,2731
 National Aeronautics and Space Administration,PO.DAAC,2310
 Department of the Interior,OR BLM,1828
 NSGIC Local Govt | GIS Inventory,NSGIC Local Govt | GIS Inventory,1572
-National Aeronautics and Space Administration,ORNL_DAAC,1475
+National Aeronautics and Space Administration,ORNL_DAAC,1514
 National Aeronautics and Space Administration,GHRC,1408
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/GESDISC,1170
 Department of Veterans Affairs,Department of Veterans Affairs,864
@@ -324,6 +324,6 @@ Environmental Protection Agency,Environmental Protection Agency,-938
 Department of Justice,Department of Justice,-1694
 Department of Commerce,US Census Bureau,-2139
 Department of Commerce,National Oceanic and Atmospheric Administration,-6156
-National Aeronautics and Space Administration,National Aeronautics and Space Administration,-9572
+National Aeronautics and Space Administration,National Aeronautics and Space Administration,-9449
 Department of the Interior,US Fish and Wildlife Service,-30575
 Department of Commerce,Department of Commerce,-42515
