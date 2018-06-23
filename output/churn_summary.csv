@@ -1,7 +1,7 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,111382
+Department of the Interior,Department of the Interior,111383
 Department of the Interior,Fish and Wildlife Service,69259
-Department of the Interior,U.S. Geological Survey,13306
+Department of the Interior,U.S. Geological Survey,13305
 National Aeronautics and Space Administration,OB.DAAC,5446
 State of California,State of California,4701
 National Aeronautics and Space Administration,Space Technology Mission Directorate,3683
@@ -11,7 +11,7 @@ National Aeronautics and Space Administration,PO.DAAC,2310
 Department of the Interior,OR BLM,1828
 National Aeronautics and Space Administration,ORNL_DAAC,1582
 NSGIC Local Govt | GIS Inventory,NSGIC Local Govt | GIS Inventory,1572
-National Aeronautics and Space Administration,GHRC,1413
+National Aeronautics and Space Administration,GHRC,1455
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/GESDISC,1170
 Department of Veterans Affairs,Department of Veterans Affairs,864
 Department of Agriculture,Department of Agriculture,672
@@ -74,13 +74,13 @@ Cook County of Illinois,Cook County of Illinois,42
 Cook County of Illinois,datacatalog.cookcountyil.gov,42
 City of New Orleans,data.nola.gov,38
 Millenium Challenge Corporation,Millenium Challenge Corporation,37
-City of New York,City of New York,36
 Department of Education,Department of Education,36
 Institute of Museum and Library Services,Institute of Museum and Library Services,36
 National Aeronautics and Space Administration,NASA National Snow and Ice Data Center Distributed Active Archive Center,36
-City of New York,data.cityofnewyork.us,36
 Department of the Interior,Bureau of Land Management Idaho State Office Engineering and Geosciences – CMavencamp,35
 NSGIC Education | GIS Inventory,NSGIC Education | GIS Inventory,35
+City of New York,City of New York,34
+City of New York,data.cityofnewyork.us,34
 Department of the Interior,Bureau of Land Management Colorado State Office – State Geospatial Lead,33
 Millenium Challenge Corporation,Millennium Challenge Corporation,33
 National Aeronautics and Space Administration,NASA/MSFC/GHRC,33
@@ -164,8 +164,6 @@ Department of Veterans Affairs,Office of General Counsel,4
 Department of Commerce,US Patent and Trademark Office Department of Commerce,4
 Department of Transportation,USDOT,4
 City of Baltimore,data.baltimorecity.gov,4
-State of Connecticut,State of Connecticut,3
-State of Connecticut,data.ct.gov,3
 Department of the Interior,BLM Colorado Royal Gorge Field Office,2
 Department of the Interior,BLM Idaho State Office,2
 Department of the Interior,BLM Idaho State Office – CM,2
@@ -248,8 +246,10 @@ Department of Homeland Security,Immigration and Customs Enforcement United State
 Louisville Metro Government,Metro Parks,0
 Department of Education,Office for Civil Rights,0
 Louisville Metro Government,Planning and Design,0
+State of Connecticut,State of Connecticut,0
 Department of Labor,U.S. Department of Labor Office of Public Affairs,0
 Department of Energy,Wright State University,0
+State of Connecticut,data.ct.gov,0
 Department of Homeland Security,Citizenship and Immigration Services United States,-1
 Department of Agriculture,Economic Research Service Department of Agriculture,-1
 Louisville Metro Government,Emergency Management,-1
@@ -297,10 +297,10 @@ National Aeronautics and Space Administration,Office of the Chief Technologist,-
 City of Charlotte,City of Charlotte,-28
 National Aeronautics and Space Administration,Center Independent Research & Development,-31
 National Aeronautics and Space Administration,Human Exploration and Operations Mission Directorate,-34
-State of Maryland,State of Maryland,-39
-State of Maryland,data.maryland.gov,-39
 Department of Justice,NIJ – National Institute of Justice,-48
 Department of Labor,U.S. Department of Labor Bureau of Labor Statistics,-52
+State of Maryland,State of Maryland,-59
+State of Maryland,data.maryland.gov,-59
 National Aeronautics and Space Administration,Science Mission Directorate,-71
 City of Seattle,City of Seattle,-80
 City of Seattle,data.seattle.gov,-80
@@ -324,6 +324,6 @@ Environmental Protection Agency,Environmental Protection Agency,-938
 Department of Justice,Department of Justice,-1694
 Department of Commerce,US Census Bureau,-2139
 Department of Commerce,National Oceanic and Atmospheric Administration,-6156
-National Aeronautics and Space Administration,National Aeronautics and Space Administration,-9208
+National Aeronautics and Space Administration,National Aeronautics and Space Administration,-9166
 Department of the Interior,US Fish and Wildlife Service,-30575
-Department of Commerce,Department of Commerce,-42515
+Department of Commerce,Department of Commerce,-42516
