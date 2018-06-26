@@ -1,5 +1,5 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,111397
+Department of the Interior,Department of the Interior,111400
 Department of the Interior,Fish and Wildlife Service,69259
 Department of the Interior,U.S. Geological Survey,13306
 National Aeronautics and Space Administration,OB.DAAC,5446
@@ -23,7 +23,7 @@ Department of the Interior,BLM Eastern State Office,330
 State of Hawaii,State of Hawaii,309
 State of Hawaii,data.hawaii.gov,309
 Department of the Interior,BLM – Russell Slatton,291
-National Aeronautics and Space Administration,NSIDC,266
+National Aeronautics and Space Administration,NSIDC,267
 Department of the Interior,Bureau of Land Management – Eric Hiebenthal,258
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/OB.DAAC,228
 Vermont Center for Geographic Information,VT Center for Geographic Information,224
@@ -42,6 +42,7 @@ General Services Administration,General Services Administration,115
 Department of Homeland Security,Under Secretary / Management,112
 City of Bloomington,City of Bloomington,108
 NSGIC Private | GIS Inventory,NSGIC Private | GIS Inventory,101
+National Aeronautics and Space Administration,OBPG,100
 Department of the Interior,Bureau of Ocean Energy Management,83
 Louisville Metro Government,Louisville Metro Government,77
 Department of the Interior,BLM Utah State Office,75
@@ -53,12 +54,11 @@ State of Oregon,data.oregon.gov,69
 State of Washington,State of Washington,66
 Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,64
 NSGIC State | GIS Inventory,NSGIC State | GIS Inventory,63
-National Aeronautics and Space Administration,OBPG,63
 Department of Homeland Security,Coast Guard United States,62
 Social Security Administration,Social Security Administration,62
 Louisville Metro Government,data.louisvilleky.gov,60
 Federal Laboratory Consortium,Federal Laboratory Consortium,58
-City of New Orleans,City of New Orleans,52
+City of New Orleans,City of New Orleans,48
 Department of Energy,Energy and Geoscience Institute at the University of Utah,48
 Montgomery County of Maryland,Montgomery County of Maryland,48
 Montgomery County of Maryland,data.montgomerycountymd.gov,48
@@ -72,7 +72,6 @@ National Aeronautics and Space Administration,Not provided,44
 Department of the Interior,Utah BLM State Office,43
 Cook County of Illinois,Cook County of Illinois,42
 Cook County of Illinois,datacatalog.cookcountyil.gov,42
-City of New Orleans,data.nola.gov,38
 Millenium Challenge Corporation,Millenium Challenge Corporation,37
 Department of Education,Department of Education,36
 Institute of Museum and Library Services,Institute of Museum and Library Services,36
@@ -81,6 +80,7 @@ Department of the Interior,Bureau of Land Management Idaho State Office Engineer
 NSGIC Education | GIS Inventory,NSGIC Education | GIS Inventory,35
 City of New York,City of New York,34
 City of New York,data.cityofnewyork.us,34
+City of New Orleans,data.nola.gov,34
 Department of the Interior,Bureau of Land Management Colorado State Office – State Geospatial Lead,33
 Millenium Challenge Corporation,Millennium Challenge Corporation,33
 National Aeronautics and Space Administration,NASA/MSFC/GHRC,33
@@ -324,6 +324,6 @@ Environmental Protection Agency,Environmental Protection Agency,-938
 Department of Justice,Department of Justice,-1694
 Department of Commerce,US Census Bureau,-2139
 Department of Commerce,National Oceanic and Atmospheric Administration,-6156
-National Aeronautics and Space Administration,National Aeronautics and Space Administration,-8900
+National Aeronautics and Space Administration,National Aeronautics and Space Administration,-8858
 Department of the Interior,US Fish and Wildlife Service,-30575
 Department of Commerce,Department of Commerce,-42515
