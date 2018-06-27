@@ -5,17 +5,17 @@ Department of the Interior,U.S. Geological Survey,13306
 National Aeronautics and Space Administration,OB.DAAC,5446
 State of California,State of California,4701
 National Aeronautics and Space Administration,Space Technology Mission Directorate,3683
-National Aeronautics and Space Administration,GESDISC,3308
+National Aeronautics and Space Administration,GESDISC,3309
 Department of the Interior,Bureau of Land Management,2731
 National Aeronautics and Space Administration,PO.DAAC,2310
 Department of the Interior,OR BLM,1830
-National Aeronautics and Space Administration,ORNL_DAAC,1587
+National Aeronautics and Space Administration,ORNL_DAAC,1598
 NSGIC Local Govt | GIS Inventory,NSGIC Local Govt | GIS Inventory,1572
 National Aeronautics and Space Administration,GHRC,1501
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/GESDISC,1170
 Department of Veterans Affairs,Department of Veterans Affairs,864
 Department of Agriculture,Department of Agriculture,672
-National Aeronautics and Space Administration,SEDAC,529
+National Aeronautics and Space Administration,SEDAC,533
 Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),492
 Department of Agriculture,USDA NAL,393
 Department of the Interior,National Park Service,335
@@ -23,7 +23,7 @@ Department of the Interior,BLM Eastern State Office,330
 State of Hawaii,State of Hawaii,309
 State of Hawaii,data.hawaii.gov,309
 Department of the Interior,BLM – Russell Slatton,291
-National Aeronautics and Space Administration,NSIDC,267
+National Aeronautics and Space Administration,NSIDC,270
 Department of the Interior,Bureau of Land Management – Eric Hiebenthal,258
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/OB.DAAC,228
 Vermont Center for Geographic Information,VT Center for Geographic Information,224
@@ -151,6 +151,7 @@ Department of Energy,Southern Research Institute,5
 Department of Commerce,US Census Bureau US Department of Commerce,5
 Department of Energy,University of Wyoming,5
 City of Los Angeles,data.lacity.org,5
+National Aeronautics and Space Administration,ASF,4
 Department of the Interior,Arizona State Office Bureau of Land Management – GIS Manager,4
 Department of the Interior,BLM Moab Field Office,4
 Department of the Interior,BLM – Roger Blouch,4
@@ -261,7 +262,6 @@ National Aeronautics and Space Administration,Office of the Chief Information Of
 Small Business Administration,Small Business Administration,-1
 Department of Energy,Tusaar Corp.,-1
 Environmental Protection Agency,U.S. EPA Office of Environmental Information (OEI),-1
-National Aeronautics and Space Administration,ASF,-2
 Department of the Treasury,Bureau of the Fiscal Service,-2
 National Aeronautics and Space Administration,CDDIS,-2
 National Aeronautics and Space Administration,LPDAAC,-2
@@ -324,6 +324,6 @@ Environmental Protection Agency,Environmental Protection Agency,-938
 Department of Justice,Department of Justice,-1694
 Department of Commerce,US Census Bureau,-2139
 Department of Commerce,National Oceanic and Atmospheric Administration,-6156
-National Aeronautics and Space Administration,National Aeronautics and Space Administration,-8858
+National Aeronautics and Space Administration,National Aeronautics and Space Administration,-8767
 Department of the Interior,US Fish and Wildlife Service,-30575
 Department of Commerce,Department of Commerce,-42515
