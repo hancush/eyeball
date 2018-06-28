@@ -1,5 +1,5 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,111400
+Department of the Interior,Department of the Interior,111402
 Department of the Interior,Fish and Wildlife Service,69259
 Department of the Interior,U.S. Geological Survey,13306
 National Aeronautics and Space Administration,OB.DAAC,5446
@@ -9,13 +9,13 @@ National Aeronautics and Space Administration,GESDISC,3309
 Department of the Interior,Bureau of Land Management,2731
 National Aeronautics and Space Administration,PO.DAAC,2310
 Department of the Interior,OR BLM,1830
-National Aeronautics and Space Administration,ORNL_DAAC,1598
+National Aeronautics and Space Administration,ORNL_DAAC,1606
 NSGIC Local Govt | GIS Inventory,NSGIC Local Govt | GIS Inventory,1572
 National Aeronautics and Space Administration,GHRC,1501
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/GESDISC,1170
 Department of Veterans Affairs,Department of Veterans Affairs,864
 Department of Agriculture,Department of Agriculture,672
-National Aeronautics and Space Administration,SEDAC,533
+National Aeronautics and Space Administration,SEDAC,536
 Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),492
 Department of Agriculture,USDA NAL,393
 Department of the Interior,National Park Service,335
@@ -23,7 +23,7 @@ Department of the Interior,BLM Eastern State Office,330
 State of Hawaii,State of Hawaii,309
 State of Hawaii,data.hawaii.gov,309
 Department of the Interior,BLM – Russell Slatton,291
-National Aeronautics and Space Administration,NSIDC,270
+National Aeronautics and Space Administration,NSIDC,271
 Department of the Interior,Bureau of Land Management – Eric Hiebenthal,258
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/OB.DAAC,228
 Vermont Center for Geographic Information,VT Center for Geographic Information,224
@@ -324,6 +324,6 @@ Environmental Protection Agency,Environmental Protection Agency,-938
 Department of Justice,Department of Justice,-1694
 Department of Commerce,US Census Bureau,-2139
 Department of Commerce,National Oceanic and Atmospheric Administration,-6156
-National Aeronautics and Space Administration,National Aeronautics and Space Administration,-8767
+National Aeronautics and Space Administration,National Aeronautics and Space Administration,-8650
 Department of the Interior,US Fish and Wildlife Service,-30575
 Department of Commerce,Department of Commerce,-42515
