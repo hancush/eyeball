@@ -1,5 +1,5 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,111412
+Department of the Interior,Department of the Interior,111414
 Department of the Interior,Fish and Wildlife Service,69259
 Department of the Interior,U.S. Geological Survey,13306
 National Aeronautics and Space Administration,OB.DAAC,5446
@@ -9,13 +9,13 @@ National Aeronautics and Space Administration,GESDISC,3322
 Department of the Interior,Bureau of Land Management,2731
 National Aeronautics and Space Administration,PO.DAAC,2405
 Department of the Interior,OR BLM,1830
-National Aeronautics and Space Administration,ORNL_DAAC,1624
+National Aeronautics and Space Administration,ORNL_DAAC,1627
 NSGIC Local Govt | GIS Inventory,NSGIC Local Govt | GIS Inventory,1572
 National Aeronautics and Space Administration,GHRC,1501
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/GESDISC,1170
 Department of Veterans Affairs,Department of Veterans Affairs,864
 Department of Agriculture,Department of Agriculture,672
-National Aeronautics and Space Administration,SEDAC,589
+National Aeronautics and Space Administration,SEDAC,601
 Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),492
 Department of Agriculture,USDA NAL,393
 Department of the Interior,National Park Service,335
@@ -258,8 +258,10 @@ Department of Energy,Energy & Geoscience Institute at the University of Utah,-1
 State of North Dakota,Game and Fish Department,-1
 Louisville Metro Government,Metro Police,-1
 Executive Office of the President,Networking and Information Technology Research and Development,-1
+State of Oklahoma,Office of Management and Enterprise Services,-1
 National Aeronautics and Space Administration,Office of the Chief Information Officer,-1
 Small Business Administration,Small Business Administration,-1
+State of Oklahoma,State of Oklahoma,-1
 Department of Energy,Tusaar Corp.,-1
 Environmental Protection Agency,U.S. EPA Office of Environmental Information (OEI),-1
 Department of the Treasury,Bureau of the Fiscal Service,-2
@@ -324,6 +326,6 @@ Environmental Protection Agency,Environmental Protection Agency,-938
 Department of Justice,Department of Justice,-1694
 Department of Commerce,US Census Bureau,-2139
 Department of Commerce,National Oceanic and Atmospheric Administration,-6156
-National Aeronautics and Space Administration,National Aeronautics and Space Administration,-8390
+National Aeronautics and Space Administration,National Aeronautics and Space Administration,-8357
 Department of the Interior,US Fish and Wildlife Service,-30575
 Department of Commerce,Department of Commerce,-42515
