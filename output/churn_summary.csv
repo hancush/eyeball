@@ -5,17 +5,17 @@ Department of the Interior,U.S. Geological Survey,13306
 National Aeronautics and Space Administration,OB.DAAC,5446
 State of California,State of California,4701
 National Aeronautics and Space Administration,Space Technology Mission Directorate,3683
-National Aeronautics and Space Administration,GESDISC,3322
+National Aeronautics and Space Administration,GESDISC,3340
 Department of the Interior,Bureau of Land Management,2731
 National Aeronautics and Space Administration,PO.DAAC,2405
 Department of the Interior,OR BLM,1830
-National Aeronautics and Space Administration,ORNL_DAAC,1627
+National Aeronautics and Space Administration,ORNL_DAAC,1629
 NSGIC Local Govt | GIS Inventory,NSGIC Local Govt | GIS Inventory,1572
-National Aeronautics and Space Administration,GHRC,1501
+National Aeronautics and Space Administration,GHRC,1557
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/GESDISC,1170
 Department of Veterans Affairs,Department of Veterans Affairs,864
 Department of Agriculture,Department of Agriculture,672
-National Aeronautics and Space Administration,SEDAC,601
+National Aeronautics and Space Administration,SEDAC,608
 Environmental Protection Agency,U.S. EPA Office of Research and Development (ORD),492
 Department of Agriculture,USDA NAL,393
 Department of the Interior,National Park Service,335
@@ -246,8 +246,10 @@ Louisville Metro Government,Health & Wellness,0
 Department of Homeland Security,Immigration and Customs Enforcement United States,0
 Louisville Metro Government,Metro Parks,0
 Department of Education,Office for Civil Rights,0
+State of Oklahoma,Office of Management and Enterprise Services,0
 Louisville Metro Government,Planning and Design,0
 State of Connecticut,State of Connecticut,0
+State of Oklahoma,State of Oklahoma,0
 Department of Labor,U.S. Department of Labor Office of Public Affairs,0
 Department of Energy,Wright State University,0
 State of Connecticut,data.ct.gov,0
@@ -258,10 +260,8 @@ Department of Energy,Energy & Geoscience Institute at the University of Utah,-1
 State of North Dakota,Game and Fish Department,-1
 Louisville Metro Government,Metro Police,-1
 Executive Office of the President,Networking and Information Technology Research and Development,-1
-State of Oklahoma,Office of Management and Enterprise Services,-1
 National Aeronautics and Space Administration,Office of the Chief Information Officer,-1
 Small Business Administration,Small Business Administration,-1
-State of Oklahoma,State of Oklahoma,-1
 Department of Energy,Tusaar Corp.,-1
 Environmental Protection Agency,U.S. EPA Office of Environmental Information (OEI),-1
 Department of the Treasury,Bureau of the Fiscal Service,-2
@@ -326,6 +326,6 @@ Environmental Protection Agency,Environmental Protection Agency,-938
 Department of Justice,Department of Justice,-1694
 Department of Commerce,US Census Bureau,-2139
 Department of Commerce,National Oceanic and Atmospheric Administration,-6156
-National Aeronautics and Space Administration,National Aeronautics and Space Administration,-8357
+National Aeronautics and Space Administration,National Aeronautics and Space Administration,-8264
 Department of the Interior,US Fish and Wildlife Service,-30575
 Department of Commerce,Department of Commerce,-42515
