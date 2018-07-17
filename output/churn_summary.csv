@@ -1,5 +1,5 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,111424
+Department of the Interior,Department of the Interior,111430
 Department of the Interior,Fish and Wildlife Service,69259
 Department of the Interior,U.S. Geological Survey,13306
 National Aeronautics and Space Administration,OB.DAAC,5446
@@ -269,9 +269,9 @@ Department of the Treasury,Bureau of the Fiscal Service,-2
 National Aeronautics and Space Administration,CDDIS,-2
 National Aeronautics and Space Administration,LPDAAC,-2
 National Science Foundation,National Science Foundation,-2
+Department of Health and Human Services,Substance Abuse & Mental Health Services Administration,-2
 National Aeronautics and Space Administration,Aeronautics Research Mission Directorate,-3
 Louisville Metro Government,Codes & Regulations,-3
-Department of Health and Human Services,Department of Health & Human Services,-3
 State of New York,State of New York,-3
 Small Business Administration,U.S. Small Business Administration,-3
 Department of Agriculture,Farm Service Agency,-4
@@ -285,6 +285,7 @@ City of Boise,City of Boise Idaho,-6
 City of Sioux Falls,City of Sioux Falls GIS,-6
 Department of the Interior,Federal Geographic Data Committee,-6
 City of Sioux Falls,City of Sioux Falls,-7
+Department of Health and Human Services,Department of Health & Human Services,-7
 Department of Commerce,International Trade Administration Department of Commerce,-8
 National Aeronautics and Space Administration,NASA/LARC/SD/ASDC,-8
 City of Honolulu,City of Honolulu,-9
@@ -319,9 +320,9 @@ Municipality of Anchorage,Municipality of Anchorage,-160
 National Aeronautics and Space Administration,,-167
 State of Iowa,State of Iowa,-167
 State of Iowa,data.iowa.gov,-167
-Department of Health and Human Services,Centers for Medicare & Medicaid Services,-195
+Department of Health and Human Services,Centers for Medicare & Medicaid Services,-209
 Department of Energy,Department of Energy,-250
-Department of Health and Human Services,Department of Health and Human Services,-416
+Department of Health and Human Services,Department of Health and Human Services,-436
 Department of Justice,BJS – Bureau of Justice Statistics,-659
 Environmental Protection Agency,Environmental Protection Agency,-938
 Department of Justice,Department of Justice,-1694
