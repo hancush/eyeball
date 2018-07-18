@@ -1,5 +1,5 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,111430
+Department of the Interior,Department of the Interior,111432
 Department of the Interior,Fish and Wildlife Service,69259
 Department of the Interior,U.S. Geological Survey,13306
 National Aeronautics and Space Administration,OB.DAAC,5446
@@ -49,8 +49,8 @@ Department of the Interior,BLM Utah State Office,75
 State of Washington,data.wa.gov,72
 Department of the Interior,BLM Colorado State Office,71
 Department of Agriculture,NRCS,71
-State of Oregon,State of Oregon,67
-State of Oregon,data.oregon.gov,67
+State of Oregon,State of Oregon,66
+State of Oregon,data.oregon.gov,66
 State of Washington,State of Washington,65
 Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,64
 NSGIC State | GIS Inventory,NSGIC State | GIS Inventory,63
@@ -58,7 +58,6 @@ Department of Homeland Security,Coast Guard United States,62
 Social Security Administration,Social Security Administration,62
 Louisville Metro Government,data.louisvilleky.gov,60
 Federal Laboratory Consortium,Federal Laboratory Consortium,58
-City of New Orleans,City of New Orleans,48
 Department of Energy,Energy and Geoscience Institute at the University of Utah,48
 Montgomery County of Maryland,Montgomery County of Maryland,48
 Montgomery County of Maryland,data.montgomerycountymd.gov,48
@@ -73,12 +72,12 @@ Department of the Interior,Utah BLM State Office,43
 Cook County of Illinois,Cook County of Illinois,42
 Cook County of Illinois,datacatalog.cookcountyil.gov,42
 Millenium Challenge Corporation,Millenium Challenge Corporation,37
+City of New Orleans,City of New Orleans,36
 Department of Education,Department of Education,36
 Institute of Museum and Library Services,Institute of Museum and Library Services,36
 National Aeronautics and Space Administration,NASA National Snow and Ice Data Center Distributed Active Archive Center,36
 Department of the Interior,Bureau of Land Management Idaho State Office Engineering and Geosciences – CMavencamp,35
 NSGIC Education | GIS Inventory,NSGIC Education | GIS Inventory,35
-City of New Orleans,data.nola.gov,34
 Department of the Interior,Bureau of Land Management Colorado State Office – State Geospatial Lead,33
 Millenium Challenge Corporation,Millennium Challenge Corporation,33
 National Aeronautics and Space Administration,NASA/MSFC/GHRC,33
@@ -100,6 +99,7 @@ Department of Commerce,US Census Bureau Department of Commerce,24
 Department of Energy,University of Wisconsin,24
 Department of Energy,Sandia National Laboratories,23
 Department of Homeland Security,U.S. Customs and Border Protection,23
+City of New Orleans,data.nola.gov,22
 City of Santa Rosa,City of Santa Rosa,21
 US Agency for International Development,US Agency for International Development,21
 US Agency for International Development,USAID,21
@@ -114,8 +114,8 @@ State of Missouri,data.mo.gov,17
 Department of the Interior,BLM National Operations Center OC530 – NOC Data Management Lead,16
 Department of Energy,National Energy Technology Laboratory,16
 OpenTopography,OpenTopography,16
-Department of Energy,Atmospheric Radiation Measurement Data Center,15
 US Equal Employment Opportunity Commission,US Equal Employment Opportunity Commision,15
+Department of Energy,Atmospheric Radiation Measurement Data Center,14
 Federal Communications Commission,Federal Communications Commission,14
 Department of Homeland Security,Federal Emergency Management Agency,12
 Environmental Protection Agency,U.S. Environmental Protection Agency,12
@@ -318,10 +318,10 @@ Department of Justice,DEA – Drug Enforcement Administration,-149
 Department of Energy,National Renewable Energy Laboratory,-149
 Municipality of Anchorage,Municipality of Anchorage,-160
 National Aeronautics and Space Administration,,-167
-State of Iowa,State of Iowa,-167
-State of Iowa,data.iowa.gov,-167
+State of Iowa,State of Iowa,-168
+State of Iowa,data.iowa.gov,-168
 Department of Health and Human Services,Centers for Medicare & Medicaid Services,-209
-Department of Energy,Department of Energy,-250
+Department of Energy,Department of Energy,-251
 Department of Health and Human Services,Department of Health and Human Services,-436
 Department of Justice,BJS – Bureau of Justice Statistics,-659
 Environmental Protection Agency,Environmental Protection Agency,-938
