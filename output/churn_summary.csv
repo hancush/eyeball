@@ -1,5 +1,5 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,111447
+Department of the Interior,Department of the Interior,111460
 Department of the Interior,Fish and Wildlife Service,69260
 Department of the Interior,U.S. Geological Survey,13306
 National Aeronautics and Space Administration,OB.DAAC,5446
@@ -22,12 +22,12 @@ Department of the Interior,National Park Service,335
 Department of the Interior,BLM Eastern State Office,330
 State of Hawaii,State of Hawaii,309
 State of Hawaii,data.hawaii.gov,309
-Department of the Interior,BLM – Russell Slatton,291
+Department of the Interior,BLM – Russell Slatton,292
 National Aeronautics and Space Administration,NSIDC,287
 Department of the Interior,Bureau of Land Management – Eric Hiebenthal,258
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/OB.DAAC,228
 Vermont Center for Geographic Information,VT Center for Geographic Information,224
-Vermont Center for Geographic Information,Vermont Center for Geographic Information,223
+Vermont Center for Geographic Information,Vermont Center for Geographic Information,224
 Department of Homeland Security,Department of Homeland Security,218
 NSGIC Regional | GIS Inventory,NSGIC Regional | GIS Inventory,216
 Department of the Interior,Climate Science Centers,208
@@ -327,7 +327,7 @@ Department of Justice,BJS – Bureau of Justice Statistics,-659
 Environmental Protection Agency,Environmental Protection Agency,-938
 Department of Justice,Department of Justice,-1694
 Department of Commerce,US Census Bureau,-2139
-Department of Commerce,National Oceanic and Atmospheric Administration,-6157
+Department of Commerce,National Oceanic and Atmospheric Administration,-6156
 National Aeronautics and Space Administration,National Aeronautics and Space Administration,-7492
 Department of the Interior,US Fish and Wildlife Service,-30575
 Department of Commerce,Department of Commerce,-42515
