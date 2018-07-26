@@ -1,5 +1,5 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,111460
+Department of the Interior,Department of the Interior,111466
 Department of the Interior,Fish and Wildlife Service,69260
 Department of the Interior,U.S. Geological Survey,13306
 National Aeronautics and Space Administration,OB.DAAC,5446
@@ -28,7 +28,7 @@ Department of the Interior,Bureau of Land Management – Eric Hiebenthal,258
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GCDC/OB.DAAC,228
 Vermont Center for Geographic Information,VT Center for Geographic Information,224
 Vermont Center for Geographic Information,Vermont Center for Geographic Information,224
-Department of Homeland Security,Department of Homeland Security,218
+Department of Homeland Security,Department of Homeland Security,217
 NSGIC Regional | GIS Inventory,NSGIC Regional | GIS Inventory,216
 Department of the Interior,Climate Science Centers,208
 National Aeronautics and Space Administration,LAADS,176
@@ -49,9 +49,9 @@ Department of the Interior,BLM Utah State Office,75
 State of Washington,data.wa.gov,72
 Department of the Interior,BLM Colorado State Office,71
 Department of Agriculture,NRCS,71
-State of Oregon,State of Oregon,66
-State of Oregon,data.oregon.gov,66
+State of Oregon,State of Oregon,65
 State of Washington,State of Washington,65
+State of Oregon,data.oregon.gov,65
 Department of the Interior,U.S. Department of the Interior (DOI) Bureau of Land Management (BLM) Idaho State Office,64
 NSGIC State | GIS Inventory,NSGIC State | GIS Inventory,63
 Department of Homeland Security,Coast Guard United States,62
@@ -91,10 +91,10 @@ Department of the Interior,BLM,29
 State of New York,data.ny.gov,29
 Department of Agriculture,Farm Service Agency Department of Agriculture,28
 Department of Agriculture,U.S. Forest Service,28
+City of Chicago,City of Chicago,27
+City of Chicago,data.cityofchicago.org,27
 Department of the Interior,Bureau of Land Management Oregon State Office – Eric Hiebenthal,26
 Department of the Interior,Bureau of Land Management – New Mexico State Office – GIS Manager,26
-City of Chicago,City of Chicago,26
-City of Chicago,data.cityofchicago.org,26
 Department of Commerce,US Census Bureau Department of Commerce,24
 Department of Energy,University of Wisconsin,24
 Department of Energy,Sandia National Laboratories,23
@@ -146,18 +146,17 @@ Department of Energy,University of Washington,6
 Department of the Interior,Bureau of Land Management Arizona State Office – Brandon Colvin,5
 Department of the Interior,Bureau of Land Management – New Mexico State Office – State GIS Manager,5
 Department of the Interior,COSO,5
-City of Los Angeles,City of Los Angeles,5
 Department of the Interior,OR,5
 Department of Energy,Southern Research Institute,5
 Department of Commerce,US Census Bureau US Department of Commerce,5
 Department of Energy,University of Wyoming,5
-City of Los Angeles,data.lacity.org,5
 Department of the Interior,Arizona State Office Bureau of Land Management – GIS Manager,4
 Department of the Interior,BLM Moab Field Office,4
 Department of the Interior,BLM – Roger Blouch,4
 Department of the Interior,Bureau of Land Management Arizona State Office – GIS Manager,4
 Department of the Interior,Bureau of Safety and Environmental Enforcement (BSEE),4
 City of Baltimore,City of Baltimore,4
+City of Los Angeles,City of Los Angeles,4
 City of Providence,City of Providence,4
 Department of Energy,Lawrence Berkeley National Laboratory,4
 National Aeronautics and Space Administration,NASA/GSFC/SED/ESD/GGL/CDDIS,4
@@ -165,6 +164,7 @@ Department of Veterans Affairs,Office of General Counsel,4
 Department of Commerce,US Patent and Trademark Office Department of Commerce,4
 Department of Transportation,USDOT,4
 City of Baltimore,data.baltimorecity.gov,4
+City of Los Angeles,data.lacity.org,4
 Department of the Interior,BLM Colorado Royal Gorge Field Office,2
 Department of the Interior,BLM Idaho State Office,2
 Department of the Interior,BLM Idaho State Office – CM,2
