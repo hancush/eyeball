@@ -1,7 +1,7 @@
 parent_agency,subagency,net_difference
-Department of the Interior,Department of the Interior,111465
+Department of the Interior,Department of the Interior,111477
 Department of the Interior,Fish and Wildlife Service,69260
-Department of the Interior,U.S. Geological Survey,13305
+Department of the Interior,U.S. Geological Survey,13306
 National Aeronautics and Space Administration,OB.DAAC,5446
 State of California,State of California,4701
 National Aeronautics and Space Administration,Space Technology Mission Directorate,3683
@@ -33,7 +33,7 @@ NSGIC Regional | GIS Inventory,NSGIC Regional | GIS Inventory,216
 Department of the Interior,Climate Science Centers,208
 National Aeronautics and Space Administration,LAADS,176
 Department of the Interior,U.S. Fish and Wildlife Service,161
-Department of the Interior,BLM Colorado – State Geospatial Lead,147
+Department of the Interior,BLM Colorado – State Geospatial Lead,148
 Department of Commerce,National Institute of Standards and Technology,137
 Department of Defense,Department of Defense,130
 Allegheny County / City of Pittsburgh / Western PA Regional Data Center,Allegheny County / City of Pittsburgh / Western PA Regional Data Center,126
@@ -330,4 +330,4 @@ Department of Commerce,US Census Bureau,-2139
 Department of Commerce,National Oceanic and Atmospheric Administration,-6156
 National Aeronautics and Space Administration,National Aeronautics and Space Administration,-7492
 Department of the Interior,US Fish and Wildlife Service,-30575
-Department of Commerce,Department of Commerce,-42515
+Department of Commerce,Department of Commerce,-42516
